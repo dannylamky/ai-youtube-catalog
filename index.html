@@ -22,7 +22,9 @@ h1 { font-size:1.75rem; margin:0 0 8px; }
 .channel h2 .handle { font-weight:500; color:var(--muted); font-size:1rem; }
 .ch-url { color:var(--muted); font-size:0.9rem; margin:0 0 14px; }
 .ch-url a { color:var(--link); }
-.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:16px; }
+.grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:16px; }
+@media (max-width: 900px) { .grid { grid-template-columns:repeat(2, 1fr); } }
+@media (max-width: 560px) { .grid { grid-template-columns:1fr; } body { padding:16px; } }
 .card { background:var(--card); border:1px solid var(--border); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }
 .card.hidden { display:none; }
 .card a.thumb { display:block; aspect-ratio:16/9; background:#000; }
