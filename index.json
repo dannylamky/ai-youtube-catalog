@@ -164,16 +164,6 @@
     "channel_url": "https://www.youtube.com/@yologuy",
     "videos": [
       {
-        "title": "【會員優先】Anthropic上市招股書曝光：大蝕八百億定賺大錢？拆解六千億循環融資與五重股權迷宮 | YOLO街",
-        "published": "2026-10-31T02:08:16+00:00",
-        "url": "https://www.youtube.com/watch?v=iuPO5rxiuUc",
-        "topic": "AI industry / Anthropic IPO",
-        "thumbnail_maxres": "https://i.ytimg.com/vi/iuPO5rxiuUc/maxresdefault.jpg",
-        "thumbnail_hq": "https://i.ytimg.com/vi/iuPO5rxiuUc/hqdefault.jpg",
-        "local_thumb": "/workspace/youtube-thumbs/yologuy/iuPO5rxiuUc.jpg",
-        "video_id": "iuPO5rxiuUc"
-      },
-      {
         "title": "巴黎名店LV 家族出局始末：75歲掌門人錯信「白武士」，親手簽錯一張紙，如何令百年江山變天？ | YOLO街  #lvmh",
         "published": "2026-10-31T06:37:35+00:00",
         "url": "https://www.youtube.com/watch?v=AGjc6nXPiNE",
@@ -182,6 +172,16 @@
         "thumbnail_hq": "https://i.ytimg.com/vi/AGjc6nXPiNE/hqdefault.jpg",
         "local_thumb": "/workspace/youtube-thumbs/yologuy/AGjc6nXPiNE.jpg",
         "video_id": "AGjc6nXPiNE"
+      },
+      {
+        "title": "【會員優先】Anthropic上市招股書曝光：大蝕八百億定賺大錢？拆解六千億循環融資與五重股權迷宮 | YOLO街",
+        "published": "2026-10-31T02:08:16+00:00",
+        "url": "https://www.youtube.com/watch?v=iuPO5rxiuUc",
+        "topic": "AI industry / Anthropic IPO",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iuPO5rxiuUc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iuPO5rxiuUc/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/yologuy/iuPO5rxiuUc.jpg",
+        "video_id": "iuPO5rxiuUc"
       },
       {
         "title": "點解一場保密兩個月嘅修補行動，會搞到全球政府同大網站連夜熄機保命？ 人類以為無可能攻破嘅漏洞，點解俾AI幾日就撬開？一文睇清10月PHP風暴、保密連環洩密烏龍同150萬部主機技術債危機｜Yolo 街",
@@ -993,6 +993,26 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "「這個『時』是什麼？時數！」孔子本人坐在台下，眉毛一路往上爬",
+        "published": "2026-11-02T10:04:25+00:00",
+        "url": "https://www.youtube.com/watch?v=AwlnDDHIhNY",
+        "topic": "Education / philosophy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AwlnDDHIhNY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AwlnDDHIhNY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AwlnDDHIhNY"
+      },
+      {
+        "title": "瑜亮之戰｜赤壁的輸家當裁判！周瑜 vs 諸葛亮 饒舌對決",
+        "published": "2026-11-02T09:24:02+00:00",
+        "url": "https://www.youtube.com/watch?v=VCIqYaq7XyM",
+        "topic": "Education / philosophy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VCIqYaq7XyM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VCIqYaq7XyM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VCIqYaq7XyM"
+      },
       {
         "title": "最新世代 AI Agent bot，一次搞懂基本原理",
         "published": "2026-11-01T16:41:32+00:00",
