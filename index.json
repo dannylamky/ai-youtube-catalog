@@ -490,6 +490,16 @@
     "channel_url": "https://www.youtube.com/@ompshek",
     "videos": [
       {
+        "title": "你敢把信用卡交給 AI 嗎？| Muse、Grok Bot 幫你付款，背後多了一個收費站",
+        "published": "2026-11-02T11:28:31+00:00",
+        "url": "https://www.youtube.com/watch?v=L5V0_PxfHRc",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/L5V0_PxfHRc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/L5V0_PxfHRc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "L5V0_PxfHRc"
+      },
+      {
         "title": "第一次 Claude Sonnet 自己做腦手術 | 自己選藥、自己落針都由 AI 決定",
         "published": "2026-11-01T13:45:31+00:00",
         "url": "https://www.youtube.com/watch?v=WdAs4jy3_XU",
@@ -666,6 +676,16 @@
         "thumbnail_hq": "https://i.ytimg.com/vi/Xb5embc-Wto/hqdefault.jpg",
         "local_thumb": "/workspace/youtube-thumbs/kellytsaii/Xb5embc-Wto.jpg",
         "video_id": "Xb5embc-Wto"
+      },
+      {
+        "title": "大家都靠AI來做事，那人會變笨嗎？｜Kelly Tsai",
+        "published": "2026-11-01T10:35:28+00:00",
+        "url": "https://www.youtube.com/watch?v=qp8vfusIfmM",
+        "topic": "Lifestyle / personal",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qp8vfusIfmM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qp8vfusIfmM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qp8vfusIfmM"
       },
       {
         "title": "張修修停更五個月去哪了？曾經裸辭聯發科去環遊世界、又經歷創業失敗歸零，現在決定all in AI？｜What's Next? EP18 ft. 張修修｜Kelly Tsai",
