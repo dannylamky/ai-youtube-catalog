@@ -15,22 +15,23 @@ h1 { font-size:1.75rem; margin:0 0 8px; }
 .chip { appearance:none; border:1px solid var(--border); background:var(--chip); color:var(--text); padding:6px 12px; border-radius:999px; font-size:0.9rem; cursor:pointer; }
 .chip:hover { border-color:var(--link); }
 .chip.active { background:var(--chip-on); border-color:var(--link); color:#fff; }
-.channel { margin-bottom:40px; }
+.pair-row { display:grid; grid-template-columns:1fr 1fr; gap:28px 24px; margin-bottom:36px; align-items:start; }
+@media (max-width: 900px) { .pair-row { grid-template-columns:1fr; } }
+.channel { margin-bottom:0; min-width:0; }
 .channel.hidden { display:none; }
-.channel-head { display:flex; flex-wrap:wrap; align-items:baseline; gap:10px 16px; border-bottom:2px solid var(--accent); padding-bottom:8px; margin-bottom:6px; }
-.channel h2 { font-size:1.35rem; margin:0; }
-.channel h2 .handle { font-weight:500; color:var(--muted); font-size:1rem; }
-.ch-url { color:var(--muted); font-size:0.9rem; margin:0 0 14px; }
+.channel-head { display:flex; flex-wrap:wrap; align-items:baseline; gap:8px 12px; border-bottom:2px solid var(--accent); padding-bottom:8px; margin-bottom:6px; }
+.channel h2 { font-size:1.15rem; margin:0; }
+.channel h2 .handle { font-weight:500; color:var(--muted); font-size:0.92rem; }
+.ch-url { color:var(--muted); font-size:0.82rem; margin:0 0 10px; }
 .ch-url a { color:var(--link); }
-.grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:16px; justify-items:center; }
-@media (max-width: 900px) { .grid { grid-template-columns:repeat(2, 1fr); } }
-@media (max-width: 560px) { .grid { grid-template-columns:1fr; } body { padding:16px; } }
-.card { width:70%; max-width:100%; background:var(--card); border:1px solid var(--border); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }
+.grid { display:grid; grid-template-columns:repeat(3, 1fr); gap:10px; justify-items:stretch; }
+@media (max-width: 560px) { .grid { grid-template-columns:repeat(3, 1fr); gap:6px; } body { padding:16px; } }
+.card { width:100%; max-width:100%; background:var(--card); border:1px solid var(--border); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; }
 .card.hidden { display:none; }
 .card a.thumb { display:block; aspect-ratio:16/9; background:#000; }
 .card img { width:100%; height:100%; object-fit:cover; display:block; }
-.card .body { padding:12px 14px 16px; display:flex; flex-direction:column; gap:6px; flex:1; }
-.card .title { color:var(--text); text-decoration:none; font-weight:600; font-size:0.98rem; }
+.card .body { padding:8px 10px 12px; display:flex; flex-direction:column; gap:4px; flex:1; }
+.card .title { color:var(--text); text-decoration:none; font-weight:600; font-size:0.82rem; line-height:1.35; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
 .card .title:hover { color:var(--link); }
 .card .date { color:var(--muted); font-size:0.82rem; }
 .card .topic { color:#c5d0de; font-size:0.85rem; }
@@ -69,7 +70,8 @@ footer { color:var(--muted); font-size:0.85rem; margin-top:24px; border-top:1px 
     } catch (e) { return iso || ''; }
   }
 
-  let selected = new Set(channels.map(c => c.handle)); // all on by default
+  // null = show all; otherwise single channel handle
+  let selected = null;
   const expanded = new Set();
 
   function esc(s) {
@@ -85,11 +87,11 @@ footer { color:var(--muted); font-size:0.85rem; margin-top:24px; border-top:1px 
 
     const allBtn = document.createElement('button');
     allBtn.type = 'button';
-    allBtn.className = 'chip' + (selected.size === channels.length ? ' active' : '');
+    allBtn.className = 'chip' + (selected === null ? ' active' : '');
     allBtn.textContent = '全部';
+    allBtn.setAttribute('aria-pressed', selected === null ? 'true' : 'false');
     allBtn.addEventListener('click', () => {
-      if (selected.size === channels.length) selected.clear();
-      else selected = new Set(channels.map(c => c.handle));
+      selected = null;
       paint();
     });
     filtersEl.appendChild(allBtn);
@@ -97,11 +99,11 @@ footer { color:var(--muted); font-size:0.85rem; margin-top:24px; border-top:1px 
     channels.forEach(ch => {
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.className = 'chip' + (selected.has(ch.handle) ? ' active' : '');
+      btn.className = 'chip' + (selected === ch.handle ? ' active' : '');
       btn.textContent = ch.handle;
+      btn.setAttribute('aria-pressed', selected === ch.handle ? 'true' : 'false');
       btn.addEventListener('click', () => {
-        if (selected.has(ch.handle)) selected.delete(ch.handle);
-        else selected.add(ch.handle);
+        selected = (selected === ch.handle) ? null : ch.handle;
         paint();
       });
       filtersEl.appendChild(btn);
@@ -120,52 +122,62 @@ footer { color:var(--muted); font-size:0.85rem; margin-top:24px; border-top:1px 
       '</div></article>';
   }
 
+  function buildChannelSection(ch) {
+    const id = (ch.handle || '').replace(/^@/, '');
+    const vids = ch.videos || [];
+    const isExp = expanded.has(ch.handle);
+    const show = isExp ? vids : vids.slice(0, INITIAL);
+    const section = document.createElement('section');
+    section.className = 'channel';
+    section.id = id;
+    section.innerHTML =
+      '<div class="channel-head"><h2>' + esc(ch.channel_name || id) +
+      ' <span class="handle">' + esc(ch.handle) + '</span></h2></div>' +
+      '<p class="ch-url"><a href="' + esc(ch.channel_url) + '" target="_blank" rel="noopener">' + esc(ch.channel_url) +
+      '</a> · ' + vids.length + ' videos in feed</p>' +
+      '<div class="grid">' + show.map(videoCard).join('') + '</div>';
+    if (vids.length > INITIAL) {
+      const row = document.createElement('div');
+      row.className = 'more-row';
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'btn-more';
+      btn.textContent = isExp ? '收起（只顯示最近 3 條）' : ('睇更多（仲有 ' + (vids.length - INITIAL) + ' 條）');
+      btn.addEventListener('click', () => {
+        if (expanded.has(ch.handle)) expanded.delete(ch.handle);
+        else expanded.add(ch.handle);
+        paint();
+        const el = document.getElementById(id);
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      row.appendChild(btn);
+      section.appendChild(row);
+    }
+    return section;
+  }
+
   function renderChannels() {
     mainEl.innerHTML = '';
-    const visible = channels.filter(c => selected.has(c.handle));
+    const visible = selected === null
+      ? channels.slice()
+      : channels.filter(c => c.handle === selected);
     if (!visible.length) {
       mainEl.innerHTML = '<p class="empty">未選任何頻道——撳上面嘅 chip 揀頻道。</p>';
       return;
     }
-    visible.forEach(ch => {
-      const id = (ch.handle || '').replace(/^@/, '');
-      const vids = ch.videos || [];
-      const isExp = expanded.has(ch.handle);
-      const show = isExp ? vids : vids.slice(0, INITIAL);
-      const section = document.createElement('section');
-      section.className = 'channel';
-      section.id = id;
-      section.innerHTML =
-        '<div class="channel-head"><h2>' + esc(ch.channel_name || id) +
-        ' <span class="handle">' + esc(ch.handle) + '</span></h2></div>' +
-        '<p class="ch-url"><a href="' + esc(ch.channel_url) + '" target="_blank" rel="noopener">' + esc(ch.channel_url) +
-        '</a> · ' + vids.length + ' videos in feed</p>' +
-        '<div class="grid">' + show.map(videoCard).join('') + '</div>';
-      if (vids.length > INITIAL) {
-        const row = document.createElement('div');
-        row.className = 'more-row';
-        const btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'btn-more';
-        btn.textContent = isExp ? '收起（只顯示最近 3 條）' : ('睇更多（仲有 ' + (vids.length - INITIAL) + ' 條）');
-        btn.addEventListener('click', () => {
-          if (expanded.has(ch.handle)) expanded.delete(ch.handle);
-          else expanded.add(ch.handle);
-          paint();
-          const el = document.getElementById(id);
-          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        });
-        row.appendChild(btn);
-        section.appendChild(row);
-      }
-      mainEl.appendChild(section);
-    });
+    for (let i = 0; i < visible.length; i += 2) {
+      const pair = document.createElement('div');
+      pair.className = 'pair-row';
+      pair.appendChild(buildChannelSection(visible[i]));
+      if (visible[i + 1]) pair.appendChild(buildChannelSection(visible[i + 1]));
+      mainEl.appendChild(pair);
+    }
   }
 
   function paint() {
     const totalVids = channels.reduce((n, c) => n + (c.videos || []).length, 0);
-    metaEl.textContent = channels.length + ' channels · RSS feed · 預設每頻道最近 ' + INITIAL +
-      ' 條 · 共 ' + totalVids + ' 條 · 時間 Asia/Hong_Kong';
+    metaEl.textContent = channels.length + ' channels · 每行兩個頻道各 3 張縮圖 · 頻道單選 · 共 ' +
+      totalVids + ' 條 · 時間 Asia/Hong_Kong';
     renderFilters();
     renderChannels();
   }
