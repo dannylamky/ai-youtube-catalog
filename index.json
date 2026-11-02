@@ -164,6 +164,16 @@
     "channel_url": "https://www.youtube.com/@yologuy",
     "videos": [
       {
+        "title": "【會員優先】Anthropic上市招股書曝光：大蝕八百億定賺大錢？拆解六千億循環融資與五重股權迷宮 | YOLO街",
+        "published": "2026-10-31T02:08:16+00:00",
+        "url": "https://www.youtube.com/watch?v=iuPO5rxiuUc",
+        "topic": "AI industry / Anthropic IPO",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iuPO5rxiuUc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iuPO5rxiuUc/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/yologuy/iuPO5rxiuUc.jpg",
+        "video_id": "iuPO5rxiuUc"
+      },
+      {
         "title": "巴黎名店LV 家族出局始末：75歲掌門人錯信「白武士」，親手簽錯一張紙，如何令百年江山變天？ | YOLO街  #lvmh",
         "published": "2026-10-31T06:37:35+00:00",
         "url": "https://www.youtube.com/watch?v=AGjc6nXPiNE",
@@ -480,6 +490,16 @@
     "channel_url": "https://www.youtube.com/@ompshek",
     "videos": [
       {
+        "title": "第一次 Claude Sonnet 自己做腦手術 | 自己選藥、自己落針都由 AI 決定",
+        "published": "2026-11-01T13:45:31+00:00",
+        "url": "https://www.youtube.com/watch?v=WdAs4jy3_XU",
+        "topic": "AI medical / Claude",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WdAs4jy3_XU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WdAs4jy3_XU/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/ompshek/WdAs4jy3_XU.jpg",
+        "video_id": "WdAs4jy3_XU"
+      },
+      {
         "title": "心靈感應成真？Neuralink 腦機接口：由打指令、滑鼠、觸控到用意念操控電腦",
         "published": "2026-10-31T01:33:45+00:00",
         "url": "https://www.youtube.com/watch?v=4Nl3EzeKchw",
@@ -637,6 +657,16 @@
     "channel_id": "UCfbMslS3NmcGO4WIikSoYSA",
     "channel_url": "https://www.youtube.com/@kellytsaii",
     "videos": [
+      {
+        "title": "AI都能免費寫文章，他卻靠文字吸引破萬人付費訂閱！曼報Manny為何堅持不用AI寫稿？｜What's Next? EP19 ft. 曼報Manny｜Kelly Tsai",
+        "published": "2026-11-01T12:00:33+00:00",
+        "url": "https://www.youtube.com/watch?v=Xb5embc-Wto",
+        "topic": "AI writing / content",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Xb5embc-Wto/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Xb5embc-Wto/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/kellytsaii/Xb5embc-Wto.jpg",
+        "video_id": "Xb5embc-Wto"
+      },
       {
         "title": "張修修停更五個月去哪了？曾經裸辭聯發科去環遊世界、又經歷創業失敗歸零，現在決定all in AI？｜What's Next? EP18 ft. 張修修｜Kelly Tsai",
         "published": "2026-10-31T12:00:12+00:00",
@@ -796,6 +826,16 @@
     "channel_url": "https://www.youtube.com/@kocpc",
     "videos": [
       {
+        "title": "《機動警察》迷看了會瘋！ 真的可以操控的 ROBOT BASE 1：1 英格蘭姆駕駛體驗",
+        "published": "2026-11-01T10:04:58+00:00",
+        "url": "https://www.youtube.com/watch?v=vDTzDXbzXJk",
+        "topic": "Hardware / robotics experience",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vDTzDXbzXJk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vDTzDXbzXJk/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/kocpc/vDTzDXbzXJk.jpg",
+        "video_id": "vDTzDXbzXJk"
+      },
+      {
         "title": "竟有這麼多缺點！？首款摺疊 iPhone Duo 開箱實測：我覺得蘋果這次翻車了",
         "published": "2026-10-31T04:08:36+00:00",
         "url": "https://www.youtube.com/watch?v=Dj-MKwcCVVw",
@@ -953,6 +993,46 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "最新世代 AI Agent bot，一次搞懂基本原理",
+        "published": "2026-11-01T16:41:32+00:00",
+        "url": "https://www.youtube.com/watch?v=1MV-yuYLiV4",
+        "topic": "AI agent / bot basics",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1MV-yuYLiV4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1MV-yuYLiV4/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/1MV-yuYLiV4.jpg",
+        "video_id": "1MV-yuYLiV4"
+      },
+      {
+        "title": "Agent Bot，一次搞懂基本原理",
+        "published": "2026-11-01T16:27:31+00:00",
+        "url": "https://www.youtube.com/watch?v=J47Q77nFRUM",
+        "topic": "AI agent / bot basics",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/J47Q77nFRUM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/J47Q77nFRUM/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/J47Q77nFRUM.jpg",
+        "video_id": "J47Q77nFRUM"
+      },
+      {
+        "title": "同一個問題，孔子給兩個學生相反的答案，觀課老師當場愣住",
+        "published": "2026-11-01T16:00:53+00:00",
+        "url": "https://www.youtube.com/watch?v=WVyiu_w9pxo",
+        "topic": "Education / philosophy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WVyiu_w9pxo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WVyiu_w9pxo/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/WVyiu_w9pxo.jpg",
+        "video_id": "WVyiu_w9pxo"
+      },
+      {
+        "title": "沒有紅綠燈，你會讓路嗎？人性之辯｜孟子 vs 荀子 饒舌對決",
+        "published": "2026-11-01T13:32:31+00:00",
+        "url": "https://www.youtube.com/watch?v=Z4lW2gn7Jso",
+        "topic": "Education / philosophy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z4lW2gn7Jso/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z4lW2gn7Jso/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/Z4lW2gn7Jso.jpg",
+        "video_id": "Z4lW2gn7Jso"
+      },
       {
         "title": "教師節祭孔，孔子本人真的來了——然後被招不到老師的校長抓去代課",
         "published": "2026-11-01T03:46:02+00:00",
