@@ -1014,6 +1014,16 @@
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
       {
+        "title": "AI 偵測系統說，孔子講的話是 AI 寫的",
+        "published": "2026-11-02T22:32:04+00:00",
+        "url": "https://www.youtube.com/watch?v=JQjYYaPveuo",
+        "topic": "AI education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JQjYYaPveuo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JQjYYaPveuo/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/JQjYYaPveuo.jpg",
+        "video_id": "JQjYYaPveuo"
+      },
+      {
         "title": "「這個『時』是什麼？時數！」孔子本人坐在台下，眉毛一路往上爬",
         "published": "2026-11-02T10:04:25+00:00",
         "url": "https://www.youtube.com/watch?v=AwlnDDHIhNY",
