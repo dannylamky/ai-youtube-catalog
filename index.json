@@ -1014,6 +1014,16 @@
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
       {
+        "title": "朋友，半夜十二點，是不傳訊息的",
+        "published": "2026-11-03T10:00:56+00:00",
+        "url": "https://www.youtube.com/watch?v=zgjlgfCBaMQ",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zgjlgfCBaMQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zgjlgfCBaMQ/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/zgjlgfCBaMQ.jpg",
+        "video_id": "zgjlgfCBaMQ"
+      },
+      {
         "title": "AI 偵測系統說，孔子講的話是 AI 寫的",
         "published": "2026-11-02T22:32:04+00:00",
         "url": "https://www.youtube.com/watch?v=JQjYYaPveuo",
