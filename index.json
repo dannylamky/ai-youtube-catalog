@@ -1064,6 +1064,16 @@
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
       {
+        "title": "向日葵之戰｜地獄室友吵了九週！梵谷 vs 高更 饒舌對決",
+        "published": "2026-11-04T08:30:10+00:00",
+        "url": "https://www.youtube.com/watch?v=wCiC8I6B1ZM",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wCiC8I6B1ZM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wCiC8I6B1ZM/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/wCiC8I6B1ZM.jpg",
+        "video_id": "wCiC8I6B1ZM"
+      },
+      {
         "title": "孔子只問一句「有練嗎？」，被投訴四十項",
         "published": "2026-11-03T22:26:30+00:00",
         "url": "https://www.youtube.com/watch?v=weKPBH9OSBI",
