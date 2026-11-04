@@ -1054,6 +1054,16 @@
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
       {
+        "title": "孔子只問一句「有練嗎？」，被投訴四十項",
+        "published": "2026-11-03T22:26:30+00:00",
+        "url": "https://www.youtube.com/watch?v=weKPBH9OSBI",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/weKPBH9OSBI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/weKPBH9OSBI/hqdefault.jpg",
+        "local_thumb": "/workspace/youtube-thumbs/sensebar/weKPBH9OSBI.jpg",
+        "video_id": "weKPBH9OSBI"
+      },
+      {
         "title": "朋友，半夜十二點，是不傳訊息的",
         "published": "2026-11-03T10:00:56+00:00",
         "url": "https://www.youtube.com/watch?v=zgjlgfCBaMQ",
