@@ -1492,5 +1492,133 @@
         "local_thumb": null
       }
     ]
+  },
+  {
+    "channel_name": "人蔘 Try Catch",
+    "handle": "@GinsengTryCatch",
+    "channel_id": "UC-hFgSev3WsmCOQT_rqm6gQ",
+    "channel_url": "https://www.youtube.com/@GinsengTryCatch",
+    "videos": [
+      {
+        "title": "你知道嗎？TWCA 六天要換 9,772 張憑證：用古代門衛看懂網站憑證",
+        "published": "2026-11-04T13:15:25+00:00",
+        "url": "https://www.youtube.com/watch?v=-5LMeP9kYTI",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-5LMeP9kYTI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-5LMeP9kYTI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-5LMeP9kYTI"
+      },
+      {
+        "title": "你知道嗎：AI 都會自己點了，為什麼還要學 API？",
+        "published": "2026-11-03T13:13:01+00:00",
+        "url": "https://www.youtube.com/watch?v=UPgwd6qZSW8",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UPgwd6qZSW8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UPgwd6qZSW8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UPgwd6qZSW8"
+      },
+      {
+        "title": "你知道嗎？vibe coding 第一個大魔王是 Git？從資料夾講到 GitHub",
+        "published": "2026-11-01T10:26:02+00:00",
+        "url": "https://www.youtube.com/watch?v=zhxT8FLtgQg",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zhxT8FLtgQg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zhxT8FLtgQg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zhxT8FLtgQg"
+      },
+      {
+        "title": "你知道嗎？讓 Grok Bot 每五分鐘排程一次，一天空轉 288 次，省 token 秘技就看這篇",
+        "published": "2026-10-31T09:19:54+00:00",
+        "url": "https://www.youtube.com/watch?v=rEODzWW0XnY",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rEODzWW0XnY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rEODzWW0XnY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rEODzWW0XnY"
+      },
+      {
+        "title": "ChatGPT Pro 白送 API 額度，讓 Grok Bot 從零手搓一個小屋語音客服",
+        "published": "2026-10-31T01:37:18+00:00",
+        "url": "https://www.youtube.com/watch?v=1I_7ObhnykQ",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1I_7ObhnykQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1I_7ObhnykQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1I_7ObhnykQ"
+      },
+      {
+        "title": "Cloudflare 實戰（下）：Grok Bot 協助，部署不再是瓶頸，資安怎麼辦？",
+        "published": "2026-10-27T03:45:35+00:00",
+        "url": "https://www.youtube.com/watch?v=89w_Hy6PJqU",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/89w_Hy6PJqU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/89w_Hy6PJqU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "89w_Hy6PJqU"
+      },
+      {
+        "title": "Cloudflare 實戰：和 Grok bot 把 PA 小屋架上線",
+        "published": "2026-10-25T15:48:04+00:00",
+        "url": "https://www.youtube.com/watch?v=ahutiuqq868",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ahutiuqq868/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ahutiuqq868/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ahutiuqq868"
+      },
+      {
+        "title": "市政 debug 松，政府怎麼接？",
+        "published": "2026-10-24T12:40:11+00:00",
+        "url": "https://www.youtube.com/watch?v=zHd4fbmDZP0",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zHd4fbmDZP0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zHd4fbmDZP0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zHd4fbmDZP0"
+      },
+      {
+        "title": "主管才懂：Grok Bot vs Codex 差的根本不是功能",
+        "published": "2026-10-24T07:08:23+00:00",
+        "url": "https://www.youtube.com/watch?v=q_WN1voTXkU",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/q_WN1voTXkU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/q_WN1voTXkU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "q_WN1voTXkU"
+      },
+      {
+        "title": "Zeabur、Railway 相繼被駭：平台能當你的後盾嗎？",
+        "published": "2026-10-22T15:14:13+00:00",
+        "url": "https://www.youtube.com/watch?v=6BU8LRsE9JA",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6BU8LRsE9JA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6BU8LRsE9JA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6BU8LRsE9JA"
+      },
+      {
+        "title": "Grok Bot 用了六週：讓我有感的，是它開始像個人助理",
+        "published": "2026-10-21T09:42:49+00:00",
+        "url": "https://www.youtube.com/watch?v=5DZpgGCTkj8",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5DZpgGCTkj8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5DZpgGCTkj8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5DZpgGCTkj8"
+      },
+      {
+        "title": "Obsidian vs Notion：AI 時代，我為什麼還留在 Notion？",
+        "published": "2026-10-18T09:14:58+00:00",
+        "url": "https://www.youtube.com/watch?v=RmG6Nr_ZUsA",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RmG6Nr_ZUsA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RmG6Nr_ZUsA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RmG6Nr_ZUsA"
+      }
+    ]
   }
 ]
