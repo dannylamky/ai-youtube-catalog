@@ -1650,5 +1650,183 @@
         "video_id": "RmG6Nr_ZUsA"
       }
     ]
+  },
+  {
+    "channel_name": "FX-FeiHou-小肥猴",
+    "handle": "@ivever5",
+    "channel_id": "UC7QlvGqTgWMFHeAQUI0X7ww",
+    "channel_url": "https://www.youtube.com/@ivever5",
+    "videos": [
+      {
+        "title": "Copy and Paste Any Voice! FeiHou VoxCPM2 Studio: Free Local Voice Cloning Tool",
+        "published": "2026-11-02T02:00:06+00:00",
+        "url": "https://www.youtube.com/watch?v=ht9M5J7sWoc",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ht9M5J7sWoc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ht9M5J7sWoc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ht9M5J7sWoc"
+      },
+      {
+        "title": "全网爆红的Ai换人视频生成教程，开源H3模型，全自动一键生成",
+        "published": "2026-10-30T14:45:27+00:00",
+        "url": "https://www.youtube.com/watch?v=nQXLX0cxyNU",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nQXLX0cxyNU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nQXLX0cxyNU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nQXLX0cxyNU"
+      },
+      {
+        "title": "LoRA in 10 Seconds! Build Your Character Library ,RefMod, MiniMax H3 Multimodal Reference Magic Tool",
+        "published": "2026-10-23T10:35:47+00:00",
+        "url": "https://www.youtube.com/watch?v=KyZkSl-hP_o",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KyZkSl-hP_o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KyZkSl-hP_o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KyZkSl-hP_o"
+      },
+      {
+        "title": "手把手教你从入门到精通，一键式Ai自动化漫剧，漫剧神器-花果山Ai灵境坊-无限画布v2 兼容MiniMax H3，免费开源",
+        "published": "2026-10-22T06:50:11+00:00",
+        "url": "https://www.youtube.com/watch?v=_2XSgFxoJF4",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_2XSgFxoJF4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_2XSgFxoJF4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_2XSgFxoJF4"
+      },
+      {
+        "title": "我全都要！超强动态+快速生成+高画质，H3 Remix v0.8 高动态版模型，Easy H3 快速二阶采样工作流",
+        "published": "2026-10-19T11:14:43+00:00",
+        "url": "https://www.youtube.com/watch?v=d5ZurJr6-Kk",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/d5ZurJr6-Kk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/d5ZurJr6-Kk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "d5ZurJr6-Kk"
+      },
+      {
+        "title": "Perfect alternative to GPT‑Image 2.5!! Qwen‑Image 2.1 is open‑sourced!!",
+        "published": "2026-09-24T02:57:28+00:00",
+        "url": "https://www.youtube.com/watch?v=OkfIrlIsQN8",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OkfIrlIsQN8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OkfIrlIsQN8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OkfIrlIsQN8"
+      },
+      {
+        "title": "Face-Saving Tool! MiniMax H3 Face Refiner — Fix Broken Faces on AI-Generated Videos",
+        "published": "2026-09-16T15:44:49+00:00",
+        "url": "https://www.youtube.com/watch?v=4PLO4AATGPk",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4PLO4AATGPk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4PLO4AATGPk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4PLO4AATGPk"
+      },
+      {
+        "title": "The Most Powerful & Comprehensive One‑Click Auto‑Generation Solution for Digital Humans!",
+        "published": "2026-09-15T07:51:49+00:00",
+        "url": "https://www.youtube.com/watch?v=qE1knMUGEDM",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qE1knMUGEDM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qE1knMUGEDM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qE1knMUGEDM"
+      },
+      {
+        "title": "GP最强Ai模型【GPT-6 Astra】实测,一句话就能做格斗游戏",
+        "published": "2026-09-05T17:14:37+00:00",
+        "url": "https://www.youtube.com/watch?v=k3m7Jez7LaY",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/k3m7Jez7LaY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/k3m7Jez7LaY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "k3m7Jez7LaY"
+      },
+      {
+        "title": "CYBRENA - Iron Bloom",
+        "published": "2026-09-01T14:14:56+00:00",
+        "url": "https://www.youtube.com/watch?v=uJZLQOrgSAc",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uJZLQOrgSAc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uJZLQOrgSAc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uJZLQOrgSAc"
+      },
+      {
+        "title": "MiniMax H3 Remix Model Stunning Launch",
+        "published": "2026-08-23T06:38:31+00:00",
+        "url": "https://www.youtube.com/watch?v=C78AQztbwEo",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/C78AQztbwEo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/C78AQztbwEo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "C78AQztbwEo"
+      },
+      {
+        "title": "Learn how to easily create a trendy hula hoop using Scail-2 Advanced Workflow Plus V4.",
+        "published": "2026-07-06T01:00:05+00:00",
+        "url": "https://www.youtube.com/watch?v=PuUtExCdzZk",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PuUtExCdzZk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PuUtExCdzZk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PuUtExCdzZk"
+      },
+      {
+        "title": "A stunning review of 【LongCat-AudioDit】, giving digital humans a soul.",
+        "published": "2026-04-14T10:08:22+00:00",
+        "url": "https://www.youtube.com/watch?v=n8slGDurCXE",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/n8slGDurCXE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/n8slGDurCXE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "n8slGDurCXE"
+      },
+      {
+        "title": "Genshin Impact の 極楽浄土",
+        "published": "2026-04-02T12:06:31+00:00",
+        "url": "https://www.youtube.com/watch?v=yB4RMItJ1RM",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yB4RMItJ1RM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yB4RMItJ1RM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yB4RMItJ1RM"
+      },
+      {
+        "title": "Qwen Image Edit - Remix AIO v2.0 Full-Featured Workflow",
+        "published": "2026-03-29T07:49:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ZNAEToMZxU8",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZNAEToMZxU8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZNAEToMZxU8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZNAEToMZxU8"
+      },
+      {
+        "title": "雷电将军胸口拔刀",
+        "published": "2025-07-26T05:18:58+00:00",
+        "url": "https://www.youtube.com/watch?v=sMcf1hz2XeU",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sMcf1hz2XeU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sMcf1hz2XeU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sMcf1hz2XeU"
+      },
+      {
+        "title": "女體化聖鬥士 - Female Saint Seiya - 1",
+        "published": "2024-12-10T03:59:51+00:00",
+        "url": "https://www.youtube.com/watch?v=e_rOO6aEPF0",
+        "topic": "AI video / ComfyUI tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/e_rOO6aEPF0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/e_rOO6aEPF0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "e_rOO6aEPF0"
+      }
+    ]
   }
 ]
