@@ -1828,5 +1828,513 @@
         "video_id": "e_rOO6aEPF0"
       }
     ]
+  },
+  {
+    "channel_name": "Eva",
+    "handle": "@missevai",
+    "channel_id": "UCIZ5NTY6ZOETnSD0lE-NH-g",
+    "channel_url": "https://www.youtube.com/@missevai",
+    "videos": [
+      {
+        "title": "Copilot 新手教學 | Word、Excel、PPT 都有 AI Agent！",
+        "published": "2026-11-05T11:00:21+00:00",
+        "url": "https://www.youtube.com/watch?v=PEJsO5nVthA",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PEJsO5nVthA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PEJsO5nVthA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PEJsO5nVthA"
+      },
+      {
+        "title": "PowerPoint Copilot 教學 | 3 個互動簡報實例 Interactive Dashboard, 點擊圖表與 Before／After 滑動對比",
+        "published": "2026-10-29T14:19:38+00:00",
+        "url": "https://www.youtube.com/watch?v=oC_9IzjCCN4",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/oC_9IzjCCN4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/oC_9IzjCCN4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "oC_9IzjCCN4"
+      },
+      {
+        "title": "Genspark 一站式 AI 工作空間｜GenTeam ＋ SecondBrain 實用示範 @GensparkProduct",
+        "published": "2026-10-17T10:00:17+00:00",
+        "url": "https://www.youtube.com/watch?v=zlp-7nutGqo",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zlp-7nutGqo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zlp-7nutGqo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zlp-7nutGqo"
+      },
+      {
+        "title": "Copilot 隱藏功能 | Copilot Notebook 點用？由 PPT、Excel、PDF 一次過生成 Quiz、Mind Map、Dashboard",
+        "published": "2026-08-24T13:23:21+00:00",
+        "url": "https://www.youtube.com/watch?v=NyNUFiVHGhU",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NyNUFiVHGhU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NyNUFiVHGhU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NyNUFiVHGhU"
+      },
+      {
+        "title": "Excel Copilot 最新教學 | 告別手動執 Format！拆解 Excel Copilot Personalization、Rules 及 Skills",
+        "published": "2026-08-11T12:00:04+00:00",
+        "url": "https://www.youtube.com/watch?v=yjQznVP0GtM",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yjQznVP0GtM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yjQznVP0GtM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yjQznVP0GtM"
+      },
+      {
+        "title": "Typeless 語音 AI 實測｜最佳 AI Voice Prompt 工具？廣東話直接生成 Prompt、翻譯、Proposal",
+        "published": "2026-07-20T12:17:59+00:00",
+        "url": "https://www.youtube.com/watch?v=DXLgi7rs5ME",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DXLgi7rs5ME/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DXLgi7rs5ME/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DXLgi7rs5ME"
+      },
+      {
+        "title": "【Copilot 教學】Excel + Word 全自動填表 Workflow | 商業應用教學",
+        "published": "2026-06-25T13:07:12+00:00",
+        "url": "https://www.youtube.com/watch?v=IwE_KihIrGI",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IwE_KihIrGI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IwE_KihIrGI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IwE_KihIrGI"
+      },
+      {
+        "title": "【Copilot 教學】用 AI 由零做 PowerPoint？免費版 Copilot vs Premium 實測大比拼 💻",
+        "published": "2026-05-26T12:00:38+00:00",
+        "url": "https://www.youtube.com/watch?v=1iJ7bukJBqw",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1iJ7bukJBqw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1iJ7bukJBqw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1iJ7bukJBqw"
+      },
+      {
+        "title": "香港用得到嘅 AI Keyboard | 免訂閱 免VPN Meekee AI 一鍵通 |  Office相關實測 / 翻譯 / 造圖 ／ Research 等 6 大功能 #searchingc",
+        "published": "2026-05-11T12:00:25+00:00",
+        "url": "https://www.youtube.com/watch?v=ZpJYPtd6Uow",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZpJYPtd6Uow/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZpJYPtd6Uow/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZpJYPtd6Uow"
+      },
+      {
+        "title": "【Excel Copilot 教學】不再背公式！用 Copilot 直接解鎖 Claude Opus 4.7 | 一秒取代 VLOOKUP",
+        "published": "2026-05-07T11:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=dQ_qSXcaAKk",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dQ_qSXcaAKk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dQ_qSXcaAKk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dQ_qSXcaAKk"
+      },
+      {
+        "title": "【Microsoft Copilot 教學】免費版 vs 企業版 | 一條片拆解 3 大級別應用 (附實測)",
+        "published": "2026-04-28T12:48:43+00:00",
+        "url": "https://www.youtube.com/watch?v=Rkiu21Bc2oM",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Rkiu21Bc2oM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Rkiu21Bc2oM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Rkiu21Bc2oM"
+      },
+      {
+        "title": "【Gemini 進階玩法】Gemini Gems 終極指南：5 個超強實用玩法大公開",
+        "published": "2026-04-08T07:22:41+00:00",
+        "url": "https://www.youtube.com/watch?v=f7CVagEe87I",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/f7CVagEe87I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/f7CVagEe87I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "f7CVagEe87I"
+      },
+      {
+        "title": "【Gemini 進階玩法】不用寫 Code！NotebookLM 結合 Gemini，建立自動 Update 的 Live SOP",
+        "published": "2026-03-26T13:06:41+00:00",
+        "url": "https://www.youtube.com/watch?v=DFyhGGJByvo",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DFyhGGJByvo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DFyhGGJByvo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DFyhGGJByvo"
+      },
+      {
+        "title": "必看！2026 Google Gemini 終極教學 | 免寫 Code 手把手教你打造有靈魂的個人AI助手 | Google 官方宣佈香港免 VPN 全面開放",
+        "published": "2026-03-17T13:44:12+00:00",
+        "url": "https://www.youtube.com/watch?v=DMbg15Fj3Gg",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DMbg15Fj3Gg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DMbg15Fj3Gg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DMbg15Fj3Gg"
+      },
+      {
+        "title": "【必學】NotebookLM 隱藏神技！3大自動化場景 + Data Table 結構化數據大公開！徹底解放團隊生產力｜AI 辦公效率 | Google AI",
+        "published": "2026-03-12T10:46:42+00:00",
+        "url": "https://www.youtube.com/watch?v=5-2MqOgQ9EQ",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5-2MqOgQ9EQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5-2MqOgQ9EQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5-2MqOgQ9EQ"
+      },
+      {
+        "title": "裸辭百萬年薪做 Freelancer 到底賺到多少？| 真實收入公開",
+        "published": "2026-03-05T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=9M0bszZC3sI",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9M0bszZC3sI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9M0bszZC3sI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9M0bszZC3sI"
+      },
+      {
+        "title": "2026年你最唔可以錯過嘅 AI 辦公軟件！告別 AI 幻覺 Skywork AI 一條龍自動化：從專業搜集資料到精美簡報只需 10 分鐘",
+        "published": "2026-02-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=WcnZ7ygrxLA",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WcnZ7ygrxLA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WcnZ7ygrxLA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "WcnZ7ygrxLA"
+      },
+      {
+        "title": "AI Agents Explained: Which AI Agent is Right for You? Should You Learn OpenClaw?",
+        "published": "2026-02-09T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=GC3qh4jOxV4",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GC3qh4jOxV4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GC3qh4jOxV4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GC3qh4jOxV4"
+      },
+      {
+        "title": "10 Essential AI Tools for Bosses in 2026 | How to Solve Company Paralysis Due to Employee Resigna...",
+        "published": "2026-01-27T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Etu4rQUh_3I",
+        "topic": "AI productivity / office tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Etu4rQUh_3I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Etu4rQUh_3I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Etu4rQUh_3I"
+      },
+      {
+        "title": "AI for Beginners: 3 Fastest Ways to Start Earning with AI | Gemini | Nano Banan Pro",
+        "published": "2025-12-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=AW57qCXS66k",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AW57qCXS66k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AW57qCXS66k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AW57qCXS66k"
+      },
+      {
+        "title": "辭職1年後，我用 AI 做了這個AI 創業點子工具 | Manus 1.5",
+        "published": "2025-11-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=B3wyE6-r_Yg",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/B3wyE6-r_Yg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/B3wyE6-r_Yg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "B3wyE6-r_Yg"
+      },
+      {
+        "title": "[Make 自動化教學] Make 10條數據要 40 個 Credits？| 錯！學識用 Aggregator + Text Parser 批量 AI 分析，即慳 80% Operation 點數!",
+        "published": "2025-10-27T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=m22YYZiu95Q",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/m22YYZiu95Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/m22YYZiu95Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "m22YYZiu95Q"
+      },
+      {
+        "title": "無需寫 Code！Make AI 幫你秒懂上千則 Amazon 顧客評論",
+        "published": "2025-10-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=BaSUML1BbRY",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BaSUML1BbRY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BaSUML1BbRY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BaSUML1BbRY"
+      },
+      {
+        "title": "還在通宵做PPT？2025必學 Gamma AI Agent，10分鐘搞定專業簡報！",
+        "published": "2025-10-06T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Uvo1qEfFNnQ",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Uvo1qEfFNnQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Uvo1qEfFNnQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Uvo1qEfFNnQ"
+      },
+      {
+        "title": "【Make 自動化教學】Iterator 是什麼？3 分鐘搞懂，自動處理 Email 多附件 神技 新手必看",
+        "published": "2025-09-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=99sOUudMOOg",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/99sOUudMOOg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/99sOUudMOOg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "99sOUudMOOg"
+      },
+      {
+        "title": "工作效率UP！5個AI自動化案例，Manus AI 串聯Gmail, Notion, Google Calendar 打造你的數位助理",
+        "published": "2025-09-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=OuZuk_46XHA",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OuZuk_46XHA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OuZuk_46XHA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OuZuk_46XHA"
+      },
+      {
+        "title": "Google Gemini 超越 ChatGPT？實測最強免費AI圖像生成工具！",
+        "published": "2025-09-11T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=pOkjsrGgoZo",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pOkjsrGgoZo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pOkjsrGgoZo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pOkjsrGgoZo"
+      },
+      {
+        "title": "Next-Gen AI Agent Comet Tested | Browser Automation | AI Content Creation in 1 Minute 🚀 | Perplexity",
+        "published": "2025-09-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=1x0n13fBp6o",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1x0n13fBp6o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1x0n13fBp6o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1x0n13fBp6o"
+      },
+      {
+        "title": "告別 Email 爆炸！5 步驟用 AI 打造你的專屬 Email 助理",
+        "published": "2025-08-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=MeksFJgh8JY",
+        "topic": "AI productivity / office tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MeksFJgh8JY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MeksFJgh8JY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MeksFJgh8JY"
+      },
+      {
+        "title": "Manus AI Agent Wide Research｜實戰自動分析過千商店, 結果超出想像...",
+        "published": "2025-08-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=S8rTzDh9VoM",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/S8rTzDh9VoM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/S8rTzDh9VoM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "S8rTzDh9VoM"
+      },
+      {
+        "title": "擺脫 AI 死板回覆！| 3個用 ChatGPT技巧 寫出有個人風格內容 | 內容創作者必學！",
+        "published": "2025-08-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=G23Bsy-bW8U",
+        "topic": "AI chatbot / prompting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/G23Bsy-bW8U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/G23Bsy-bW8U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "G23Bsy-bW8U"
+      },
+      {
+        "title": "[Make 教學] Google Calendar x Notion 自動化教學｜新event即變任務卡 | 手把手打造你第一個實用自動化！",
+        "published": "2025-07-31T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=2J213E416as",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2J213E416as/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2J213E416as/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2J213E416as"
+      },
+      {
+        "title": "Google AI 工具 NotebookLM 怎樣幫我變現？顧問實例公開",
+        "published": "2025-07-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=yizTw3kx_gI",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yizTw3kx_gI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yizTw3kx_gI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yizTw3kx_gI"
+      },
+      {
+        "title": "懶人 AI 工作流！AI Voice Assistant 效率提升 自動幫你寫Idea｜Make 生產力工具",
+        "published": "2025-07-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=m2htjmLmiQU",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/m2htjmLmiQU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/m2htjmLmiQU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "m2htjmLmiQU"
+      },
+      {
+        "title": "2025 職場突圍必備: 3 個 ChatGPT AI Prompt 讓你職場脫穎而出",
+        "published": "2025-07-10T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Bm9dR1wa6sY",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Bm9dR1wa6sY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Bm9dR1wa6sY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Bm9dR1wa6sY"
+      },
+      {
+        "title": "AI 幫你寫文案 | 做圖 | 發佈 IG！完整自動化社群流程教學 （附 Blueprint 贈送）🎁",
+        "published": "2025-07-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=BdIreFx9bfk",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BdIreFx9bfk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BdIreFx9bfk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BdIreFx9bfk"
+      },
+      {
+        "title": "Google VEO 3 + Manus AI 實測！完整教學: 輕鬆解決人物一致性 | AI 影片生成已經進化到這程度！",
+        "published": "2025-06-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=7VqW64plzKw",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7VqW64plzKw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7VqW64plzKw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7VqW64plzKw"
+      },
+      {
+        "title": "AI 新手必看! ChatGPT、Gemini 與 Deepseek AI 模型全攻略 | 如何選擇推理與聊天模型提升效率",
+        "published": "2025-06-20T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Jv2Htt1V8pg",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Jv2Htt1V8pg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Jv2Htt1V8pg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Jv2Htt1V8pg"
+      },
+      {
+        "title": "【Make教學】Apify 24小時自動化爬取Youtube | 輕鬆整合影片內容 Google Sheet | 自制學習神器秒抓 AI 資訊",
+        "published": "2025-06-12T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=AYIudz3Bi-w",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AYIudz3Bi-w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AYIudz3Bi-w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AYIudz3Bi-w"
+      },
+      {
+        "title": "【AI 自動化】一 Click快速翻譯國外新聞！輕鬆打造高流量貼文 💡",
+        "published": "2025-06-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ioJgKpZoU1o",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ioJgKpZoU1o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ioJgKpZoU1o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ioJgKpZoU1o"
+      },
+      {
+        "title": "為什麼你需要API？| 5分鐘秒懂 API Key 運作原理",
+        "published": "2025-05-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=oOrvuRuINSU",
+        "topic": "AI productivity / office tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/oOrvuRuINSU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/oOrvuRuINSU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "oOrvuRuINSU"
+      },
+      {
+        "title": "3步打造IG貼文靈感庫！DeepSeek + Make AI自動化超簡單教學",
+        "published": "2025-05-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=UYztO60DSJc",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UYztO60DSJc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UYztO60DSJc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UYztO60DSJc"
+      },
+      {
+        "title": "【Make教學】5 分鐘快速通關 Google OAuth 設定！｜Google API 申請詳細步驟｜Make 自動化流程必備的 Gmail/Drive 權限設定",
+        "published": "2025-05-15T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=eTTW-qdLMMo",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/eTTW-qdLMMo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/eTTW-qdLMMo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "eTTW-qdLMMo"
+      },
+      {
+        "title": "【Make教學】24小時自動化處理重複性工作｜輕鬆整合 Google Form Google Sheet | 資訊分流",
+        "published": "2025-05-09T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=w0zQ2uuiKaI",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/w0zQ2uuiKaI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/w0zQ2uuiKaI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "w0zQ2uuiKaI"
+      },
+      {
+        "title": "3步驟打造你的AI虛擬人物 | 讓照片開口說話 | 超逼真真人語音 Voice Clone | 會說話的虛擬AI Avatar | ChatGPT + Kling + Minimax",
+        "published": "2025-04-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=mUSz3RyGDig",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mUSz3RyGDig/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mUSz3RyGDig/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mUSz3RyGDig"
+      },
+      {
+        "title": "[手把手教學] 免費生成影片 | Kling AI 可靈 | Image to Video",
+        "published": "2025-04-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=mX0xYIBHN4c",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mX0xYIBHN4c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mX0xYIBHN4c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mX0xYIBHN4c"
+      },
+      {
+        "title": "✨10分鐘完成設計品牌、產品策劃、包裝設計和廣告行銷 | ChatGPT 品牌打造",
+        "published": "2025-04-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=rdXrRKwXGwc",
+        "topic": "AI chatbot / prompting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rdXrRKwXGwc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rdXrRKwXGwc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rdXrRKwXGwc"
+      },
+      {
+        "title": "【ChatGPT總是答非所問？】教你4步驟寫出神Prompt，讓AI變成工作神隊友（附免費教學PDF)",
+        "published": "2025-04-03T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=1bP7zyTYEKU",
+        "topic": "AI chatbot / prompting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1bP7zyTYEKU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1bP7zyTYEKU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1bP7zyTYEKU"
+      },
+      {
+        "title": "[打工必學]最強 AI 簡報生成工具 Gamma 秒殺PPT！(手把手教學)",
+        "published": "2025-03-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=BfsOQAxn8Gc",
+        "topic": "AI productivity / presentation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BfsOQAxn8Gc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BfsOQAxn8Gc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BfsOQAxn8Gc"
+      },
+      {
+        "title": "🔥裸辭 180 天！【媽媽的遠距革命】如何用 AI 工具打造自由人生",
+        "published": "2025-03-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=9FIPEUnzunk",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9FIPEUnzunk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9FIPEUnzunk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9FIPEUnzunk"
+      }
+    ]
   }
 ]
