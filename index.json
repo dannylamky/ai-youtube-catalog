@@ -6,6 +6,36 @@
     "channel_url": "https://www.youtube.com/@AI4All-edu",
     "videos": [
       {
+        "title": "【一分鐘速報】 GPT Image 2.6 出圖識喐啦 !",
+        "published": "2026-11-07T00:00:31+00:00",
+        "url": "https://www.youtube.com/watch?v=h3BsoMINDCc",
+        "topic": "AI news / image tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/h3BsoMINDCc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/h3BsoMINDCc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "h3BsoMINDCc"
+      },
+      {
+        "title": "【AI教學應用】AI Agent 3 句 Prompt 做隻 App | 睇晒全港交通 Cam",
+        "published": "2026-11-06T00:00:35+00:00",
+        "url": "https://www.youtube.com/watch?v=8mFtNYkX7V0",
+        "topic": "AI education / tools tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8mFtNYkX7V0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8mFtNYkX7V0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8mFtNYkX7V0"
+      },
+      {
+        "title": "GPT Image 2.6 | AI 出圖識郁喇",
+        "published": "2026-11-05T15:00:06+00:00",
+        "url": "https://www.youtube.com/watch?v=TqtSDFKLgp4",
+        "topic": "AI video/image generation tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TqtSDFKLgp4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TqtSDFKLgp4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TqtSDFKLgp4"
+      },
+      {
         "title": "【AI教學應用】3大 AI 影片模型 極限盲測 | Kling 4.0 vs Seedance 2.5 vs MiniMax H3",
         "published": "2026-10-30T00:00:05+00:00",
         "url": "https://www.youtube.com/watch?v=w1m2PKwqlNc",
@@ -163,6 +193,16 @@
     "channel_id": "UCZXZcgbA7iajsWdPsAzJ40A",
     "channel_url": "https://www.youtube.com/@yologuy",
     "videos": [
+      {
+        "title": "黃仁勳CEO位保唔保得住？桃色國安風暴: 由死口否認到發信認出軌，10日內發生咩事？皮褸黃捲中國女間諜疑雲，董事會啟動國安調查",
+        "published": "2026-11-09T08:55:45+00:00",
+        "url": "https://www.youtube.com/watch?v=jUVDSUIRWXI",
+        "topic": "Tech industry / NVIDIA",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jUVDSUIRWXI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jUVDSUIRWXI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jUVDSUIRWXI"
+      },
       {
         "title": "巴黎名店LV 家族出局始末：75歲掌門人錯信「白武士」，親手簽錯一張紙，如何令百年江山變天？ | YOLO街  #lvmh",
         "published": "2026-10-31T06:37:35+00:00",
@@ -490,6 +530,46 @@
     "channel_url": "https://www.youtube.com/@ompshek",
     "videos": [
       {
+        "title": "這把聲音不是我錄的！Gemini 3.8 Flash TTS 30 秒複製聲音 #Shorts",
+        "published": "2026-11-09T09:28:59+00:00",
+        "url": "https://www.youtube.com/shorts/BYZAZCuJd5o",
+        "topic": "AI voice / Gemini TTS",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BYZAZCuJd5o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BYZAZCuJd5o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BYZAZCuJd5o"
+      },
+      {
+        "title": "不用 Canva 怎樣做 YouTube 封面？| GPT Image 2.6 + AI 相片編輯器教學",
+        "published": "2026-11-08T13:50:31+00:00",
+        "url": "https://www.youtube.com/watch?v=RGVZv7FKYxk",
+        "topic": "AI image tools / YouTube thumbnails",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RGVZv7FKYxk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RGVZv7FKYxk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RGVZv7FKYxk"
+      },
+      {
+        "title": "AI 代你用手機 | 由 Siri 定鬧鐘到 AI 接管整部手機",
+        "published": "2026-11-06T13:36:32+00:00",
+        "url": "https://www.youtube.com/watch?v=c58bTVo6jv8",
+        "topic": "AI agents / mobile",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/c58bTVo6jv8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/c58bTVo6jv8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "c58bTVo6jv8"
+      },
+      {
+        "title": "新創業模式 | 一人公司 OPC：Anthropic 收購一人藥廠、Base44 賣 8000 萬美元",
+        "published": "2026-11-05T12:00:26+00:00",
+        "url": "https://www.youtube.com/watch?v=qHAhR0gLEpk",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qHAhR0gLEpk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qHAhR0gLEpk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qHAhR0gLEpk"
+      },
+      {
         "title": "我取消了 Canva，全交給 AI | Canva 裁員 22%，AI 畫圖怎樣搶走設計工具的飯碗",
         "published": "2026-11-04T11:06:09+00:00",
         "url": "https://www.youtube.com/watch?v=x8S35WUHXYE",
@@ -697,6 +777,66 @@
     "channel_id": "UCfbMslS3NmcGO4WIikSoYSA",
     "channel_url": "https://www.youtube.com/@kellytsaii",
     "videos": [
+      {
+        "title": "小時候父母不願意聆聽自己，長大後變得會「過度補償」？｜Kelly Tsai",
+        "published": "2026-11-08T10:00:10+00:00",
+        "url": "https://www.youtube.com/shorts/wT0S8qeSS-c",
+        "topic": "Lifestyle / psychology",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wT0S8qeSS-c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wT0S8qeSS-c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wT0S8qeSS-c"
+      },
+      {
+        "title": "在矽谷當工程師領悟的職場生存法則，技術好根本不夠！比工作能力更重要的5件事｜Kelly Tsai",
+        "published": "2026-11-07T12:00:28+00:00",
+        "url": "https://www.youtube.com/watch?v=RTiYJatUTeE",
+        "topic": "Career / Silicon Valley workplace",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RTiYJatUTeE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RTiYJatUTeE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RTiYJatUTeE"
+      },
+      {
+        "title": "進劇組拍攝的一天長什麼樣子⋯❓｜Kelly Tsai",
+        "published": "2026-11-07T10:00:36+00:00",
+        "url": "https://www.youtube.com/shorts/4mcsBH_rBwo",
+        "topic": "Lifestyle / personal",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4mcsBH_rBwo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4mcsBH_rBwo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4mcsBH_rBwo"
+      },
+      {
+        "title": "微軟6萬員工突收到離職邀請！是矽谷最新裁員手法嗎？為什麼不直接裁，反而砸錢請人走？｜Kelly Tsai",
+        "published": "2026-11-06T12:00:19+00:00",
+        "url": "https://www.youtube.com/watch?v=gObKKDrFPfQ",
+        "topic": "Tech industry / layoffs",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gObKKDrFPfQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gObKKDrFPfQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gObKKDrFPfQ"
+      },
+      {
+        "title": "被問爆的澀谷辣妹改造！下次去東京直接安排起來🇯🇵｜Kelly Tsai #東京 #澀谷 #旅遊",
+        "published": "2026-11-06T10:00:08+00:00",
+        "url": "https://www.youtube.com/shorts/v11QOLrt2xA",
+        "topic": "Lifestyle / travel short",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/v11QOLrt2xA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/v11QOLrt2xA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "v11QOLrt2xA"
+      },
+      {
+        "title": "有了 AI 之後，工程團隊到底要怎麼跟 AI 協作才最有效率？｜Kelly Tsai",
+        "published": "2026-11-05T11:00:20+00:00",
+        "url": "https://www.youtube.com/watch?v=15QahShFFh0",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/15QahShFFh0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/15QahShFFh0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "15QahShFFh0"
+      },
       {
         "title": "曼報Pro光憑文字就吸引破萬人付費訂閱，靠的就是不靠AI寫作？｜Kelly Tsai",
         "published": "2026-11-04T10:00:30+00:00",
@@ -906,6 +1046,36 @@
     "channel_url": "https://www.youtube.com/@kocpc",
     "videos": [
       {
+        "title": "歐洲超市、血庫冰箱大量被駭事件真相曝光！駭客根本沒用 AI",
+        "published": "2026-11-09T03:36:23+00:00",
+        "url": "https://www.youtube.com/shorts/42FAVJ308cM",
+        "topic": "Cybersecurity / tech news",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/42FAVJ308cM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/42FAVJ308cM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "42FAVJ308cM"
+      },
+      {
+        "title": "做影片不用買超貴顯卡！超簡單！教你怎麼讓 AI Agent 幫你免費生圖、做影片",
+        "published": "2026-11-07T06:58:42+00:00",
+        "url": "https://www.youtube.com/shorts/oP3eJGVTv0A",
+        "topic": "AI agents / video tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/oP3eJGVTv0A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/oP3eJGVTv0A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "oP3eJGVTv0A"
+      },
+      {
+        "title": "TESLA Model Y 新車入手必買配件！",
+        "published": "2026-11-06T04:37:37+00:00",
+        "url": "https://www.youtube.com/watch?v=7QHZFa19414",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7QHZFa19414/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7QHZFa19414/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7QHZFa19414"
+      },
+      {
         "title": "幣安遭駭 63 億美元！起點竟是一場假面試？史上最大加密貨幣竊案始末",
         "published": "2026-11-05T09:35:02+00:00",
         "url": "https://www.youtube.com/watch?v=0-zPD9SqXg0",
@@ -1103,6 +1273,56 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "Google AI 基本功 Gemini 任務模式實測，接 Kahoot、Canva、Padlet 全靠一句話",
+        "published": "2026-11-08T22:57:59+00:00",
+        "url": "https://www.youtube.com/watch?v=NpX4_ZZbBds",
+        "topic": "Google Gemini / classroom tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NpX4_ZZbBds/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NpX4_ZZbBds/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NpX4_ZZbBds"
+      },
+      {
+        "title": "「Bravo？」現在贏，還是兩百年後贏？莫札特和薩里耶利親自上台",
+        "published": "2026-11-08T11:34:24+00:00",
+        "url": "https://www.youtube.com/watch?v=YJZkaBHYBF0",
+        "topic": "Education / performance",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YJZkaBHYBF0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YJZkaBHYBF0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YJZkaBHYBF0"
+      },
+      {
+        "title": "AI 幫我拍完一整季《孔子來代課》，我只做了一件事",
+        "published": "2026-11-07T10:37:24+00:00",
+        "url": "https://www.youtube.com/watch?v=frknK-_SS94",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/frknK-_SS94/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/frknK-_SS94/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "frknK-_SS94"
+      },
+      {
+        "title": "孔子考孔子，58 分",
+        "published": "2026-11-06T08:33:20+00:00",
+        "url": "https://www.youtube.com/watch?v=Xwo-1HFQgAw",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Xwo-1HFQgAw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Xwo-1HFQgAw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Xwo-1HFQgAw"
+      },
+      {
+        "title": "至聖先師第一次說：我很累",
+        "published": "2026-11-05T13:17:44+00:00",
+        "url": "https://www.youtube.com/watch?v=SendIs94_-M",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SendIs94_-M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SendIs94_-M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SendIs94_-M"
+      },
       {
         "title": "原來是你｜〈孔子來代課〉主題曲〈人不知〉MV",
         "published": "2026-11-05T08:00:21+00:00",
@@ -1530,6 +1750,46 @@
     "channel_url": "https://www.youtube.com/@GinsengTryCatch",
     "videos": [
       {
+        "title": "逆風發言：永豐網銀被盜轉、網路罵翻，我想替它講幾句話",
+        "published": "2026-11-08T10:58:46+00:00",
+        "url": "https://www.youtube.com/watch?v=2QEyUXbNedY",
+        "topic": "Commentary / finance security",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2QEyUXbNedY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2QEyUXbNedY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2QEyUXbNedY"
+      },
+      {
+        "title": "Grok Bot 進小屋之後要做什麼？貼 MCP、設喚醒、換角色圖、接 tokscale 一次帶完",
+        "published": "2026-11-08T04:00:13+00:00",
+        "url": "https://www.youtube.com/watch?v=A4ZrLg_-vJw",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/A4ZrLg_-vJw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/A4ZrLg_-vJw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "A4ZrLg_-vJw"
+      },
+      {
+        "title": "實測才懂：Notion 當 ChatGPT 和 Claude 的共同大腦，換個 AI 還記得你嗎？",
+        "published": "2026-11-08T03:45:03+00:00",
+        "url": "https://www.youtube.com/watch?v=AqGaupLfgOs",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AqGaupLfgOs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AqGaupLfgOs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AqGaupLfgOs"
+      },
+      {
+        "title": "你知道嗎：vibe coding 做的 app，資安要從哪裡顧起？幣安、永豐、91APP 都出事了",
+        "published": "2026-11-06T12:51:43+00:00",
+        "url": "https://www.youtube.com/watch?v=EvDcTOWc50U",
+        "topic": "AI / vibe coding security",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/EvDcTOWc50U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/EvDcTOWc50U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "EvDcTOWc50U"
+      },
+      {
         "title": "你知道嗎？TWCA 六天要換 9,772 張憑證：用古代門衛看懂網站憑證",
         "published": "2026-11-04T13:15:25+00:00",
         "url": "https://www.youtube.com/watch?v=-5LMeP9kYTI",
@@ -1657,6 +1917,16 @@
     "channel_id": "UC7QlvGqTgWMFHeAQUI0X7ww",
     "channel_url": "https://www.youtube.com/@ivever5",
     "videos": [
+      {
+        "title": "MiniMax H3 最强人物替换&动作迁移、一张图整段视频换主角、不用lora、长视频自动分段续接、附提示词Skills",
+        "published": "2026-11-08T15:36:16+00:00",
+        "url": "https://www.youtube.com/watch?v=UDIcCBUYI8Q",
+        "topic": "AI video / character swap",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UDIcCBUYI8Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UDIcCBUYI8Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UDIcCBUYI8Q"
+      },
       {
         "title": "Copy and Paste Any Voice! FeiHou VoxCPM2 Studio: Free Local Voice Cloning Tool",
         "published": "2026-11-02T02:00:06+00:00",
@@ -2334,6 +2604,1054 @@
         "thumbnail_hq": "https://i.ytimg.com/vi/9FIPEUnzunk/hqdefault.jpg",
         "local_thumb": null,
         "video_id": "9FIPEUnzunk"
+      }
+    ]
+  },
+  {
+    "channel_name": "TechByTosh",
+    "handle": "@techbytosh",
+    "channel_id": "UCZXyT7t-QRkeyWV3F21wKcA",
+    "channel_url": "https://www.youtube.com/@techbytosh",
+    "videos": [
+      {
+        "title": "Convert OST to PST Free (No Outlook Needed) — Online & Desktop",
+        "published": "2026-10-06T11:07:49+00:00",
+        "url": "https://www.youtube.com/watch?v=po1WnqtYKjQ",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/po1WnqtYKjQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/po1WnqtYKjQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "po1WnqtYKjQ"
+      },
+      {
+        "title": "New SharePoint HTML Pages: Full Live Site, No Code (2026)",
+        "published": "2026-10-06T03:08:19+00:00",
+        "url": "https://www.youtube.com/watch?v=U8_br1I1MN4",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U8_br1I1MN4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U8_br1I1MN4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U8_br1I1MN4"
+      },
+      {
+        "title": "This AI Agent Reads My Files, Browses My Web & Works on a Schedule",
+        "published": "2026-10-05T02:13:37+00:00",
+        "url": "https://www.youtube.com/watch?v=bA31UmnN5ZY",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bA31UmnN5ZY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bA31UmnN5ZY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bA31UmnN5ZY"
+      },
+      {
+        "title": "PowerPoint Copilot's New Custom Skills Feature Is Game-Changing (2026)",
+        "published": "2026-09-15T23:47:15+00:00",
+        "url": "https://www.youtube.com/watch?v=p0pwfUYQhFc",
+        "topic": "PowerPoint / Copilot",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/p0pwfUYQhFc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/p0pwfUYQhFc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "p0pwfUYQhFc"
+      },
+      {
+        "title": "I Gave an AI 5 Messy Files - It Built a Client Deck in Minutes (Kimi AI)",
+        "published": "2026-09-09T08:06:49+00:00",
+        "url": "https://www.youtube.com/watch?v=3Fwf_qAdt-8",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3Fwf_qAdt-8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3Fwf_qAdt-8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3Fwf_qAdt-8"
+      },
+      {
+        "title": "PowerPoint's New Copilot Feature Is Game-Changing (2026)",
+        "published": "2026-09-02T01:38:05+00:00",
+        "url": "https://www.youtube.com/watch?v=Xemhjolecrg",
+        "topic": "PowerPoint / Copilot",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Xemhjolecrg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Xemhjolecrg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Xemhjolecrg"
+      },
+      {
+        "title": "SharePoint Site Initialisation Copilot Skill - Create Fully Governed Site in One Prompt",
+        "published": "2026-08-26T04:29:49+00:00",
+        "url": "https://www.youtube.com/watch?v=UPPuas2wUKk",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UPPuas2wUKk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UPPuas2wUKk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UPPuas2wUKk"
+      },
+      {
+        "title": "SharePoint Copilot Skills - Automate Document Governance and Never Audit Manually Again",
+        "published": "2026-08-24T07:38:28+00:00",
+        "url": "https://www.youtube.com/watch?v=gM7NoJDkGQs",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gM7NoJDkGQs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gM7NoJDkGQs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gM7NoJDkGQs"
+      },
+      {
+        "title": "SharePoint Copilot Skills - Stop Getting Different Outputs From Copilot",
+        "published": "2026-08-17T01:04:06+00:00",
+        "url": "https://www.youtube.com/watch?v=ZSfrT4kr-bs",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZSfrT4kr-bs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZSfrT4kr-bs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZSfrT4kr-bs"
+      },
+      {
+        "title": "Your SharePoint Copilot Dashboards Are Leaking Data - Here's How to Fix it",
+        "published": "2026-08-04T02:35:54+00:00",
+        "url": "https://www.youtube.com/watch?v=LmeU30RUDfY",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LmeU30RUDfY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LmeU30RUDfY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LmeU30RUDfY"
+      },
+      {
+        "title": "Build Interactive Dashboards in SharePoint with Copilot (July 2026)",
+        "published": "2026-07-29T02:56:16+00:00",
+        "url": "https://www.youtube.com/watch?v=XUtQS7bqHhQ",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XUtQS7bqHhQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XUtQS7bqHhQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XUtQS7bqHhQ"
+      },
+      {
+        "title": "SharePoint's New Copilot Features Are Game Changing (2026)",
+        "published": "2026-07-23T01:30:22+00:00",
+        "url": "https://www.youtube.com/watch?v=TYs8hz5PVTI",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TYs8hz5PVTI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TYs8hz5PVTI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TYs8hz5PVTI"
+      },
+      {
+        "title": "Copilot Word Agents: Never Write Documents Manually Again",
+        "published": "2026-07-15T03:09:59+00:00",
+        "url": "https://www.youtube.com/watch?v=gLJzq0g8NZA",
+        "topic": "Copilot / AI Agent",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gLJzq0g8NZA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gLJzq0g8NZA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gLJzq0g8NZA"
+      },
+      {
+        "title": "Microsoft 365 Copilot Basic vs Premium: Don't Upgrade Without Watching This",
+        "published": "2026-07-01T04:23:16+00:00",
+        "url": "https://www.youtube.com/watch?v=hH6uZu-e7P4",
+        "topic": "Microsoft 365 Copilot",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hH6uZu-e7P4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hH6uZu-e7P4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hH6uZu-e7P4"
+      },
+      {
+        "title": "New SharePoint Homepage Experience — Create Pages, Sites & Libraries From One Place",
+        "published": "2026-04-13T20:00:01+00:00",
+        "url": "https://www.youtube.com/watch?v=-ogR_2U0384",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-ogR_2U0384/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-ogR_2U0384/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-ogR_2U0384"
+      },
+      {
+        "title": "How To Access User's OneDrive as Microsoft 365 Admin",
+        "published": "2026-04-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=T29ldWoquxo",
+        "topic": "OneDrive / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/T29ldWoquxo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/T29ldWoquxo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "T29ldWoquxo"
+      },
+      {
+        "title": "M365 Tenant To Tenant Exchange Migration | Stellar Migrator for Exchange",
+        "published": "2026-01-27T04:39:25+00:00",
+        "url": "https://www.youtube.com/watch?v=Gv6T_lRAnuI",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Gv6T_lRAnuI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Gv6T_lRAnuI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Gv6T_lRAnuI"
+      },
+      {
+        "title": "How to Convert Exchange EDB to PST Using Stellar Converter for EDB",
+        "published": "2026-01-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=0veJOO9ir14",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0veJOO9ir14/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0veJOO9ir14/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0veJOO9ir14"
+      },
+      {
+        "title": "Teams Supervised Chat | Staged Rollout Strategy ",
+        "published": "2025-11-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=XvYeeJrolAU",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XvYeeJrolAU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XvYeeJrolAU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XvYeeJrolAU"
+      },
+      {
+        "title": "Teams Private Channel Compliance Solved in 2025!",
+        "published": "2025-09-27T02:31:02+00:00",
+        "url": "https://www.youtube.com/watch?v=TF83Q0oAA2w",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TF83Q0oAA2w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TF83Q0oAA2w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TF83Q0oAA2w"
+      },
+      {
+        "title": "Stop Blocking Private Channels in MS Teams #techbytosh #msteams #microsoft #privatechannels",
+        "published": "2025-09-25T09:36:01+00:00",
+        "url": "https://www.youtube.com/watch?v=m8QxPOXxpTI",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/m8QxPOXxpTI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/m8QxPOXxpTI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "m8QxPOXxpTI"
+      },
+      {
+        "title": "Join MS Team Meeting with ID and Passcode #msteams #teamsmeeting #meeting #microsoft365 #techbytosh",
+        "published": "2025-09-25T09:21:51+00:00",
+        "url": "https://www.youtube.com/watch?v=CsDZzfrAzcw",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CsDZzfrAzcw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CsDZzfrAzcw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CsDZzfrAzcw"
+      },
+      {
+        "title": "Six Microsoft 365 Tips You Don’t Want to Miss! #outlook #msteams #loop #teamsmeeting #techbytosh",
+        "published": "2025-09-25T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=SMQvYt76-9A",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SMQvYt76-9A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SMQvYt76-9A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SMQvYt76-9A"
+      },
+      {
+        "title": "How To Join Microsoft Teams Meeting with Meeting ID and Passcode",
+        "published": "2025-09-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=L7-X6Aag4Jc",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/L7-X6Aag4Jc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/L7-X6Aag4Jc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "L7-X6Aag4Jc"
+      },
+      {
+        "title": "Private Channels MS Teams - The 2025 Group Mailbox Solution",
+        "published": "2025-09-20T02:36:41+00:00",
+        "url": "https://www.youtube.com/watch?v=GYPNZi9jWEQ",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GYPNZi9jWEQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GYPNZi9jWEQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GYPNZi9jWEQ"
+      },
+      {
+        "title": "MS Teams Just Got a HUGE Upgrade for Private Channels!",
+        "published": "2025-09-20T02:09:17+00:00",
+        "url": "https://www.youtube.com/watch?v=AtPAC0yeHvA",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AtPAC0yeHvA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AtPAC0yeHvA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AtPAC0yeHvA"
+      },
+      {
+        "title": "Stop Blocking Private Channels In Microsoft Teams | 2025 Big Changes",
+        "published": "2025-09-19T09:56:24+00:00",
+        "url": "https://www.youtube.com/watch?v=V_bW3uH9JhI",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/V_bW3uH9JhI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/V_bW3uH9JhI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "V_bW3uH9JhI"
+      },
+      {
+        "title": "6 Microsoft 365 Features You Do Not Want to Miss",
+        "published": "2025-07-01T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Ez4JsGO_vO0",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Ez4JsGO_vO0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Ez4JsGO_vO0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Ez4JsGO_vO0"
+      },
+      {
+        "title": "Migrate Legacy MFA & SSPR: Authentication Methods Policy | Microsoft Entra ID",
+        "published": "2024-04-10T06:48:55+00:00",
+        "url": "https://www.youtube.com/watch?v=IM5EeWb2GcE",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IM5EeWb2GcE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IM5EeWb2GcE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IM5EeWb2GcE"
+      },
+      {
+        "title": "New Forms Experience for Microsoft Lists: Full Tutorial",
+        "published": "2024-03-22T05:58:23+00:00",
+        "url": "https://www.youtube.com/watch?v=EHZDTAHNnV0",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/EHZDTAHNnV0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/EHZDTAHNnV0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "EHZDTAHNnV0"
+      },
+      {
+        "title": "Microsoft 365 Security for Small Businesses",
+        "published": "2024-03-20T01:59:59+00:00",
+        "url": "https://www.youtube.com/watch?v=0W0o-snDfgU",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0W0o-snDfgU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0W0o-snDfgU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0W0o-snDfgU"
+      },
+      {
+        "title": "Copy SharePoint Site Pages To Another Site - Power Automate",
+        "published": "2024-03-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=hr_c9RK_hYU",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hr_c9RK_hYU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hr_c9RK_hYU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hr_c9RK_hYU"
+      },
+      {
+        "title": "The Hidden Power of SharePoint Lists: Exploring List Relationships",
+        "published": "2024-02-21T11:37:07+00:00",
+        "url": "https://www.youtube.com/watch?v=qOQqOZ6UkRk",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qOQqOZ6UkRk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qOQqOZ6UkRk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qOQqOZ6UkRk"
+      },
+      {
+        "title": "Microsoft Lists: The Ultimate Tutorial",
+        "published": "2023-11-01T03:05:01+00:00",
+        "url": "https://www.youtube.com/watch?v=BObu6ZcM50s",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BObu6ZcM50s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BObu6ZcM50s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BObu6ZcM50s"
+      },
+      {
+        "title": "How to Hide Windows Taskbar on Your Computer: Windows 11",
+        "published": "2023-10-25T14:00:06+00:00",
+        "url": "https://www.youtube.com/watch?v=4ACo-RQNXd8",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4ACo-RQNXd8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4ACo-RQNXd8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4ACo-RQNXd8"
+      },
+      {
+        "title": "Top 5 Best Practices for SharePoint Document Libraries: Be Productive",
+        "published": "2023-10-23T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=SSSd8W16tpQ",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SSSd8W16tpQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SSSd8W16tpQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SSSd8W16tpQ"
+      },
+      {
+        "title": "Content Types in SharePoint Document Library #sharepoint #documentmanagement #techbytosh #shorts",
+        "published": "2023-10-17T22:17:05+00:00",
+        "url": "https://www.youtube.com/watch?v=CzZtWgTC0Es",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CzZtWgTC0Es/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CzZtWgTC0Es/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CzZtWgTC0Es"
+      },
+      {
+        "title": "Create Professional Email Signatures in Outlook #outlook #emailsignatures #shorts #techbytosh",
+        "published": "2023-10-17T22:09:26+00:00",
+        "url": "https://www.youtube.com/watch?v=ki9LVteHpTk",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ki9LVteHpTk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ki9LVteHpTk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ki9LVteHpTk"
+      },
+      {
+        "title": "Create Hub Sites in SharePoint Online. Learn to Create and Manage #sharepoint #shorts #techbytosh",
+        "published": "2023-10-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Nhn0mDs-e-A",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Nhn0mDs-e-A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Nhn0mDs-e-A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Nhn0mDs-e-A"
+      },
+      {
+        "title": "Retrieve Expired MS Teams Meeting Recording #msteams #teamsmeeting #teams #meeting #recording",
+        "published": "2023-10-10T06:25:14+00:00",
+        "url": "https://www.youtube.com/watch?v=75Y6fPkkYqA",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/75Y6fPkkYqA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/75Y6fPkkYqA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "75Y6fPkkYqA"
+      },
+      {
+        "title": "How to Retrieve Expired Teams Meeting Recording 🤔",
+        "published": "2023-10-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=7ad8yVc53t0",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7ad8yVc53t0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7ad8yVc53t0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7ad8yVc53t0"
+      },
+      {
+        "title": "How to Create & Add Email Signatures in Outlook #techbytosh #emailsignatures #outlook #microsoft365",
+        "published": "2023-10-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=7OtaTYnJltA",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7OtaTYnJltA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7OtaTYnJltA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7OtaTYnJltA"
+      },
+      {
+        "title": "Create Professional Email Signature in Outlook | Full Setup Guide",
+        "published": "2023-10-06T12:59:00+00:00",
+        "url": "https://www.youtube.com/watch?v=T9camd3sa6I",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/T9camd3sa6I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/T9camd3sa6I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "T9camd3sa6I"
+      },
+      {
+        "title": "Customize SharePoint List Form Using Power Apps #sharepoint #techbytosh #microsoft365 #powerapps",
+        "published": "2023-10-05T08:07:00+00:00",
+        "url": "https://www.youtube.com/watch?v=c0kKw90hQGw",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/c0kKw90hQGw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/c0kKw90hQGw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "c0kKw90hQGw"
+      },
+      {
+        "title": "How to Add a Shared Mailbox in Outlook #techbytosh #outlook #microsoft365 #emails #sharedmailbox",
+        "published": "2023-10-05T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=lIfgBdziNh8",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lIfgBdziNh8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lIfgBdziNh8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lIfgBdziNh8"
+      },
+      {
+        "title": "Boost Efficiency: Learn How to Add Shared Mailbox in Outlook",
+        "published": "2023-10-04T07:04:30+00:00",
+        "url": "https://www.youtube.com/watch?v=zSgwqC0H_ho",
+        "topic": "Outlook / email",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zSgwqC0H_ho/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zSgwqC0H_ho/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zSgwqC0H_ho"
+      },
+      {
+        "title": "How to Create a Document Library in SharePoint Online  #sharepoint",
+        "published": "2023-10-03T00:31:39+00:00",
+        "url": "https://www.youtube.com/watch?v=pmlrPFE2d0M",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pmlrPFE2d0M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pmlrPFE2d0M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pmlrPFE2d0M"
+      },
+      {
+        "title": "How to Create a Document Library in SharePoint Online: SharePoint Tutorial",
+        "published": "2023-10-03T00:07:07+00:00",
+        "url": "https://www.youtube.com/watch?v=__PmICg-2as",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/__PmICg-2as/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/__PmICg-2as/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "__PmICg-2as"
+      },
+      {
+        "title": "How to Upload Files in a SharePoint Document Library #documentlibrary #sharepoint",
+        "published": "2023-10-02T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Bu59o63EtX4",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Bu59o63EtX4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Bu59o63EtX4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Bu59o63EtX4"
+      },
+      {
+        "title": "Customize SharePoint List Forms With Power Apps - Beginner's Tutorial",
+        "published": "2023-09-29T09:13:51+00:00",
+        "url": "https://www.youtube.com/watch?v=hnAPav-0DP4",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hnAPav-0DP4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hnAPav-0DP4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hnAPav-0DP4"
+      },
+      {
+        "title": "Start Using Content Types to Manage Documents in SharePoint Document Library",
+        "published": "2023-09-26T11:53:01+00:00",
+        "url": "https://www.youtube.com/watch?v=iLZGNlits2Y",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iLZGNlits2Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iLZGNlits2Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "iLZGNlits2Y"
+      },
+      {
+        "title": "Standardise Processes Using Document Templates in SharePoint Document Libraries",
+        "published": "2023-09-21T06:27:12+00:00",
+        "url": "https://www.youtube.com/watch?v=cnG3etD6lG8",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cnG3etD6lG8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cnG3etD6lG8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cnG3etD6lG8"
+      },
+      {
+        "title": "Manage Access Tutorial: File Sharing in SharePoint OneDrive",
+        "published": "2023-08-29T06:45:27+00:00",
+        "url": "https://www.youtube.com/watch?v=QiiIn3Zv14Q",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QiiIn3Zv14Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QiiIn3Zv14Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QiiIn3Zv14Q"
+      },
+      {
+        "title": "How To Add Background Image To SharePoint Site Header: SharePoint Online",
+        "published": "2023-08-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=5M6xE7oPCgU",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5M6xE7oPCgU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5M6xE7oPCgU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5M6xE7oPCgU"
+      },
+      {
+        "title": "How To Master Sharepoint Online: The Ultimate Guide - Udemy Course",
+        "published": "2023-08-21T03:30:33+00:00",
+        "url": "https://www.youtube.com/watch?v=uVwGELUCQwY",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uVwGELUCQwY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uVwGELUCQwY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uVwGELUCQwY"
+      },
+      {
+        "title": "Say Goodbye to Folders: Use SharePoint Metadata for Document Management",
+        "published": "2023-07-27T04:27:13+00:00",
+        "url": "https://www.youtube.com/watch?v=MVUG3ifgAzk",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MVUG3ifgAzk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MVUG3ifgAzk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MVUG3ifgAzk"
+      },
+      {
+        "title": "Bye Azure Active Directory: Azure AD - Hey Microsoft Entra ID",
+        "published": "2023-07-19T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=dAFaKgfaWpU",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dAFaKgfaWpU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dAFaKgfaWpU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dAFaKgfaWpU"
+      },
+      {
+        "title": "How To Enable External Sharing in SharePoint Online: SharePoint Tutorial",
+        "published": "2023-06-14T06:25:49+00:00",
+        "url": "https://www.youtube.com/watch?v=24YVH9lrQi0",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/24YVH9lrQi0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/24YVH9lrQi0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "24YVH9lrQi0"
+      },
+      {
+        "title": "Convert Data from an Image into Excel in Seconds: No Image Convertor Required",
+        "published": "2023-06-01T00:29:01+00:00",
+        "url": "https://www.youtube.com/watch?v=DnDTIKFIR_U",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DnDTIKFIR_U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DnDTIKFIR_U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DnDTIKFIR_U"
+      },
+      {
+        "title": "How To Create Hub Sites In Sharepoint Online: Step By Step Tutorial",
+        "published": "2023-05-30T05:40:10+00:00",
+        "url": "https://www.youtube.com/watch?v=3VxEF9okzWE",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3VxEF9okzWE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3VxEF9okzWE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3VxEF9okzWE"
+      },
+      {
+        "title": "Azure Ad Guest Management: How To Manage Guest Users In Azure Active Directory - Part 2",
+        "published": "2023-05-09T03:26:58+00:00",
+        "url": "https://www.youtube.com/watch?v=QYsBkRV57Sg",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QYsBkRV57Sg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QYsBkRV57Sg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QYsBkRV57Sg"
+      },
+      {
+        "title": "Azure AD Guest Management: Account Creation -The Hidden Process Not Many Will Tell You - PART 1",
+        "published": "2023-05-01T09:18:57+00:00",
+        "url": "https://www.youtube.com/watch?v=GgjY1rPLuZ4",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GgjY1rPLuZ4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GgjY1rPLuZ4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GgjY1rPLuZ4"
+      },
+      {
+        "title": "Avatars in Microsoft Teams Meetings",
+        "published": "2023-04-11T07:39:21+00:00",
+        "url": "https://www.youtube.com/watch?v=dPHJW1RWdHA",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dPHJW1RWdHA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dPHJW1RWdHA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dPHJW1RWdHA"
+      },
+      {
+        "title": "Azure Active Directory Tutorial: Dynamic Groups",
+        "published": "2023-04-06T04:33:34+00:00",
+        "url": "https://www.youtube.com/watch?v=wM9A-Bum-E8",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wM9A-Bum-E8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wM9A-Bum-E8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wM9A-Bum-E8"
+      },
+      {
+        "title": "How To Change Expiration Date of MS Teams Meeting Recording",
+        "published": "2023-03-16T01:14:52+00:00",
+        "url": "https://www.youtube.com/watch?v=4w_yHYbuo4Y",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4w_yHYbuo4Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4w_yHYbuo4Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4w_yHYbuo4Y"
+      },
+      {
+        "title": "Where is My Teams Meeting Recording Saved? - Teams Recording File Location",
+        "published": "2023-02-28T05:10:07+00:00",
+        "url": "https://www.youtube.com/watch?v=y4PJ4wMIpDI",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/y4PJ4wMIpDI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/y4PJ4wMIpDI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "y4PJ4wMIpDI"
+      },
+      {
+        "title": "Conditional Access Policies in Azure Active Directory: MFA",
+        "published": "2023-02-27T03:26:27+00:00",
+        "url": "https://www.youtube.com/watch?v=2ffbs_FV8sM",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2ffbs_FV8sM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2ffbs_FV8sM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2ffbs_FV8sM"
+      },
+      {
+        "title": "Why Enable or Disable Security Defaults in Azure Active Directory: MFA",
+        "published": "2023-01-11T02:11:31+00:00",
+        "url": "https://www.youtube.com/watch?v=VNFYPVY0uZE",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VNFYPVY0uZE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VNFYPVY0uZE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VNFYPVY0uZE"
+      },
+      {
+        "title": "Enable Self Service Password Reset Azure Active Directory: SSPR and Azure AD",
+        "published": "2023-01-04T07:38:33+00:00",
+        "url": "https://www.youtube.com/watch?v=L8s_ILoHfzU",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/L8s_ILoHfzU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/L8s_ILoHfzU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "L8s_ILoHfzU"
+      },
+      {
+        "title": "Scan and Sign Documents from iPhone",
+        "published": "2022-10-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=4wBtwDbXMKA",
+        "topic": "Microsoft 365 tips",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4wBtwDbXMKA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4wBtwDbXMKA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4wBtwDbXMKA"
+      },
+      {
+        "title": "How To Create YouTube Shorts From Existing Videos: Part 2",
+        "published": "2022-10-01T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=-rxLKmawOG4",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-rxLKmawOG4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-rxLKmawOG4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-rxLKmawOG4"
+      },
+      {
+        "title": "How To Make YouTube Shorts On PC - Took me sometime to figure out : Part 1",
+        "published": "2022-09-30T06:30:38+00:00",
+        "url": "https://www.youtube.com/watch?v=E0sdJFZyAlU",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/E0sdJFZyAlU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/E0sdJFZyAlU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "E0sdJFZyAlU"
+      },
+      {
+        "title": "AutoFit Rows & Columns in Excel",
+        "published": "2022-09-28T03:24:31+00:00",
+        "url": "https://www.youtube.com/watch?v=ZnAvgUl0Suo",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZnAvgUl0Suo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZnAvgUl0Suo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZnAvgUl0Suo"
+      },
+      {
+        "title": "How to Create Drop Down Lists in Microsoft Excel Cells",
+        "published": "2022-09-28T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=w18DiKz_GFA",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/w18DiKz_GFA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/w18DiKz_GFA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "w18DiKz_GFA"
+      },
+      {
+        "title": "Microsoft Teams Channels: Public, Private, or Shared?",
+        "published": "2022-09-19T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ghJo-YuZZUc",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ghJo-YuZZUc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ghJo-YuZZUc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ghJo-YuZZUc"
+      },
+      {
+        "title": "Create Instant Rows in Excel: 10000 Rows in Seconds",
+        "published": "2022-09-15T08:16:17+00:00",
+        "url": "https://www.youtube.com/watch?v=SJHaZeVLo7E",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SJHaZeVLo7E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SJHaZeVLo7E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SJHaZeVLo7E"
+      },
+      {
+        "title": "Fill Data into Excel Using Shortcuts: Separate and auto populate excel data",
+        "published": "2022-09-15T05:26:41+00:00",
+        "url": "https://www.youtube.com/watch?v=jIQpZwlhGT4",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jIQpZwlhGT4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jIQpZwlhGT4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jIQpZwlhGT4"
+      },
+      {
+        "title": "How To Create Communication Site in SharePoint Online",
+        "published": "2022-07-28T04:26:12+00:00",
+        "url": "https://www.youtube.com/watch?v=pSWz2Hb-mE8",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pSWz2Hb-mE8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pSWz2Hb-mE8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pSWz2Hb-mE8"
+      },
+      {
+        "title": "Microsoft 365 Message Center Sync With MS Planner within MS Teams",
+        "published": "2022-07-25T06:32:45+00:00",
+        "url": "https://www.youtube.com/watch?v=nKlD_4QNgKI",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nKlD_4QNgKI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nKlD_4QNgKI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nKlD_4QNgKI"
+      },
+      {
+        "title": "How To Delete Blank Rows in Excel: Do Not Do This Manually",
+        "published": "2022-07-25T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=dTZKuw2xt0Q",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dTZKuw2xt0Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dTZKuw2xt0Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dTZKuw2xt0Q"
+      },
+      {
+        "title": "Separate Words in Excel with Ease: TEXTSPLIT Function",
+        "published": "2022-07-20T06:52:46+00:00",
+        "url": "https://www.youtube.com/watch?v=VV0wduRX1YA",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VV0wduRX1YA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VV0wduRX1YA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VV0wduRX1YA"
+      },
+      {
+        "title": "Combine Words in Excel from multiple cells into one",
+        "published": "2022-07-20T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=J9pLPZ3ByoU",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/J9pLPZ3ByoU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/J9pLPZ3ByoU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "J9pLPZ3ByoU"
+      },
+      {
+        "title": "Data from an image into Excel in Seconds: No manual excel data table",
+        "published": "2022-07-07T09:07:32+00:00",
+        "url": "https://www.youtube.com/watch?v=gI-BlDD7OHE",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gI-BlDD7OHE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gI-BlDD7OHE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gI-BlDD7OHE"
+      },
+      {
+        "title": "Convert PDF to Word",
+        "published": "2022-07-06T09:15:51+00:00",
+        "url": "https://www.youtube.com/watch?v=juVEyGTzXzM",
+        "topic": "Microsoft 365 tips",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/juVEyGTzXzM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/juVEyGTzXzM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "juVEyGTzXzM"
+      },
+      {
+        "title": "Quickly Sum Values in Excel Using Shortcut Key ALT = 😜",
+        "published": "2022-07-05T07:40:48+00:00",
+        "url": "https://www.youtube.com/watch?v=xNqphH47uqk",
+        "topic": "Excel / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xNqphH47uqk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xNqphH47uqk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xNqphH47uqk"
+      },
+      {
+        "title": "How to Convert Word to PDF: Export Word To PDF",
+        "published": "2022-06-07T09:38:51+00:00",
+        "url": "https://www.youtube.com/watch?v=A1q4nUbX-QQ",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/A1q4nUbX-QQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/A1q4nUbX-QQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "A1q4nUbX-QQ"
+      },
+      {
+        "title": "How to Convert PDF To Word Document",
+        "published": "2022-06-07T08:51:28+00:00",
+        "url": "https://www.youtube.com/watch?v=IampzyARMTQ",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IampzyARMTQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IampzyARMTQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IampzyARMTQ"
+      },
+      {
+        "title": "How To Use Microsoft Power Pages: Create Business Websites without using code",
+        "published": "2022-06-06T08:22:51+00:00",
+        "url": "https://www.youtube.com/watch?v=gB2flxitBCg",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gB2flxitBCg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gB2flxitBCg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gB2flxitBCg"
+      },
+      {
+        "title": "Exclude Document Library from SharePoint Online Search Results",
+        "published": "2022-06-02T01:00:45+00:00",
+        "url": "https://www.youtube.com/watch?v=XN28LlV-wP8",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XN28LlV-wP8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XN28LlV-wP8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XN28LlV-wP8"
+      },
+      {
+        "title": "SharePoint Online External Sharing Report for Site Files Folders & Documents",
+        "published": "2022-05-19T06:09:55+00:00",
+        "url": "https://www.youtube.com/watch?v=cp21NhVrST8",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cp21NhVrST8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cp21NhVrST8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cp21NhVrST8"
+      },
+      {
+        "title": "How to use Workflows in Microsoft Teams",
+        "published": "2022-05-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=eLtt1JPg5xs",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/eLtt1JPg5xs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/eLtt1JPg5xs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "eLtt1JPg5xs"
+      },
+      {
+        "title": "How to Get Microsoft Office for FREE: No Product Key Required",
+        "published": "2022-05-16T08:47:51+00:00",
+        "url": "https://www.youtube.com/watch?v=idlNJKW6yic",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/idlNJKW6yic/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/idlNJKW6yic/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "idlNJKW6yic"
+      },
+      {
+        "title": "Why Stop External Sharing of SharePoint OneDrive Files Using Anyone Link: Part 2",
+        "published": "2022-04-06T00:17:43+00:00",
+        "url": "https://www.youtube.com/watch?v=N5BigNrva5Q",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/N5BigNrva5Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/N5BigNrva5Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "N5BigNrva5Q"
+      },
+      {
+        "title": "Anyone With The Link SharePoint Online & OneDrive External Sharing: Part 1",
+        "published": "2022-04-04T21:45:28+00:00",
+        "url": "https://www.youtube.com/watch?v=HEuWRbGpc6g",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HEuWRbGpc6g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HEuWRbGpc6g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HEuWRbGpc6g"
+      },
+      {
+        "title": "SharePoint Online Site Permissions Tutorial: Complete Guide",
+        "published": "2021-10-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=fWCI1dCk6f0",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fWCI1dCk6f0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fWCI1dCk6f0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fWCI1dCk6f0"
+      },
+      {
+        "title": "SharePoint Site Templates Tutorial: Learn How to Use",
+        "published": "2021-10-18T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=4x5NuGUY8Hk",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4x5NuGUY8Hk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4x5NuGUY8Hk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4x5NuGUY8Hk"
+      },
+      {
+        "title": "Share Screen and Videos in Teams Meeting: Step By Step Tutorial",
+        "published": "2021-09-16T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=qGLlvhZLBGk",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qGLlvhZLBGk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qGLlvhZLBGk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qGLlvhZLBGk"
+      },
+      {
+        "title": "How to use Presenter Mode in Microsoft Teams Meeting presentations: 2021 features in Teams",
+        "published": "2021-09-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=l2G14vfo_9E",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/l2G14vfo_9E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/l2G14vfo_9E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "l2G14vfo_9E"
+      },
+      {
+        "title": "PowerPoint Live Presentations in Teams Meetings with Annotation Tools: MS Teams",
+        "published": "2021-09-06T12:10:25+00:00",
+        "url": "https://www.youtube.com/watch?v=a2wsRu1ZZwo",
+        "topic": "PowerPoint / Copilot",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/a2wsRu1ZZwo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/a2wsRu1ZZwo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "a2wsRu1ZZwo"
+      },
+      {
+        "title": "How to Share Teams Meeting Invite to Large Group",
+        "published": "2021-09-03T08:39:02+00:00",
+        "url": "https://www.youtube.com/watch?v=4MmLjl-Ps4M",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4MmLjl-Ps4M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4MmLjl-Ps4M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4MmLjl-Ps4M"
+      },
+      {
+        "title": "How To Create Teams Meeting in Microsoft Teams",
+        "published": "2021-09-03T08:38:52+00:00",
+        "url": "https://www.youtube.com/watch?v=ydE85Q2U9-w",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ydE85Q2U9-w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ydE85Q2U9-w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ydE85Q2U9-w"
+      },
+      {
+        "title": "How to use SharePoint Document Library - Complete Beginners Tutorial With Pro Tips & Tricks",
+        "published": "2021-08-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=OchUuUxRL_A",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OchUuUxRL_A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OchUuUxRL_A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OchUuUxRL_A"
+      },
+      {
+        "title": "How to stop anonymous users to join Microsoft Teams meetings",
+        "published": "2021-08-12T08:17:26+00:00",
+        "url": "https://www.youtube.com/watch?v=mvS79wyoRUA",
+        "topic": "Teams / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mvS79wyoRUA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mvS79wyoRUA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mvS79wyoRUA"
+      },
+      {
+        "title": "What is SharePoint? -  Learn how to use SharePoint",
+        "published": "2021-08-07T09:28:01+00:00",
+        "url": "https://www.youtube.com/watch?v=pBj_LRzYEUM",
+        "topic": "SharePoint / Microsoft 365",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pBj_LRzYEUM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pBj_LRzYEUM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pBj_LRzYEUM"
       }
     ]
   }
