@@ -530,6 +530,36 @@
     "channel_url": "https://www.youtube.com/@ompshek",
     "videos": [
       {
+        "title": "ChatGPT 開放商戶認領：藍剔驗證、Business Agent、Shopify 一鍵接入 #AI新聞",
+        "published": "2026-11-11T00:25:04+00:00",
+        "url": "https://www.youtube.com/watch?v=U3CCoWlXx2g",
+        "topic": "AI news / ChatGPT Business",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U3CCoWlXx2g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U3CCoWlXx2g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U3CCoWlXx2g"
+      },
+      {
+        "title": "Claude Fable 5.2：1,000 個 AI Agent 30 小時驗證費馬定理 #Shorts",
+        "published": "2026-11-10T00:47:01+00:00",
+        "url": "https://www.youtube.com/shorts/agr2krcOBLs",
+        "topic": "AI news / Claude Fable",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/agr2krcOBLs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/agr2krcOBLs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "agr2krcOBLs"
+      },
+      {
+        "title": "AI 讓強者更強 | 還需要「讀書」嗎？",
+        "published": "2026-11-09T15:05:20+00:00",
+        "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
+        "topic": "AI commentary / education",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/upQmUK5iy7s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/upQmUK5iy7s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "upQmUK5iy7s"
+      },
+      {
         "title": "這把聲音不是我錄的！Gemini 3.8 Flash TTS 30 秒複製聲音 #Shorts",
         "published": "2026-11-09T09:28:59+00:00",
         "url": "https://www.youtube.com/shorts/BYZAZCuJd5o",
@@ -777,6 +807,16 @@
     "channel_id": "UCfbMslS3NmcGO4WIikSoYSA",
     "channel_url": "https://www.youtube.com/@kellytsaii",
     "videos": [
+      {
+        "title": "AI時代最大的謊言：除了七大科技公司，根本沒人賺到錢！AI到底是不是泡沫？｜Kelly Tsai",
+        "published": "2026-11-10T12:00:16+00:00",
+        "url": "https://www.youtube.com/watch?v=ePXqAxP01to",
+        "topic": "AI commentary / industry",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ePXqAxP01to/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ePXqAxP01to/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ePXqAxP01to"
+      },
       {
         "title": "小時候父母不願意聆聽自己，長大後變得會「過度補償」？｜Kelly Tsai",
         "published": "2026-11-08T10:00:10+00:00",
@@ -1046,6 +1086,36 @@
     "channel_url": "https://www.youtube.com/@kocpc",
     "videos": [
       {
+        "title": "只靠三行提示詞，Fable 5.2 就做出可玩的《戰爭機器》遊戲克隆版！但成本驚人",
+        "published": "2026-11-11T12:22:14+00:00",
+        "url": "https://www.youtube.com/watch?v=i0NDuwNSogY",
+        "topic": "AI news / Claude Fable",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/i0NDuwNSogY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/i0NDuwNSogY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "i0NDuwNSogY"
+      },
+      {
+        "title": "Anthropic 推出 Claude Fable 5.2、Mythos 5.2！可打造作業系統、解決黑洞難題",
+        "published": "2026-11-10T12:20:35+00:00",
+        "url": "https://www.youtube.com/watch?v=swWSc0gMsek",
+        "topic": "AI news / Claude",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/swWSc0gMsek/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/swWSc0gMsek/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "swWSc0gMsek"
+      },
+      {
+        "title": "iPhone / iPad 秒變 Macbook！Henge 預告",
+        "published": "2026-11-09T15:49:41+00:00",
+        "url": "https://www.youtube.com/shorts/VV2NT2jtBEE",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VV2NT2jtBEE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VV2NT2jtBEE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VV2NT2jtBEE"
+      },
+      {
         "title": "歐洲超市、血庫冰箱大量被駭事件真相曝光！駭客根本沒用 AI",
         "published": "2026-11-09T03:36:23+00:00",
         "url": "https://www.youtube.com/shorts/42FAVJ308cM",
@@ -1273,6 +1343,36 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "40 個鏡頭，我們做了 80 個版本：AI 影片不是一句話｜AI 影片新手課 1",
+        "published": "2026-11-11T22:13:39+00:00",
+        "url": "https://www.youtube.com/watch?v=hA81WBOd7pk",
+        "topic": "AI video / tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hA81WBOd7pk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hA81WBOd7pk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hA81WBOd7pk"
+      },
+      {
+        "title": "週期表中間，一首歌背起來｜《第幾排》29 個過渡金屬 MV",
+        "published": "2026-11-10T22:41:09+00:00",
+        "url": "https://www.youtube.com/watch?v=TR1JL5YuiA8",
+        "topic": "Education / science",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TR1JL5YuiA8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TR1JL5YuiA8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TR1JL5YuiA8"
+      },
+      {
+        "title": "週期表，一首歌背起來｜《哪一族》44 個主族元素 MV",
+        "published": "2026-11-09T14:16:56+00:00",
+        "url": "https://www.youtube.com/watch?v=ie2OCjBnj3k",
+        "topic": "Education / science",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ie2OCjBnj3k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ie2OCjBnj3k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ie2OCjBnj3k"
+      },
       {
         "title": "Google AI 基本功 Gemini 任務模式實測，接 Kahoot、Canva、Padlet 全靠一句話",
         "published": "2026-11-08T22:57:59+00:00",
@@ -1750,6 +1850,36 @@
     "channel_url": "https://www.youtube.com/@GinsengTryCatch",
     "videos": [
       {
+        "title": "主管才懂 2：Grok Bot 縮水之後，我在部門架了開源平替",
+        "published": "2026-11-12T04:30:49+00:00",
+        "url": "https://www.youtube.com/watch?v=5HCH9kP88n0",
+        "topic": "Grok Bot / open-source alternative",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5HCH9kP88n0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5HCH9kP88n0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5HCH9kP88n0"
+      },
+      {
+        "title": "你知道嗎：vibe coding 為什麼要懂 CI/CD？AI 寫得快，上線也要快又穩",
+        "published": "2026-11-11T10:31:12+00:00",
+        "url": "https://www.youtube.com/watch?v=hcVa4K4dFjE",
+        "topic": "Tech / vibe coding",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hcVa4K4dFjE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hcVa4K4dFjE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hcVa4K4dFjE"
+      },
+      {
+        "title": "你知道嗎：Grok Bot 降智又縮水、從夯到拉，馬斯克親上火線救火有用嗎？",
+        "published": "2026-11-10T14:09:03+00:00",
+        "url": "https://www.youtube.com/watch?v=PyVCMs7l-ww",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PyVCMs7l-ww/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PyVCMs7l-ww/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PyVCMs7l-ww"
+      },
+      {
         "title": "逆風發言：永豐網銀被盜轉、網路罵翻，我想替它講幾句話",
         "published": "2026-11-08T10:58:46+00:00",
         "url": "https://www.youtube.com/watch?v=2QEyUXbNedY",
@@ -1917,6 +2047,16 @@
     "channel_id": "UC7QlvGqTgWMFHeAQUI0X7ww",
     "channel_url": "https://www.youtube.com/@ivever5",
     "videos": [
+      {
+        "title": "一群鼠标现场搭网站！免费 Chrome 插件，点一下复刻任意网页",
+        "published": "2026-11-10T03:16:53+00:00",
+        "url": "https://www.youtube.com/watch?v=wc5t8tCGyKA",
+        "topic": "AI tools / Chrome extension",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wc5t8tCGyKA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wc5t8tCGyKA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wc5t8tCGyKA"
+      },
       {
         "title": "MiniMax H3 最强人物替换&动作迁移、一张图整段视频换主角、不用lora、长视频自动分段续接、附提示词Skills",
         "published": "2026-11-08T15:36:16+00:00",
@@ -3652,6 +3792,3024 @@
         "thumbnail_hq": "https://i.ytimg.com/vi/pBj_LRzYEUM/hqdefault.jpg",
         "local_thumb": null,
         "video_id": "pBj_LRzYEUM"
+      }
+    ]
+  },
+  {
+    "channel_name": "GitCovery",
+    "handle": "@GitCovery",
+    "channel_id": "UCBnIBXjWVKnkxDOwChuBHFA",
+    "channel_url": "https://www.youtube.com/@GitCovery",
+    "videos": [
+      {
+        "title": "browser-use 有 3 種用法：Cloud API、CLI、Python Library 怎麼選？",
+        "published": "2026-11-12T01:23:44+00:00",
+        "url": "https://www.youtube.com/watch?v=0maueaS5Bhs",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0maueaS5Bhs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0maueaS5Bhs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0maueaS5Bhs"
+      },
+      {
+        "title": "前後端狀態同步太費工？Topcoat 用 Rust 串起資料與互動頁面",
+        "published": "2026-11-11T01:24:53+00:00",
+        "url": "https://www.youtube.com/watch?v=Y4IKmI6DU1c",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Y4IKmI6DU1c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Y4IKmI6DU1c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Y4IKmI6DU1c"
+      },
+      {
+        "title": "AI 點錯網頁還得重跑？agent-browser 用 snapshot 幫你逐步驗證",
+        "published": "2026-11-10T01:22:22+00:00",
+        "url": "https://www.youtube.com/watch?v=l8XbCIFWG4g",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/l8XbCIFWG4g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/l8XbCIFWG4g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "l8XbCIFWG4g"
+      },
+      {
+        "title": "Concat 自動剪片怎麼做？用 JSON-RPC 和 MCP 讓 AI agent 操作剪輯器",
+        "published": "2026-11-09T01:22:54+00:00",
+        "url": "https://www.youtube.com/watch?v=R8ylAB-Yotk",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/R8ylAB-Yotk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/R8ylAB-Yotk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "R8ylAB-Yotk"
+      },
+      {
+        "title": "voicebox 幾秒音檔就能複製聲線？從錄音到 AI 配音一次看懂",
+        "published": "2026-11-08T01:24:22+00:00",
+        "url": "https://www.youtube.com/watch?v=DXRkEbyyAxQ",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DXRkEbyyAxQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DXRkEbyyAxQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DXRkEbyyAxQ"
+      },
+      {
+        "title": "Zed 讓遠端結對少點折騰：不用再靠截圖解釋程式脈絡",
+        "published": "2026-11-07T01:22:06+00:00",
+        "url": "https://www.youtube.com/watch?v=UABXX4MGQEo",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UABXX4MGQEo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UABXX4MGQEo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UABXX4MGQEo"
+      },
+      {
+        "title": "t3code 比 Codex 桌面版多了什麼？手機也能控制 AI coding agents",
+        "published": "2026-11-06T01:24:12+00:00",
+        "url": "https://www.youtube.com/watch?v=8byHtkob6Rg",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8byHtkob6Rg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8byHtkob6Rg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8byHtkob6Rg"
+      },
+      {
+        "title": "NVIDIA/auto-ontology 查詢附上 SQL 與資料列：讓 AI 答案有跡可查",
+        "published": "2026-11-05T01:25:28+00:00",
+        "url": "https://www.youtube.com/watch?v=SpqtLVvDhqg",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SpqtLVvDhqg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SpqtLVvDhqg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SpqtLVvDhqg"
+      },
+      {
+        "title": "AI 文稿越改越像罐頭？blader/humanizer 幫你找出浮誇與冗詞",
+        "published": "2026-11-04T01:24:02+00:00",
+        "url": "https://www.youtube.com/watch?v=GOndwmTzt74",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GOndwmTzt74/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GOndwmTzt74/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GOndwmTzt74"
+      },
+      {
+        "title": "誰說 AI 操作桌面只能猜座標？agent-desktop 讓元件可讀、錯誤可追",
+        "published": "2026-11-03T01:23:50+00:00",
+        "url": "https://www.youtube.com/watch?v=Zdwmm244eKU",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Zdwmm244eKU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Zdwmm244eKU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Zdwmm244eKU"
+      },
+      {
+        "title": "AI agent 上線前先跑 10 項檢查！iFixAi 快速找出行為風險",
+        "published": "2026-11-02T01:24:05+00:00",
+        "url": "https://www.youtube.com/watch?v=k370qqHrTRk",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/k370qqHrTRk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/k370qqHrTRk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "k370qqHrTRk"
+      },
+      {
+        "title": "DevOps 面試只能背答案？devops-exercises 練架構取捨與反問能力",
+        "published": "2026-11-01T01:21:32+00:00",
+        "url": "https://www.youtube.com/watch?v=fjN4D610iFs",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fjN4D610iFs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fjN4D610iFs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fjN4D610iFs"
+      },
+      {
+        "title": "AI 能碰瀏覽器和 Shell？CopilotKit/OpenBot 每次操作都先過政策檢查",
+        "published": "2026-10-31T01:21:30+00:00",
+        "url": "https://www.youtube.com/watch?v=qPd9iz5ZD_s",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qPd9iz5ZD_s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qPd9iz5ZD_s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qPd9iz5ZD_s"
+      },
+      {
+        "title": "OpenMausBot 串起 Claude 與 Codex CLI：集中管理多個 AI 代理人",
+        "published": "2026-10-30T01:24:30+00:00",
+        "url": "https://www.youtube.com/watch?v=E3MKfdY4ets",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/E3MKfdY4ets/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/E3MKfdY4ets/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "E3MKfdY4ets"
+      },
+      {
+        "title": "SEO 報告看不懂怎麼改？claude-seo 把檢查結果變成待辦清單",
+        "published": "2026-10-29T01:22:19+00:00",
+        "url": "https://www.youtube.com/watch?v=d9kYaB7eYBE",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/d9kYaB7eYBE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/d9kYaB7eYBE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "d9kYaB7eYBE"
+      },
+      {
+        "title": "62 條規則抓 AI 前端問題！impeccable 不用 API key 也能掃描",
+        "published": "2026-10-28T01:21:49+00:00",
+        "url": "https://www.youtube.com/watch?v=Z3wGkq7uzSQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z3wGkq7uzSQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z3wGkq7uzSQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Z3wGkq7uzSQ"
+      },
+      {
+        "title": "裝 skill 前別只看原始碼！SkillSpector 連 prompt injection 都能掃",
+        "published": "2026-10-27T01:23:55+00:00",
+        "url": "https://www.youtube.com/watch?v=EC0_L9wYef8",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/EC0_L9wYef8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/EC0_L9wYef8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "EC0_L9wYef8"
+      },
+      {
+        "title": "AstrBot 讓 AI 助理進入工作群組：減少反覆切換聊天工具",
+        "published": "2026-10-26T01:21:18+00:00",
+        "url": "https://www.youtube.com/watch?v=9vVH6M4ybpQ",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9vVH6M4ybpQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9vVH6M4ybpQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9vVH6M4ybpQ"
+      },
+      {
+        "title": "命盤資料拿來做 RAG：ziwei-doushu 釋出 67.5 萬張命盤",
+        "published": "2026-10-24T01:20:35+00:00",
+        "url": "https://www.youtube.com/watch?v=D_ENS0FJ1XA",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/D_ENS0FJ1XA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/D_ENS0FJ1XA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "D_ENS0FJ1XA"
+      },
+      {
+        "title": "信任 AI agent 自己守規矩？anthropics/sandbox-runtime 直接從 OS 限權",
+        "published": "2026-10-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=5gZyDIVqfNI",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5gZyDIVqfNI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5gZyDIVqfNI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5gZyDIVqfNI"
+      },
+      {
+        "title": "後端功能一個個串太費時？supabase/supabase 幫你整合登入與資料庫",
+        "published": "2026-10-23T01:21:36+00:00",
+        "url": "https://www.youtube.com/watch?v=KYziseGaJY0",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KYziseGaJY0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KYziseGaJY0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KYziseGaJY0"
+      },
+      {
+        "title": "Claude Code 設定總是卡關？claude-howto 用可複製範本帶你走完整個流程",
+        "published": "2026-10-22T01:23:29+00:00",
+        "url": "https://www.youtube.com/watch?v=_u-OgYJnwqI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_u-OgYJnwqI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_u-OgYJnwqI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_u-OgYJnwqI"
+      },
+      {
+        "title": "dsh-pet 桌寵藏百餘種情境動作：AI 工作狀態一眼看懂",
+        "published": "2026-10-21T01:21:19+00:00",
+        "url": "https://www.youtube.com/watch?v=rIs5iTpcc0g",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rIs5iTpcc0g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rIs5iTpcc0g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rIs5iTpcc0g"
+      },
+      {
+        "title": "大型 codebase 看不懂？Claude Code 幫你追程式脈絡、整理修改方向",
+        "published": "2026-10-20T01:24:42+00:00",
+        "url": "https://www.youtube.com/watch?v=KYBEHO8RP00",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KYBEHO8RP00/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KYBEHO8RP00/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KYBEHO8RP00"
+      },
+      {
+        "title": "folia-major 自架歌詞播放器：用 Docker 部署自己的沉浸式聽歌頁",
+        "published": "2026-10-18T01:23:48+00:00",
+        "url": "https://www.youtube.com/watch?v=2njOX-eMSag",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2njOX-eMSag/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2njOX-eMSag/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2njOX-eMSag"
+      },
+      {
+        "title": "OBS 按鍵顯示還在用固定版面？DmNote 讓每顆鍵都能換圖",
+        "published": "2026-10-18T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ynXZm9EZbBY",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ynXZm9EZbBY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ynXZm9EZbBY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ynXZm9EZbBY"
+      },
+      {
+        "title": "XERJ 自動索引整個資料夾：免寫 schema 就能搜尋 PDF 與程式碼",
+        "published": "2026-10-16T01:35:47+00:00",
+        "url": "https://www.youtube.com/watch?v=LvGYQ__YxiI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LvGYQ__YxiI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LvGYQ__YxiI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LvGYQ__YxiI"
+      },
+      {
+        "title": "片源常失效很煩？LibreTV 自動停用異常來源，追劇少踩雷",
+        "published": "2026-10-16T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=qOOMoFPuEZ4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qOOMoFPuEZ4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qOOMoFPuEZ4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qOOMoFPuEZ4"
+      },
+      {
+        "title": "Rust 原始碼怎麼讀？rust-lang/rust 的 3 個入口幫你少走彎路",
+        "published": "2026-10-15T01:34:22+00:00",
+        "url": "https://www.youtube.com/watch?v=Si7pcUTKrSI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Si7pcUTKrSI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Si7pcUTKrSI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Si7pcUTKrSI"
+      },
+      {
+        "title": "ArtCraft 整合 62 個模型：AI 影像創作為何走向視覺化控制？",
+        "published": "2026-10-14T01:33:09+00:00",
+        "url": "https://www.youtube.com/watch?v=C-B0voGwDYY",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/C-B0voGwDYY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/C-B0voGwDYY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "C-B0voGwDYY"
+      },
+      {
+        "title": "顯卡 VRAM 不夠？airllm 逐層載入模型，讓 4GB GPU 也能跑 70B",
+        "published": "2026-10-12T01:38:03+00:00",
+        "url": "https://www.youtube.com/watch?v=nuE6DAWXXx4",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nuE6DAWXXx4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nuE6DAWXXx4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nuE6DAWXXx4"
+      },
+      {
+        "title": "影片改一版就重剪？Remotion 用版本控制與元件減少重工",
+        "published": "2026-10-11T01:32:42+00:00",
+        "url": "https://www.youtube.com/watch?v=it7zxcH-eKU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/it7zxcH-eKU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/it7zxcH-eKU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "it7zxcH-eKU"
+      },
+      {
+        "title": "AI agent 每次重開都像失憶？claude-mem 讓專案決策跨 session 留存",
+        "published": "2026-10-10T01:32:06+00:00",
+        "url": "https://www.youtube.com/watch?v=O6c0NPIIK6k",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/O6c0NPIIK6k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/O6c0NPIIK6k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "O6c0NPIIK6k"
+      },
+      {
+        "title": "AI agent 工具越接越亂？treg 幫你統一入口、管理團隊金鑰",
+        "published": "2026-10-08T01:31:06+00:00",
+        "url": "https://www.youtube.com/watch?v=2WIIIP88eso",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2WIIIP88eso/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2WIIIP88eso/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2WIIIP88eso"
+      },
+      {
+        "title": "不會寫 Agent 程式也能開始！docker/docker-agent 用 YAML 定義模型與工具",
+        "published": "2026-10-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Vbi1o5ukV3Y",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Vbi1o5ukV3Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Vbi1o5ukV3Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Vbi1o5ukV3Y"
+      },
+      {
+        "title": "AI 逆向分析怕亂猜？morluto/rea 用證據與信心標示追查結論",
+        "published": "2026-10-07T01:32:41+00:00",
+        "url": "https://www.youtube.com/watch?v=X5ayfedIG5U",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/X5ayfedIG5U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/X5ayfedIG5U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "X5ayfedIG5U"
+      },
+      {
+        "title": "Windows 最佳化不用賭設定？optimizerDuck 逐項標風險還能還原",
+        "published": "2026-10-06T01:31:59+00:00",
+        "url": "https://www.youtube.com/watch?v=wIriaDr3JlA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wIriaDr3JlA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wIriaDr3JlA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wIriaDr3JlA"
+      },
+      {
+        "title": "tester-army/e2e 比每次都呼叫 AI 省在哪？重播已驗證步驟減少成本",
+        "published": "2026-10-05T01:37:32+00:00",
+        "url": "https://www.youtube.com/watch?v=bd_eTUSzo24",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bd_eTUSzo24/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bd_eTUSzo24/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bd_eTUSzo24"
+      },
+      {
+        "title": "AI agents 一重啟就難接手？mvschwarz/openrig 讓角色與工作脈絡延續",
+        "published": "2026-10-04T01:30:28+00:00",
+        "url": "https://www.youtube.com/watch?v=L6jQbY8WuPw",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/L6jQbY8WuPw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/L6jQbY8WuPw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "L6jQbY8WuPw"
+      },
+      {
+        "title": "DBeaver 太重？t8y2/dbx 用約 25 MB 管理 100+ 種資料服務",
+        "published": "2026-10-02T01:27:14+00:00",
+        "url": "https://www.youtube.com/watch?v=a9TijRzrs20",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/a9TijRzrs20/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/a9TijRzrs20/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "a9TijRzrs20"
+      },
+      {
+        "title": "i-have-adhd 和簡潔回答指令差在哪？10 條規則讓 Coding Agent 少繞圈",
+        "published": "2026-10-02T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=POdBDkPoaqE",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/POdBDkPoaqE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/POdBDkPoaqE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "POdBDkPoaqE"
+      },
+      {
+        "title": "影片改一版就要重剪？fframes 用程式管理場景與動畫",
+        "published": "2026-09-30T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=gtMtXLQcdAc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gtMtXLQcdAc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gtMtXLQcdAc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gtMtXLQcdAc"
+      },
+      {
+        "title": "AI Agent 要權限又怕洩密？OpenShell 讓憑證只送往核准端點",
+        "published": "2026-09-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=AWSopoG4iMQ",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AWSopoG4iMQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AWSopoG4iMQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AWSopoG4iMQ"
+      },
+      {
+        "title": "昂貴課程還只給影片？freeCodeCamp/freeCodeCamp 免費做到實作與認證",
+        "published": "2026-09-28T01:27:33+00:00",
+        "url": "https://www.youtube.com/watch?v=uUWLUbrti1k",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uUWLUbrti1k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uUWLUbrti1k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uUWLUbrti1k"
+      },
+      {
+        "title": "一個 AI 同時聊 Discord 又玩 Minecraft？moeru-ai/airi 實測",
+        "published": "2026-09-28T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=BLeGy2QWtc0",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BLeGy2QWtc0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BLeGy2QWtc0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BLeGy2QWtc0"
+      },
+      {
+        "title": "視覺模型才是 App 自動化未來？mobile-next/mobile-mcp 用結構化 UI 反擊",
+        "published": "2026-09-27T01:30:28+00:00",
+        "url": "https://www.youtube.com/watch?v=OWhatsBRY7Y",
+        "topic": "AI tooling / MCP",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OWhatsBRY7Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OWhatsBRY7Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OWhatsBRY7Y"
+      },
+      {
+        "title": "別再讓 AI 偷燒預算！paperclipai/paperclip 即時管控成本與權限",
+        "published": "2026-09-25T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=46RZJpJMNkU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/46RZJpJMNkU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/46RZJpJMNkU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "46RZJpJMNkU"
+      },
+      {
+        "title": "AI 計費快速上線！flexprice/flexprice 一站整合額度與發票",
+        "published": "2026-09-24T01:33:19+00:00",
+        "url": "https://www.youtube.com/watch?v=XVG9heYfYkQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XVG9heYfYkQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XVG9heYfYkQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XVG9heYfYkQ"
+      },
+      {
+        "title": "AI Agent 持續學習！vectorize-io/hindsight 三步建立長期記憶",
+        "published": "2026-09-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Xz_puS_nIb8",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Xz_puS_nIb8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Xz_puS_nIb8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Xz_puS_nIb8"
+      },
+      {
+        "title": "Agent 成本爆表前必看 google/ax：暫停、續跑又隔離",
+        "published": "2026-09-23T01:31:00+00:00",
+        "url": "https://www.youtube.com/watch?v=8rRKBX6SDKo",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8rRKBX6SDKo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8rRKBX6SDKo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8rRKBX6SDKo"
+      },
+      {
+        "title": "MVT v3 已改輸出格式：既有自動化腳本現在就該驗證",
+        "published": "2026-09-22T01:42:48+00:00",
+        "url": "https://www.youtube.com/watch?v=1mOSAtJN8AI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1mOSAtJN8AI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1mOSAtJN8AI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1mOSAtJN8AI"
+      },
+      {
+        "title": "WeKnora 一套整合 6 大能力：RAG、Agent、Wiki 全包",
+        "published": "2026-09-20T01:33:04+00:00",
+        "url": "https://www.youtube.com/watch?v=lbDGVSHnCTI",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lbDGVSHnCTI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lbDGVSHnCTI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lbDGVSHnCTI"
+      },
+      {
+        "title": "剪一支長片還要熬夜？AutoClip 把找高光到輸出全自動化",
+        "published": "2026-09-20T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=fkpUANf_wj4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fkpUANf_wj4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fkpUANf_wj4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fkpUANf_wj4"
+      },
+      {
+        "title": "open-code-review 對決通用 Agent：少用九成 token 精準抓 Bug",
+        "published": "2026-09-18T01:31:23+00:00",
+        "url": "https://www.youtube.com/watch?v=rX3QiufY6BA",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rX3QiufY6BA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rX3QiufY6BA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rX3QiufY6BA"
+      },
+      {
+        "title": "AI 看不到你的舊資料？asciimoo/hister 讓私人知識重新可用",
+        "published": "2026-09-18T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=r2azOv0cGBw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/r2azOv0cGBw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/r2azOv0cGBw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "r2azOv0cGBw"
+      },
+      {
+        "title": "block/buzz 一個房間整合六種流程：聊天、patch、CI 全留證",
+        "published": "2026-09-17T01:31:19+00:00",
+        "url": "https://www.youtube.com/watch?v=OgVOqvupi9c",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OgVOqvupi9c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OgVOqvupi9c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OgVOqvupi9c"
+      },
+      {
+        "title": "一套 API 串起四大模型！supervision 加速電腦視覺開發",
+        "published": "2026-09-16T01:29:14+00:00",
+        "url": "https://www.youtube.com/watch?v=xhbDGNTMe1s",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xhbDGNTMe1s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xhbDGNTMe1s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xhbDGNTMe1s"
+      },
+      {
+        "title": "MiroFish 挑戰單次 AI 分析：用 Multi-Agent 反覆推演風險",
+        "published": "2026-09-15T01:34:34+00:00",
+        "url": "https://www.youtube.com/watch?v=4SHedgANsw4",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4SHedgANsw4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4SHedgANsw4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4SHedgANsw4"
+      },
+      {
+        "title": "3B 模型包辦三種創作！YuE 新歌、翻唱、改編一次掌握",
+        "published": "2026-09-13T01:25:53+00:00",
+        "url": "https://www.youtube.com/watch?v=xLmc_R7K3uI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xLmc_R7K3uI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xLmc_R7K3uI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xLmc_R7K3uI"
+      },
+      {
+        "title": "別再被 429 卡住！freellmapi 自動輪替金鑰救回開發流程",
+        "published": "2026-09-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=1eOac7QJl1I",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1eOac7QJl1I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1eOac7QJl1I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1eOac7QJl1I"
+      },
+      {
+        "title": "後端還在忍受複雜工具鏈？golang/go 讓建置回歸簡單",
+        "published": "2026-09-12T01:25:51+00:00",
+        "url": "https://www.youtube.com/watch?v=LlBLqX4u9pg",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LlBLqX4u9pg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LlBLqX4u9pg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LlBLqX4u9pg"
+      },
+      {
+        "title": "AI 交易只能黑箱？CloddsBot 用決策帳本打造可審計交易",
+        "published": "2026-09-11T01:28:33+00:00",
+        "url": "https://www.youtube.com/watch?v=cVOnKcnLb6g",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cVOnKcnLb6g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cVOnKcnLb6g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cVOnKcnLb6g"
+      },
+      {
+        "title": "別等程式碼失控！PI-Desktop 用權限層攔住危險指令與修改",
+        "published": "2026-09-10T01:28:50+00:00",
+        "url": "https://www.youtube.com/watch?v=HPO023auquY",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HPO023auquY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HPO023auquY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HPO023auquY"
+      },
+      {
+        "title": "快速打造 LLM 文件管線！microsoft/markitdown 保留表格與連結",
+        "published": "2026-09-08T01:27:15+00:00",
+        "url": "https://www.youtube.com/watch?v=CiAGJMAeY6w",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CiAGJMAeY6w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CiAGJMAeY6w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CiAGJMAeY6w"
+      },
+      {
+        "title": "一套設定同步四種 AI 工具！Tencent/teamai-cli 團隊協作實測",
+        "published": "2026-09-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=dmPZ1u8SUUA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dmPZ1u8SUUA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dmPZ1u8SUUA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dmPZ1u8SUUA"
+      },
+      {
+        "title": "小語種憑什麼被TTS忽略？k2-fsa/OmniVoice支援超過600語",
+        "published": "2026-09-06T01:24:26+00:00",
+        "url": "https://www.youtube.com/watch?v=jgSAE6uC1MU",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jgSAE6uC1MU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jgSAE6uC1MU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jgSAE6uC1MU"
+      },
+      {
+        "title": "推理帳單還在暴增？experiential 零加價 BYOK 守住 AI 預算",
+        "published": "2026-09-06T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=eQ3dxiZBxJg",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/eQ3dxiZBxJg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/eQ3dxiZBxJg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "eQ3dxiZBxJg"
+      },
+      {
+        "title": "nodeterm 一張畫布管 7 種工具：開發脈絡再也不失蹤",
+        "published": "2026-09-04T01:30:16+00:00",
+        "url": "https://www.youtube.com/watch?v=mXjKyDnpnkU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mXjKyDnpnkU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mXjKyDnpnkU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mXjKyDnpnkU"
+      },
+      {
+        "title": "程式脈絡不出本機！pacifio/atlas 離線協作還能自動清除 secrets",
+        "published": "2026-09-02T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=iyeR0S2ssgk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iyeR0S2ssgk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iyeR0S2ssgk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "iyeR0S2ssgk"
+      },
+      {
+        "title": "12693 星別錯過！VoiceStudio 一次包辦配音、聽寫與有聲書",
+        "published": "2026-09-01T01:31:27+00:00",
+        "url": "https://www.youtube.com/watch?v=JbynGGgF770",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JbynGGgF770/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JbynGGgF770/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JbynGGgF770"
+      },
+      {
+        "title": "公開 AI 助理前必看！openclaw/openclaw 安全設定重點",
+        "published": "2026-09-01T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=P3KsVigsGLI",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/P3KsVigsGLI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/P3KsVigsGLI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "P3KsVigsGLI"
+      },
+      {
+        "title": "OpenMAIC實測：對話幾句話就打造3D模擬互動課程，免寫教案",
+        "published": "2026-08-30T01:49:16+00:00",
+        "url": "https://www.youtube.com/watch?v=gg-hnW5GDK8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gg-hnW5GDK8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gg-hnW5GDK8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gg-hnW5GDK8"
+      },
+      {
+        "title": "還在半夜手動救服務？kubernetes/kubernetes 幫你維持應用狀態",
+        "published": "2026-08-30T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=QJZEhHiHm2Y",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QJZEhHiHm2Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QJZEhHiHm2Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QJZEhHiHm2Y"
+      },
+      {
+        "title": "沒有Tailscale帳號也能端到端加密？tailcat解除資安焦慮",
+        "published": "2026-08-29T01:43:47+00:00",
+        "url": "https://www.youtube.com/watch?v=riIcLKn9_aQ",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/riIcLKn9_aQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/riIcLKn9_aQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "riIcLKn9_aQ"
+      },
+      {
+        "title": "頻率偏見害AI寫爛代碼？go-modern-guidelines揭穿模型的真正弱點",
+        "published": "2026-08-27T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=G396l4nCRzk",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/G396l4nCRzk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/G396l4nCRzk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "G396l4nCRzk"
+      },
+      {
+        "title": "羅技 Options+ 太肥太耗資源？OpenLogi 用 Rust 打造輕量替代方案",
+        "published": "2026-08-26T01:42:17+00:00",
+        "url": "https://www.youtube.com/watch?v=BPMdOPUOkSI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BPMdOPUOkSI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BPMdOPUOkSI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BPMdOPUOkSI"
+      },
+      {
+        "title": "免寫程式串接100個科學資料庫！scientific-agent-skills實戰解析",
+        "published": "2026-08-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=a1Hi1M219PQ",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/a1Hi1M219PQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/a1Hi1M219PQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "a1Hi1M219PQ"
+      },
+      {
+        "title": "AI筆記常常亂編證據？claude-obsidian讓每則主張都能溯源",
+        "published": "2026-08-25T01:29:22+00:00",
+        "url": "https://www.youtube.com/watch?v=8M_CxA3xV48",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8M_CxA3xV48/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8M_CxA3xV48/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8M_CxA3xV48"
+      },
+      {
+        "title": "Token省下51倍！book-to-skill三步驟把技術書變AI技能",
+        "published": "2026-08-24T01:28:38+00:00",
+        "url": "https://www.youtube.com/watch?v=yRQSHUfVi24",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yRQSHUfVi24/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yRQSHUfVi24/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yRQSHUfVi24"
+      },
+      {
+        "title": "60家模型供應商全支援！oh-my-pi 一套工具打通所有AI",
+        "published": "2026-08-23T01:37:09+00:00",
+        "url": "https://www.youtube.com/watch?v=2CmWa64eQ3c",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2CmWa64eQ3c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2CmWa64eQ3c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2CmWa64eQ3c"
+      },
+      {
+        "title": "工具鏈破碎讓你崩潰？Bun 一次整合解決JS生態系痛點",
+        "published": "2026-08-22T01:31:12+00:00",
+        "url": "https://www.youtube.com/watch?v=QCoHw1zPd9g",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QCoHw1zPd9g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QCoHw1zPd9g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QCoHw1zPd9g"
+      },
+      {
+        "title": "還在手動串接工具？cursor/plugins讓AI代理打通開發鏈",
+        "published": "2026-08-21T01:27:31+00:00",
+        "url": "https://www.youtube.com/watch?v=1oVD7Pg2Hwk",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1oVD7Pg2Hwk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1oVD7Pg2Hwk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1oVD7Pg2Hwk"
+      },
+      {
+        "title": "獨家架構解密！amadeusprotocol/node 如何用 Rust 加 Erlang 打造區塊鏈骨幹",
+        "published": "2026-08-20T01:29:53+00:00",
+        "url": "https://www.youtube.com/watch?v=O4tDd6b3DAA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/O4tDd6b3DAA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/O4tDd6b3DAA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "O4tDd6b3DAA"
+      },
+      {
+        "title": "打造私人雲端下載中心！Motrix 實戰：用 Docker 在 NAS 上 24/7 自動下載",
+        "published": "2026-08-18T01:43:41+00:00",
+        "url": "https://www.youtube.com/watch?v=JkGajG1dTOM",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JkGajG1dTOM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JkGajG1dTOM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JkGajG1dTOM"
+      },
+      {
+        "title": "想通 AI Agent 核心原理？ai-agent-book 用 100+ 實驗，讓你從零建構自己的 Agent。",
+        "published": "2026-08-18T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=KgCQHAquSSU",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KgCQHAquSSU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KgCQHAquSSU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KgCQHAquSSU"
+      },
+      {
+        "title": "你的 LLM 跑幾 tok/s？llmfit 社群實測數據庫，揭露模型的真實效能",
+        "published": "2026-08-17T01:30:13+00:00",
+        "url": "https://www.youtube.com/watch?v=20Bg3Ouil7g",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/20Bg3Ouil7g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/20Bg3Ouil7g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "20Bg3Ouil7g"
+      },
+      {
+        "title": "100 個模組的巨型應用程式，如何保持優雅？cordis 的依賴注入與生命週期管理實戰。",
+        "published": "2026-08-16T01:36:41+00:00",
+        "url": "https://www.youtube.com/watch?v=srz9vJwUIyE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/srz9vJwUIyE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/srz9vJwUIyE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "srz9vJwUIyE"
+      },
+      {
+        "title": "企業級 RAG 系統一天上線！RAGFlow 深度解析：從 PDF 到 AI 問答機器人",
+        "published": "2026-08-15T01:33:10+00:00",
+        "url": "https://www.youtube.com/watch?v=Q684hpSWyDo",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Q684hpSWyDo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Q684hpSWyDo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Q684hpSWyDo"
+      },
+      {
+        "title": "GPT-4 API 費用太高？caveman 實測：無痛整合，token 消耗降低 33%！",
+        "published": "2026-08-14T01:31:19+00:00",
+        "url": "https://www.youtube.com/watch?v=P-c55zpGPxI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/P-c55zpGPxI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/P-c55zpGPxI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "P-c55zpGPxI"
+      },
+      {
+        "title": "GitHub Copilot 一次只給一種答案？Orca 讓你召喚 AI 大軍同時寫 Code，優劣立判！",
+        "published": "2026-08-12T01:48:08+00:00",
+        "url": "https://www.youtube.com/watch?v=DrUTk-LSkq8",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DrUTk-LSkq8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DrUTk-LSkq8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DrUTk-LSkq8"
+      },
+      {
+        "title": "還在手寫 API 轉接層？NVIDIA Switchyard：自動翻譯 OpenAI、Anthropic 格式",
+        "published": "2026-08-12T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=dgy0tqnQAaE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dgy0tqnQAaE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dgy0tqnQAaE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dgy0tqnQAaE"
+      },
+      {
+        "title": "誰說做動畫一定要用 AE？manim：專為開發者打造的開源動畫引擎",
+        "published": "2026-08-11T01:29:26+00:00",
+        "url": "https://www.youtube.com/watch?v=Fk2fCNKss4w",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Fk2fCNKss4w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Fk2fCNKss4w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Fk2fCNKss4w"
+      },
+      {
+        "title": "\"Port 已被佔用\" 的惡夢終結！用 witr 一鍵揪出幕後黑手",
+        "published": "2026-08-09T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=mlOrObZL5iA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mlOrObZL5iA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mlOrObZL5iA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mlOrObZL5iA"
+      },
+      {
+        "title": "10分鐘餵養你的 RAG！Crawl4AI 將雜亂網頁變成 AI 即食資料",
+        "published": "2026-08-07T01:50:08+00:00",
+        "url": "https://www.youtube.com/watch?v=Z-36qrOQKXo",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z-36qrOQKXo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z-36qrOQKXo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Z-36qrOQKXo"
+      },
+      {
+        "title": "AI Agent 終於有家了！用 cloudflare/computer 五分鐘打造具備永久記憶的雲端應用",
+        "published": "2026-08-06T01:29:16+00:00",
+        "url": "https://www.youtube.com/watch?v=K7ihPBSZZ1M",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/K7ihPBSZZ1M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/K7ihPBSZZ1M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "K7ihPBSZZ1M"
+      },
+      {
+        "title": "憑什麼資安健檢這麼貴？開源 AI 工具 Strix，把駭客級滲透測試直接整合進 CI/CD",
+        "published": "2026-08-05T01:36:57+00:00",
+        "url": "https://www.youtube.com/watch?v=-bv3yTVKUWM",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-bv3yTVKUWM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-bv3yTVKUWM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-bv3yTVKUWM"
+      },
+      {
+        "title": "節省 54% OCR 成本！pdf-inspector 實戰：打造高效能文件自動化流程",
+        "published": "2026-08-04T01:33:03+00:00",
+        "url": "https://www.youtube.com/watch?v=J_LCfvMnZIk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/J_LCfvMnZIk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/J_LCfvMnZIk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "J_LCfvMnZIk"
+      },
+      {
+        "title": "openwork 實測：Claude Cowork 的開源替代品？打造跨平台 AI 協作流",
+        "published": "2026-08-03T01:33:47+00:00",
+        "url": "https://www.youtube.com/watch?v=6cCW5N7fuhg",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6cCW5N7fuhg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6cCW5N7fuhg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6cCW5N7fuhg"
+      },
+      {
+        "title": "你的 AI Token 正在燃燒！DeepSeek-Reasonix 的 99% 快取命中率，一年能省下多少錢？",
+        "published": "2026-08-02T01:31:42+00:00",
+        "url": "https://www.youtube.com/watch?v=Z8Lm6LYJ54s",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z8Lm6LYJ54s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z8Lm6LYJ54s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Z8Lm6LYJ54s"
+      },
+      {
+        "title": "一次搞懂兩大 AI 框架！微軟 AI-For-Beginners 課程，TensorFlow 與 PyTorch 雙軌實戰",
+        "published": "2026-08-01T01:32:28+00:00",
+        "url": "https://www.youtube.com/watch?v=AoOKb6vSzCk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AoOKb6vSzCk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AoOKb6vSzCk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AoOKb6vSzCk"
+      },
+      {
+        "title": "GitHub Copilot CLI 的最強對手？jcode 實測：用 Rust 打造，啟動速度快 10 倍！",
+        "published": "2026-07-30T01:35:43+00:00",
+        "url": "https://www.youtube.com/watch?v=BycI_LKSrCo",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BycI_LKSrCo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BycI_LKSrCo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BycI_LKSrCo"
+      },
+      {
+        "title": "受夠了AI助理的月費和隱私焦慮？QwenPaw：免費開源，把資料留在自己家",
+        "published": "2026-07-29T01:34:58+00:00",
+        "url": "https://www.youtube.com/watch?v=QE6FVnNcd3Y",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QE6FVnNcd3Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QE6FVnNcd3Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QE6FVnNcd3Y"
+      },
+      {
+        "title": "原生 Claude 做不到的事！claude-video 賦予 AI 視覺，一鍵總結任何影片",
+        "published": "2026-07-28T01:33:55+00:00",
+        "url": "https://www.youtube.com/watch?v=wBkahYD65A4",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wBkahYD65A4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wBkahYD65A4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wBkahYD65A4"
+      },
+      {
+        "title": "30分鐘建立你的全球情報站！worldmonitor 實戰教學，用 AI 監控世界",
+        "published": "2026-07-23T03:54:34+00:00",
+        "url": "https://www.youtube.com/watch?v=a10jgc4cK1o",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/a10jgc4cK1o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/a10jgc4cK1o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "a10jgc4cK1o"
+      },
+      {
+        "title": "GitHub 兩萬顆星的秘密！open-lovable 解析：如何用 AI 在一天內完成專案原型",
+        "published": "2026-07-18T01:52:08+00:00",
+        "url": "https://www.youtube.com/watch?v=t3_RtvYCDcw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/t3_RtvYCDcw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/t3_RtvYCDcw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "t3_RtvYCDcw"
+      },
+      {
+        "title": "別再用 Python 寫幾十行程式碼！OfficeCLI：一行指令搞定 Word、Excel 自動化",
+        "published": "2026-07-17T01:58:59+00:00",
+        "url": "https://www.youtube.com/watch?v=Kr2cx4_464s",
+        "topic": "Office / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Kr2cx4_464s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Kr2cx4_464s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Kr2cx4_464s"
+      },
+      {
+        "title": "一個 Agent vs 十個工具！DeepTutor 展示單一迴圈如何整合學習、研究與測驗",
+        "published": "2026-07-16T01:42:22+00:00",
+        "url": "https://www.youtube.com/watch?v=rvPtEnQTLR0",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rvPtEnQTLR0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rvPtEnQTLR0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rvPtEnQTLR0"
+      },
+      {
+        "title": "AI 自動剪輯影片將成真？OpenCut 全新架構：無頭模式與 AI 代理搶先看",
+        "published": "2026-07-14T01:37:31+00:00",
+        "url": "https://www.youtube.com/watch?v=_t1zmgzgcLU",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_t1zmgzgcLU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_t1zmgzgcLU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_t1zmgzgcLU"
+      },
+      {
+        "title": "OpenAI Codex 的本地重生！Open Interpreter 實測：用 Rust 重寫後，效能和隱私都完勝",
+        "published": "2026-07-14T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=la1zhu-FxcQ",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/la1zhu-FxcQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/la1zhu-FxcQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "la1zhu-FxcQ"
+      },
+      {
+        "title": "量化交易不再是法人專利！Vibe-Trading 開源釋出，散戶也能擁有 AI 研究站",
+        "published": "2026-07-13T01:40:14+00:00",
+        "url": "https://www.youtube.com/watch?v=ObsXge5l0hg",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ObsXge5l0hg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ObsXge5l0hg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ObsXge5l0hg"
+      },
+      {
+        "title": "你的 AI 助理只是個高級玩具？DesktopCommanderMCP 解放 Claude，賦予它真正的電腦控制權",
+        "published": "2026-07-11T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=qlCYmRSmBXA",
+        "topic": "AI tooling / MCP",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qlCYmRSmBXA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qlCYmRSmBXA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qlCYmRSmBXA"
+      },
+      {
+        "title": "告別 Docker 安全焦慮！CubeSandbox：專為 AI Agent 打造的硬體級隔離沙箱，60ms 啟動",
+        "published": "2026-07-10T01:37:19+00:00",
+        "url": "https://www.youtube.com/watch?v=OFHKo56WTwY",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OFHKo56WTwY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OFHKo56WTwY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OFHKo56WTwY"
+      },
+      {
+        "title": "自動化追劇看新聞！iptv-org/iptv 深度解析 GitHub Actions 維護機制",
+        "published": "2026-07-10T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=tI8Xt0KOkQ8",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tI8Xt0KOkQ8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tI8Xt0KOkQ8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tI8Xt0KOkQ8"
+      },
+      {
+        "title": "別再 grep 了！graphify 讓你用圖形「看懂」整個專案，Token 消耗暴降 71.5 倍",
+        "published": "2026-07-09T01:36:20+00:00",
+        "url": "https://www.youtube.com/watch?v=TMn0owsYHqM",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TMn0owsYHqM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TMn0owsYHqM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TMn0owsYHqM"
+      },
+      {
+        "title": "海投沒回音？用 ai-job-search 打造 AI 求職流水線，一週產出 100 份客製化履歷",
+        "published": "2026-07-08T01:46:15+00:00",
+        "url": "https://www.youtube.com/watch?v=VIfe1L-Z73s",
+        "topic": "Career / developer tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VIfe1L-Z73s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VIfe1L-Z73s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VIfe1L-Z73s"
+      },
+      {
+        "title": "AI API 費用打一折！OmniRoute 實測：整合 90+ 免費模型，token 消耗降低 95%",
+        "published": "2026-07-07T01:48:58+00:00",
+        "url": "https://www.youtube.com/watch?v=vUare_TR4sQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vUare_TR4sQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vUare_TR4sQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vUare_TR4sQ"
+      },
+      {
+        "title": "AI 會取代前端工程師？Meta 用 astryx 給出解方：讓 AI 成為你的專屬設計助理",
+        "published": "2026-07-06T01:34:54+00:00",
+        "url": "https://www.youtube.com/watch?v=77jHuvK7Djc",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/77jHuvK7Djc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/77jHuvK7Djc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "77jHuvK7Djc"
+      },
+      {
+        "title": "10 分鐘為網站加上 AI 助理！阿里 Page-Agent 實戰，用自然語言搞定複雜操作",
+        "published": "2026-07-04T01:44:11+00:00",
+        "url": "https://www.youtube.com/watch?v=slaK0Jcg1lE",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/slaK0Jcg1lE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/slaK0Jcg1lE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "slaK0Jcg1lE"
+      },
+      {
+        "title": "告別雲端月費！用 immich 一小時打造全家共享的 AI 私人相簿，永久保存珍貴回憶",
+        "published": "2026-07-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=LYeyoYIpau8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LYeyoYIpau8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LYeyoYIpau8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LYeyoYIpau8"
+      },
+      {
+        "title": "挑戰最強 PDF 解析器！olmocr：AI2 出品，手寫、多欄、數學式一次搞定",
+        "published": "2026-07-02T02:08:43+00:00",
+        "url": "https://www.youtube.com/watch?v=rWfIN5s0s-A",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rWfIN5s0s-A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rWfIN5s0s-A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rWfIN5s0s-A"
+      },
+      {
+        "title": "拒絕被大廠 AI 綁架！hermes-agent 讓你用 5 美元 VPS 跑自己的進化型 AI",
+        "published": "2026-07-02T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=HuMM90BjSFA",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HuMM90BjSFA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HuMM90BjSFA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HuMM90BjSFA"
+      },
+      {
+        "title": "別再手刻 Google Cloud 部署腳本！Google agents-cli 讓你的 AI 助理變身部署專家。",
+        "published": "2026-07-01T01:41:03+00:00",
+        "url": "https://www.youtube.com/watch?v=iznAjWlErWA",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iznAjWlErWA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iznAjWlErWA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "iznAjWlErWA"
+      },
+      {
+        "title": "Scrapy 已死？Firecrawl 專為 AI 打造的爬蟲，一鍵網頁轉 Markdown",
+        "published": "2026-06-30T01:35:35+00:00",
+        "url": "https://www.youtube.com/watch?v=22c6xo6iA5M",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/22c6xo6iA5M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/22c6xo6iA5M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "22c6xo6iA5M"
+      },
+      {
+        "title": "3D 重建總是卡頓又漂移？lingbot-map 帶來解方：20FPS 即時串流重建",
+        "published": "2026-06-29T01:36:31+00:00",
+        "url": "https://www.youtube.com/watch?v=_ryUktr_ss8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_ryUktr_ss8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_ryUktr_ss8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_ryUktr_ss8"
+      },
+      {
+        "title": "線上 PPT 神器都在騙？ppt-master 實測：AI 將 PDF 轉為真正可編輯的簡報",
+        "published": "2026-06-28T01:40:07+00:00",
+        "url": "https://www.youtube.com/watch?v=YL40Wv3AfSw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YL40Wv3AfSw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YL40Wv3AfSw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YL40Wv3AfSw"
+      },
+      {
+        "title": "別再用 AI 生成假影片了！OpenMontage 實測：用 AI 代理人自動剪輯真實影片",
+        "published": "2026-06-26T01:54:21+00:00",
+        "url": "https://www.youtube.com/watch?v=tu8ncCVljwE",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tu8ncCVljwE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tu8ncCVljwE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tu8ncCVljwE"
+      },
+      {
+        "title": "拋棄 Vector Search 吧！graphify 將專案變成知識圖譜，查詢成本暴降 71.5 倍",
+        "published": "2026-06-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=IlfEGO_Ss84",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IlfEGO_Ss84/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IlfEGO_Ss84/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IlfEGO_Ss84"
+      },
+      {
+        "title": "自動化處理上萬份 PDF 文件！Stirling-PDF API 實戰，打造你的文件處理流",
+        "published": "2026-06-24T01:39:15+00:00",
+        "url": "https://www.youtube.com/watch?v=E5g-vFErNNs",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/E5g-vFErNNs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/E5g-vFErNNs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "E5g-vFErNNs"
+      },
+      {
+        "title": "官方 SDK 做不到的！gws (googleworkspace/cli) 如何實現 Google API 自動更新、永不過期？",
+        "published": "2026-06-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=G9N29iTgT8E",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/G9N29iTgT8E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/G9N29iTgT8E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "G9N29iTgT8E"
+      },
+      {
+        "title": "Remotion 的最強對手？hyperframes 實測：用 HTML/CSS 寫程式，AI 自動生成影片",
+        "published": "2026-06-23T01:37:35+00:00",
+        "url": "https://www.youtube.com/watch?v=iqHxmw8Boto",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iqHxmw8Boto/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iqHxmw8Boto/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "iqHxmw8Boto"
+      },
+      {
+        "title": "每日股市 AI 摘要！用 daily_stock_analysis 五分鐘搞定，免費 GitHub Actions 部署",
+        "published": "2026-06-22T01:41:30+00:00",
+        "url": "https://www.youtube.com/watch?v=OKlaUUFlS0A",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OKlaUUFlS0A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OKlaUUFlS0A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OKlaUUFlS0A"
+      },
+      {
+        "title": "體積差 20 倍！Pake 實測：同樣的網頁，打包後竟不到 5MB，效能還更快。",
+        "published": "2026-06-21T01:31:03+00:00",
+        "url": "https://www.youtube.com/watch?v=MviP6WsKOgQ",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MviP6WsKOgQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MviP6WsKOgQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MviP6WsKOgQ"
+      },
+      {
+        "title": "從零搭建雲原生監控！Prometheus 實戰：30 分鐘搞定指標、儀表板與告警",
+        "published": "2026-06-20T01:34:03+00:00",
+        "url": "https://www.youtube.com/watch?v=1D3GyZyyw9s",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1D3GyZyyw9s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1D3GyZyyw9s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1D3GyZyyw9s"
+      },
+      {
+        "title": "受夠 Copilot 的月費和抽成了嗎？kilocode 完全開源，讓你用原始費率調用 500+ 種 LLM。",
+        "published": "2026-06-19T01:49:42+00:00",
+        "url": "https://www.youtube.com/watch?v=FCtr0JZH0EA",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FCtr0JZH0EA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FCtr0JZH0EA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FCtr0JZH0EA"
+      },
+      {
+        "title": "還在 grep 原始碼？Understand-Anything：把百萬行程式碼變成你的專屬導師",
+        "published": "2026-06-17T01:50:28+00:00",
+        "url": "https://www.youtube.com/watch?v=10VwQLj_XJI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/10VwQLj_XJI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/10VwQLj_XJI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "10VwQLj_XJI"
+      },
+      {
+        "title": "10秒產生 Dockerfile！OpenAI codex 終端機 AI 助理實戰，開發流暢度翻倍",
+        "published": "2026-06-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=LFTyKjNh214",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LFTyKjNh214/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LFTyKjNh214/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LFTyKjNh214"
+      },
+      {
+        "title": "別再被 AI 廠商綁架！open-notebook 詳解：自由切換 18+ 模型，成本、隱私自己掌控。",
+        "published": "2026-06-15T01:35:24+00:00",
+        "url": "https://www.youtube.com/watch?v=vWWsURPpvkI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vWWsURPpvkI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vWWsURPpvkI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vWWsURPpvkI"
+      },
+      {
+        "title": "一行指令治好 AI 網路失明！Agent-Reach 讓你的 AI Agent 讀懂 Reddit、B 站",
+        "published": "2026-06-15T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=84-GT5Qe7cU",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/84-GT5Qe7cU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/84-GT5Qe7cU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "84-GT5Qe7cU"
+      },
+      {
+        "title": "VS Code 外掛還不夠看？cc-switch 跨平台統一管理你的 AI 編碼工具，告別設定檔地獄",
+        "published": "2026-06-13T01:44:19+00:00",
+        "url": "https://www.youtube.com/watch?v=YKgBZTmwL1Y",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YKgBZTmwL1Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YKgBZTmwL1Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YKgBZTmwL1Y"
+      },
+      {
+        "title": "被 OpenAI API 綁架？吳恩達 aisuite 讓你自由切換 Google、Anthropic 模型！",
+        "published": "2026-06-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=b8tOZciuFPk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/b8tOZciuFPk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/b8tOZciuFPk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "b8tOZciuFPk"
+      },
+      {
+        "title": "人肉搜索還要手動整理？maigret 的 AI 新功能，一鍵生成完整數位足跡調查報告。",
+        "published": "2026-06-11T02:04:56+00:00",
+        "url": "https://www.youtube.com/watch?v=3o--52lb3xI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3o--52lb3xI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3o--52lb3xI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3o--52lb3xI"
+      },
+      {
+        "title": "10 分鐘部署你的 AI 行銷團隊！AiToEarn 實戰，從內容生成到跨平台發布全自動。",
+        "published": "2026-06-11T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=KBXtszV7npQ",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KBXtszV7npQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KBXtszV7npQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KBXtszV7npQ"
+      },
+      {
+        "title": "別再被大廠綁架！RuView 開源專案，用幾百元 ESP32 打造穿牆感測系統",
+        "published": "2026-06-10T01:44:59+00:00",
+        "url": "https://www.youtube.com/watch?v=6W4FUdmCspk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6W4FUdmCspk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6W4FUdmCspk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6W4FUdmCspk"
+      },
+      {
+        "title": "你的 AI Agent 也有 npm 了？google/skills：用一行指令為 Agent 裝上 Google 超能力",
+        "published": "2026-06-09T01:44:22+00:00",
+        "url": "https://www.youtube.com/watch?v=YQDJsh1OXow",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YQDJsh1OXow/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YQDJsh1OXow/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YQDJsh1OXow"
+      },
+      {
+        "title": "2026 年 AI 開發者必裝！百度 PaddleOCR：在公開評測中擊敗眾多商業級 OCR 方案",
+        "published": "2026-06-07T01:42:14+00:00",
+        "url": "https://www.youtube.com/watch?v=OO-QuzthER8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OO-QuzthER8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OO-QuzthER8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OO-QuzthER8"
+      },
+      {
+        "title": "FAISS 記憶體炸了？turbovec 實測：31GB 向量壓縮到 4GB，速度還更快！",
+        "published": "2026-06-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=chL5lPgrjhM",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/chL5lPgrjhM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/chL5lPgrjhM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "chL5lPgrjhM"
+      },
+      {
+        "title": "告別 Notion 綁架！Tolaria 實測：用 Git 完全擁有你的知識庫，離線也行",
+        "published": "2026-06-06T01:47:21+00:00",
+        "url": "https://www.youtube.com/watch?v=vMBJ6C8VpjY",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vMBJ6C8VpjY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vMBJ6C8VpjY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vMBJ6C8VpjY"
+      },
+      {
+        "title": "AI 助理串接 Discord/Telegram！hermes-desktop 讓你一鍵管理 16 個平台",
+        "published": "2026-06-05T01:43:11+00:00",
+        "url": "https://www.youtube.com/watch?v=QBTZ_oInRHE",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QBTZ_oInRHE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QBTZ_oInRHE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QBTZ_oInRHE"
+      },
+      {
+        "title": "LangChain 太黑箱？hello-agents 教你從零打造 AI Agent 框架，完全掌控核心",
+        "published": "2026-06-04T02:01:19+00:00",
+        "url": "https://www.youtube.com/watch?v=oi22jAHmuBo",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/oi22jAHmuBo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/oi22jAHmuBo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "oi22jAHmuBo"
+      },
+      {
+        "title": "LLM API 費用狂燒？Headroom 實測：上下文壓縮 95%，成本直接砍半！",
+        "published": "2026-06-03T01:43:30+00:00",
+        "url": "https://www.youtube.com/watch?v=v7WbChFTnKo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/v7WbChFTnKo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/v7WbChFTnKo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "v7WbChFTnKo"
+      },
+      {
+        "title": "網站一改版，爬蟲就報廢？Scrapling 的 AI 自適應框架，讓你告別半夜修 Code 的惡夢。",
+        "published": "2026-06-01T01:38:48+00:00",
+        "url": "https://www.youtube.com/watch?v=xryFsADR5P4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xryFsADR5P4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xryFsADR5P4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xryFsADR5P4"
+      },
+      {
+        "title": "用 TradingAgents 一天打造 AI 交易團隊！從分析師到交易員，LLM 代理人完整協作流程拆解。",
+        "published": "2026-06-01T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Q9VBR3ZeyHw",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Q9VBR3ZeyHw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Q9VBR3ZeyHw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Q9VBR3ZeyHw"
+      },
+      {
+        "title": "GitHub Copilot 會亂改 Code？opencode 安全模式讓你先看再改，重構專案超安心",
+        "published": "2026-05-31T01:57:49+00:00",
+        "url": "https://www.youtube.com/watch?v=D6JadwxxTgQ",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/D6JadwxxTgQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/D6JadwxxTgQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "D6JadwxxTgQ"
+      },
+      {
+        "title": "30 種語言開箱即用！VoxCPM 讓你的 App 開口說話，完全免費商用",
+        "published": "2026-05-30T02:10:54+00:00",
+        "url": "https://www.youtube.com/watch?v=PRfoDcoPGOw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PRfoDcoPGOw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PRfoDcoPGOw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PRfoDcoPGOw"
+      },
+      {
+        "title": "GitHub 狂飆六萬星！MoneyPrinterTurbo 爆紅解析：AI 全自動影片生成器，解放你的生產力",
+        "published": "2026-05-28T01:48:11+00:00",
+        "url": "https://www.youtube.com/watch?v=tm2tWEclT6w",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tm2tWEclT6w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tm2tWEclT6w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tm2tWEclT6w"
+      },
+      {
+        "title": "別再手動 trace code！Understand-Anything 把複雜專案變成互動知識圖譜。",
+        "published": "2026-05-28T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=r6gFohtJ2aA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/r6gFohtJ2aA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/r6gFohtJ2aA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "r6gFohtJ2aA"
+      },
+      {
+        "title": "AI 代理程式自己做！pi 工具套件實戰：快速打造整合多種 LLM 的互動式編碼機器人。",
+        "published": "2026-05-27T01:50:48+00:00",
+        "url": "https://www.youtube.com/watch?v=adG1gv_6_5A",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/adG1gv_6_5A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/adG1gv_6_5A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "adG1gv_6_5A"
+      },
+      {
+        "title": "1.8 億次接觸 vs 零穿透！ppf-contact-solver 的 GPU 並行架構有多強？",
+        "published": "2026-05-26T02:17:20+00:00",
+        "url": "https://www.youtube.com/watch?v=V2bPEe8Z8vc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/V2bPEe8Z8vc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/V2bPEe8Z8vc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "V2bPEe8Z8vc"
+      },
+      {
+        "title": "30分鐘打造專屬法務 AI！knowledge-work-plugins 無代碼客製化 Claude 實戰",
+        "published": "2026-05-25T01:38:02+00:00",
+        "url": "https://www.youtube.com/watch?v=-KDdRwD4zsw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-KDdRwD4zsw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-KDdRwD4zsw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-KDdRwD4zsw"
+      },
+      {
+        "title": "Ring/Google Nest 年費再見！開源 NVR 神器 frigate 實測：AI 影像偵測，隱私完全本地掌握",
+        "published": "2026-05-24T01:44:19+00:00",
+        "url": "https://www.youtube.com/watch?v=BWzXtvIEu3Q",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BWzXtvIEu3Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BWzXtvIEu3Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BWzXtvIEu3Q"
+      },
+      {
+        "title": "yt-dlp 終極下載器實測！支援上千網站、自動掛字幕，2026 最新功能解析。",
+        "published": "2026-05-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=7cDN8soyyLw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7cDN8soyyLw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7cDN8soyyLw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7cDN8soyyLw"
+      },
+      {
+        "title": "被 AI 焦慮淹沒？ai-engineering-from-scratch 是你的救贖：用 320 小時紮實走完 AI 工程師之路",
+        "published": "2026-05-21T01:46:23+00:00",
+        "url": "https://www.youtube.com/watch?v=VrcviFizb50",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VrcviFizb50/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VrcviFizb50/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VrcviFizb50"
+      },
+      {
+        "title": "100萬 Token 上下文！gemini-cli 讓你在終端機內直接分析整個專案程式碼",
+        "published": "2026-05-21T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=3eY18QkhOVo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3eY18QkhOVo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3eY18QkhOVo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3eY18QkhOVo"
+      },
+      {
+        "title": "每月省下 30 美金！free-claude-code 實戰，用免費開源模型替代 Claude Pro。",
+        "published": "2026-05-20T01:42:46+00:00",
+        "url": "https://www.youtube.com/watch?v=wQkAvWXYmy8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wQkAvWXYmy8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wQkAvWXYmy8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wQkAvWXYmy8"
+      },
+      {
+        "title": "建立你的 AI 第二大腦！OpenHuman 實戰：5分鐘快速整合 Notion/Gmail 資料。",
+        "published": "2026-05-19T01:42:17+00:00",
+        "url": "https://www.youtube.com/watch?v=MMf6NH8GQK4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MMf6NH8GQK4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MMf6NH8GQK4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MMf6NH8GQK4"
+      },
+      {
+        "title": "30 分鐘部署個人專屬 Calendly！cal.diy 全開源排程系統實戰教學",
+        "published": "2026-05-18T01:37:04+00:00",
+        "url": "https://www.youtube.com/watch?v=OJr8b0HMoLw",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OJr8b0HMoLw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OJr8b0HMoLw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OJr8b0HMoLw"
+      },
+      {
+        "title": "AI 助手的 Token 帳單讓你心痛？codegraph 提供本地解方，速度提升 71% 還不用錢",
+        "published": "2026-05-16T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=B0BZZjzuOpM",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/B0BZZjzuOpM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/B0BZZjzuOpM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "B0BZZjzuOpM"
+      },
+      {
+        "title": "比 ChatGPT 寫論文更可靠？academic-research-skills 內建「誠信閘門」防 AI 幻覺",
+        "published": "2026-05-15T01:45:30+00:00",
+        "url": "https://www.youtube.com/watch?v=F22c0DNEEpc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/F22c0DNEEpc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/F22c0DNEEpc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "F22c0DNEEpc"
+      },
+      {
+        "title": "Copilot 的程式碼品質堪憂？GitHub 官方 spec-kit 登場，用規格驅動開發取代 Vibe Coding",
+        "published": "2026-05-15T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Culgc2t9xio",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Culgc2t9xio/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Culgc2t9xio/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Culgc2t9xio"
+      },
+      {
+        "title": "reCAPTCHA 信任分直上 0.9！CloakBrowser 實測，幾行程式碼讓你的爬蟲隱形",
+        "published": "2026-05-14T01:35:30+00:00",
+        "url": "https://www.youtube.com/watch?v=M85hmLeJb0Q",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/M85hmLeJb0Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/M85hmLeJb0Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "M85hmLeJb0Q"
+      },
+      {
+        "title": "產出效率提升10倍？YC CEO 的 gstack 到底是神器還是吹牛？我們實測給你看！",
+        "published": "2026-05-12T01:34:04+00:00",
+        "url": "https://www.youtube.com/watch?v=7rN9mTGpl7U",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7rN9mTGpl7U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7rN9mTGpl7U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7rN9mTGpl7U"
+      },
+      {
+        "title": "只會 Call API 已經不夠了！LLMs-from-scratch 帶你用 PyTorch 打造 LLM，徹底搞懂底層原理。",
+        "published": "2026-05-12T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=6_V1xmp-7Wk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6_V1xmp-7Wk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6_V1xmp-7Wk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6_V1xmp-7Wk"
+      },
+      {
+        "title": "別再花大錢 Fine-tune！anthropics/skills 實測：用幾行字定義新技能，讓 Claude 成為你的專屬助理",
+        "published": "2026-05-11T01:33:53+00:00",
+        "url": "https://www.youtube.com/watch?v=8gaWPlImsDk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8gaWPlImsDk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8gaWPlImsDk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8gaWPlImsDk"
+      },
+      {
+        "title": "ESLint 抓不到的效能殺手！react-doctor 專治 AI 寫的爛 React Code。",
+        "published": "2026-05-10T01:32:06+00:00",
+        "url": "https://www.youtube.com/watch?v=gVk16g7r_uI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gVk16g7r_uI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gVk16g7r_uI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gVk16g7r_uI"
+      },
+      {
+        "title": "不只網頁，連桌面 App 都能控制！UI-TARS-desktop 讓你的電腦變身 AI 助理",
+        "published": "2026-05-08T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=rrRR5LKSZOE",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rrRR5LKSZOE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rrRR5LKSZOE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rrRR5LKSZOE"
+      },
+      {
+        "title": "別再從零手刻金融 AI！financial-services 框架讓你直接串接 S&P、FactSet 數據",
+        "published": "2026-05-07T01:36:01+00:00",
+        "url": "https://www.youtube.com/watch?v=XWb-8vvf8Ic",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XWb-8vvf8Ic/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XWb-8vvf8Ic/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XWb-8vvf8Ic"
+      },
+      {
+        "title": "RAG 準確率還在掙扎？PageIndex 拋棄向量搜尋，用「樹狀索引」實現 98.7% 準確率！",
+        "published": "2026-05-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=yKnXv5JxEXk",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yKnXv5JxEXk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yKnXv5JxEXk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yKnXv5JxEXk"
+      },
+      {
+        "title": "AI API 帳單每月破萬？sub2api 開源「拼車」大法，教你如何聰明省錢。",
+        "published": "2026-05-05T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=SLlnYShjwBs",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SLlnYShjwBs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SLlnYShjwBs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SLlnYShjwBs"
+      },
+      {
+        "title": "AI 取代分析師？別怕，用 Dexter 這個開源工具，讓 AI 成為你的超強研究助理。",
+        "published": "2026-05-04T01:34:12+00:00",
+        "url": "https://www.youtube.com/watch?v=8xYVqDQJhVU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8xYVqDQJhVU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8xYVqDQJhVU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8xYVqDQJhVU"
+      },
+      {
+        "title": "別再只用 LangChain！Astro 團隊新作 Flue：像 Next.js 一樣開發 AI Agent",
+        "published": "2026-05-04T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=OY0FdQDIDNw",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OY0FdQDIDNw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OY0FdQDIDNw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OY0FdQDIDNw"
+      },
+      {
+        "title": "下載課程只是第一步！OmniGet 讓你真正學會：整合播放器、筆記與間隔重複複習",
+        "published": "2026-05-03T01:35:04+00:00",
+        "url": "https://www.youtube.com/watch?v=bWINu1xVPtA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bWINu1xVPtA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bWINu1xVPtA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bWINu1xVPtA"
+      },
+      {
+        "title": "1 百萬 Token 上下文塞進終端機？DeepSeek-TUI 實測：超長文脈絡讓 AI 不再失憶",
+        "published": "2026-05-02T01:34:35+00:00",
+        "url": "https://www.youtube.com/watch?v=Zta20N_zRrE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Zta20N_zRrE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Zta20N_zRrE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Zta20N_zRrE"
+      },
+      {
+        "title": "憑什麼筆記要被平台綁架？NoteGen 完全開源，本地優先，你的知識資產自己掌握",
+        "published": "2026-05-01T01:33:47+00:00",
+        "url": "https://www.youtube.com/watch?v=W3LCd94USeQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/W3LCd94USeQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/W3LCd94USeQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "W3LCd94USeQ"
+      },
+      {
+        "title": "iTerm2 的終結者？Warp 實測：內建 AI 代理的 Rust 製次世代終端機",
+        "published": "2026-04-30T01:49:07+00:00",
+        "url": "https://www.youtube.com/watch?v=FhXrw_UmPrE",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FhXrw_UmPrE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FhXrw_UmPrE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FhXrw_UmPrE"
+      },
+      {
+        "title": "5分鐘 Docker 部署！TradingAgents-CN 實戰：打造個人專屬 AI 股票分析儀",
+        "published": "2026-04-29T01:35:31+00:00",
+        "url": "https://www.youtube.com/watch?v=r_TkSSndowE",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/r_TkSSndowE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/r_TkSSndowE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "r_TkSSndowE"
+      },
+      {
+        "title": "微軟又來了？VibeVoice 開源卻藏一手，最強 TTS 模型為何不給用？",
+        "published": "2026-04-28T01:34:33+00:00",
+        "url": "https://www.youtube.com/watch?v=LI-bIwrFAUU",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LI-bIwrFAUU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LI-bIwrFAUU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LI-bIwrFAUU"
+      },
+      {
+        "title": "挑戰 Alex Xu 神書地位？system-design-primer：GitHub 34萬星的系統設計聖經，完全免費",
+        "published": "2026-04-26T01:33:12+00:00",
+        "url": "https://www.youtube.com/watch?v=VUPevi-ZpC4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VUPevi-ZpC4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VUPevi-ZpC4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VUPevi-ZpC4"
+      },
+      {
+        "title": "每月省下萬元 API 費用！ollama 本地運行 LLM 全攻略，小團隊也能玩轉大模型",
+        "published": "2026-04-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ueeAwLdOioo",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ueeAwLdOioo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ueeAwLdOioo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ueeAwLdOioo"
+      },
+      {
+        "title": "別再用通用時序模型硬train！Kronos：專為K線設計的金融大模型，實測A股回測績效",
+        "published": "2026-04-25T01:31:56+00:00",
+        "url": "https://www.youtube.com/watch?v=9ZrX-fcVXrM",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9ZrX-fcVXrM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9ZrX-fcVXrM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9ZrX-fcVXrM"
+      },
+      {
+        "title": "請 ML 實習生不如用它？huggingface/ml-intern：從指令到模型全自動化",
+        "published": "2026-04-24T01:33:46+00:00",
+        "url": "https://www.youtube.com/watch?v=bziAQTtgcTo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bziAQTtgcTo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bziAQTtgcTo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bziAQTtgcTo"
+      },
+      {
+        "title": "告別中心化雲端霸權！Syncthing 讓你打造真正私有的 P2P 檔案同步網",
+        "published": "2026-04-22T01:40:01+00:00",
+        "url": "https://www.youtube.com/watch?v=raUsv2YAqTU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/raUsv2YAqTU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/raUsv2YAqTU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "raUsv2YAqTU"
+      },
+      {
+        "title": "Copilot 帳單暴增？元兇竟是終端機指令！rtk (Rust Token Killer) 幫你省下 90% Token 費用",
+        "published": "2026-04-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=v15CLy0t3AE",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/v15CLy0t3AE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/v15CLy0t3AE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "v15CLy0t3AE"
+      },
+      {
+        "title": "Google News 餵你垃圾資訊？TrendRadar 讓你打造個人 AI 情報中心，過濾 99% 噪音",
+        "published": "2026-04-21T01:33:58+00:00",
+        "url": "https://www.youtube.com/watch?v=MYtc4naLz_I",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MYtc4naLz_I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MYtc4naLz_I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MYtc4naLz_I"
+      },
+      {
+        "title": "還在用 TeamViewer？告別資安焦慮！rustdesk 讓你自架伺服器，遠端連線不求人",
+        "published": "2026-04-19T01:31:04+00:00",
+        "url": "https://www.youtube.com/watch?v=jjheDkuVl6o",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jjheDkuVl6o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jjheDkuVl6o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jjheDkuVl6o"
+      },
+      {
+        "title": "彭博終端機的開源殺手？FinceptTerminal 實測：C++ 原生效能，告別網頁版卡頓！",
+        "published": "2026-04-19T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=x8KkmMaiI-8",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/x8KkmMaiI-8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/x8KkmMaiI-8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "x8KkmMaiI-8"
+      },
+      {
+        "title": "2026 年再不學 LLM 就晚了！dive-into-llms：這不是理論課，是能直接跑的程式碼。",
+        "published": "2026-04-18T01:31:28+00:00",
+        "url": "https://www.youtube.com/watch?v=rk5Sp2YqvH4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rk5Sp2YqvH4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rk5Sp2YqvH4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rk5Sp2YqvH4"
+      },
+      {
+        "title": "3 分鐘找到專案所需 API！public-apis 深度解析：CORS、Auth 資訊一目了然，前端開發者救星！",
+        "published": "2026-04-16T01:33:26+00:00",
+        "url": "https://www.youtube.com/watch?v=Wx75coeLMYE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Wx75coeLMYE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Wx75coeLMYE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Wx75coeLMYE"
+      },
+      {
+        "title": "從零打造 AI 投資團隊！ai-hedge-fund 專案解析，本地 LLM 也能跑",
+        "published": "2026-04-16T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=WJClXWVUyUw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WJClXWVUyUw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WJClXWVUyUw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "WJClXWVUyUw"
+      },
+      {
+        "title": "還在用 Transformers 硬跑？vllm 引擎實測，LLM 推論吞吐量直接翻倍",
+        "published": "2026-04-14T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=EVg07sqC9Rs",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/EVg07sqC9Rs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/EVg07sqC9Rs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "EVg07sqC9Rs"
+      },
+      {
+        "title": "免費支援 23 種語言！Voicebox：整合 5 大 AI 引擎的本地語音合成神器",
+        "published": "2026-04-13T01:32:36+00:00",
+        "url": "https://www.youtube.com/watch?v=IeugZX1mfY0",
+        "topic": "AI video / media tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IeugZX1mfY0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IeugZX1mfY0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IeugZX1mfY0"
+      },
+      {
+        "title": "RTX 4090 才能跑 70B 模型？airllm 實測：讓你的 4GB 舊顯卡也能玩轉大型 AI！",
+        "published": "2026-04-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ak_OXYDS8-g",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ak_OXYDS8-g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ak_OXYDS8-g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ak_OXYDS8-g"
+      },
+      {
+        "title": "GitHub Copilot 只是玩具？multica 讓你打造真正會自己領任務、寫 Code 的 AI 員工團隊",
+        "published": "2026-04-12T01:31:41+00:00",
+        "url": "https://www.youtube.com/watch?v=66Krku5akGc",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/66Krku5akGc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/66Krku5akGc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "66Krku5akGc"
+      },
+      {
+        "title": "檔案僅 45KB 的金融圖表！lightweight-charts 如何實現極致輕量與高效能？",
+        "published": "2026-04-10T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=C4SpztMHViQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/C4SpztMHViQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/C4SpztMHViQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "C4SpztMHViQ"
+      },
+      {
+        "title": "別再手刻 LangChain！n8n 視覺化打造 AI Agent，10 分鐘串接自有數據",
+        "published": "2026-04-09T01:33:46+00:00",
+        "url": "https://www.youtube.com/watch?v=V1aZnMiR8zk",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/V1aZnMiR8zk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/V1aZnMiR8zk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "V1aZnMiR8zk"
+      },
+      {
+        "title": "10分鐘設定你的 AI 數位分身！Rowboat 實測：自動讀 Email、準備會議",
+        "published": "2026-04-09T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=3XMBMtvzTPQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3XMBMtvzTPQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3XMBMtvzTPQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3XMBMtvzTPQ"
+      },
+      {
+        "title": "別再被大廠綁架！goose Agent 讓你自由切換 OpenAI/Google/本地 LLM",
+        "published": "2026-04-08T01:35:42+00:00",
+        "url": "https://www.youtube.com/watch?v=4dSIaNtDBRM",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4dSIaNtDBRM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4dSIaNtDBRM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4dSIaNtDBRM"
+      },
+      {
+        "title": "Graph RAG 已過時？GitNexus 的預計算智能，讓 AI 精準讀懂你的整個專案架構",
+        "published": "2026-04-06T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=cWYa0ivVpps",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cWYa0ivVpps/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cWYa0ivVpps/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cWYa0ivVpps"
+      },
+      {
+        "title": "還在自己拼裝 RAG 系統？Onyx 整合 Agentic RAG，打造企業級 AI 知識庫",
+        "published": "2026-04-05T01:34:36+00:00",
+        "url": "https://www.youtube.com/watch?v=_ndl8_bTF2I",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_ndl8_bTF2I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_ndl8_bTF2I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_ndl8_bTF2I"
+      },
+      {
+        "title": "拋棄複雜 RAG 架構！memvid 獨創「記憶膠囊」，AI 也能時間旅行除錯",
+        "published": "2026-04-05T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=yvfP8Am6zpI",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yvfP8Am6zpI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yvfP8Am6zpI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yvfP8Am6zpI"
+      },
+      {
+        "title": "Neovim 搜尋慢到想哭？試試 fff.nvim：基於 Rust 和「記憶」演算法，告別 Telescope 卡頓！",
+        "published": "2026-04-03T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=9Nw75QqvNA8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9Nw75QqvNA8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9Nw75QqvNA8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9Nw75QqvNA8"
+      },
+      {
+        "title": "憑什麼做個 Demo 影片也要被訂閱綁架？OpenScreen：開發者拿回影片所有權的自由工具",
+        "published": "2026-04-02T01:34:42+00:00",
+        "url": "https://www.youtube.com/watch?v=sByC147Ej8Y",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sByC147Ej8Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sByC147Ej8Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sByC147Ej8Y"
+      },
+      {
+        "title": "別再付錢給 SaaS 大廠！TaxHacker 把財務數據還給你，開源 AI 會計的逆襲",
+        "published": "2026-03-31T01:35:57+00:00",
+        "url": "https://www.youtube.com/watch?v=Sqnpi_ELjZM",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Sqnpi_ELjZM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Sqnpi_ELjZM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Sqnpi_ELjZM"
+      },
+      {
+        "title": "比 OpenAI Assistants 更自由！hermes-agent 實測：任意切換 200+ LLM，成本降到最低",
+        "published": "2026-03-31T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=stj80kFtr7Y",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/stj80kFtr7Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/stj80kFtr7Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "stj80kFtr7Y"
+      },
+      {
+        "title": "你的 Claude Code 只發揮 10% 功力？claude-howto 幫你解鎖 90% 隱藏潛能！",
+        "published": "2026-03-30T01:32:31+00:00",
+        "url": "https://www.youtube.com/watch?v=yILd_HkzrXs",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yILd_HkzrXs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yILd_HkzrXs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yILd_HkzrXs"
+      },
+      {
+        "title": "你的 AI Agent 專案又卡關？learn-claude-code 帶你跳脫提示工程，打造高效執行環境",
+        "published": "2026-03-29T01:36:24+00:00",
+        "url": "https://www.youtube.com/watch?v=HgRMVptqTL0",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HgRMVptqTL0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HgRMVptqTL0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HgRMVptqTL0"
+      },
+      {
+        "title": "AI 換臉防不勝防？親手玩 Deep-Live-Cam，教你辨識 Deepfake 假影片的破綻",
+        "published": "2026-03-28T01:35:35+00:00",
+        "url": "https://www.youtube.com/watch?v=Hzslr9-ZmJk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Hzslr9-ZmJk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Hzslr9-ZmJk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Hzslr9-ZmJk"
+      },
+      {
+        "title": "一小時打造你的專屬 CRM！用 twenty 拿回客戶數據主導權，100% 開源免費。",
+        "published": "2026-03-26T01:31:20+00:00",
+        "url": "https://www.youtube.com/watch?v=IObeLTXUzds",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IObeLTXUzds/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IObeLTXUzds/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IObeLTXUzds"
+      },
+      {
+        "title": "150 分鐘音檔 98 秒轉完！insanely-fast-whisper 實測，這才是本地語音轉文字的極速體驗",
+        "published": "2026-03-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=t1cZdRcvfbk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/t1cZdRcvfbk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/t1cZdRcvfbk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "t1cZdRcvfbk"
+      },
+      {
+        "title": "AI Agent 總是失控又健忘？ruflo 獨創自我學習架構，解決 AI 協作核心痛點。",
+        "published": "2026-03-25T01:35:05+00:00",
+        "url": "https://www.youtube.com/watch?v=x0YnymqcprU",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/x0YnymqcprU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/x0YnymqcprU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "x0YnymqcprU"
+      },
+      {
+        "title": "Three.js 專案變屎山？Pascal Editor 靠這架構，打造可維護的 Web 3D 體驗。",
+        "published": "2026-03-24T01:34:16+00:00",
+        "url": "https://www.youtube.com/watch?v=XmuRTMYNBlI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XmuRTMYNBlI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XmuRTMYNBlI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XmuRTMYNBlI"
+      },
+      {
+        "title": "靈感枯竭？別再手刻 Minecraft 地圖了！arnis 自動生成真實世界，讓你專注蓋神級建築。",
+        "published": "2026-03-22T01:30:26+00:00",
+        "url": "https://www.youtube.com/watch?v=PMiN5PeVycc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PMiN5PeVycc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PMiN5PeVycc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PMiN5PeVycc"
+      },
+      {
+        "title": "50GB 維基百科帶著走！project-nomad 實測，在完全沒網路的環境執行本地 AI 模型。",
+        "published": "2026-03-22T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=CfqlbKJv3pc",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CfqlbKJv3pc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CfqlbKJv3pc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CfqlbKJv3pc"
+      },
+      {
+        "title": "入門 GenLayer 智能合約！genlayer-project-boilerplate 專案，30 分鐘跑通端對端測試",
+        "published": "2026-03-20T01:31:00+00:00",
+        "url": "https://www.youtube.com/watch?v=pF1GzxP4gJ8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pF1GzxP4gJ8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pF1GzxP4gJ8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pF1GzxP4gJ8"
+      },
+      {
+        "title": "單一 AI 代理已過時？oh-my-openagent 把 LLM 變身開發團隊主管，實測自動化重構",
+        "published": "2026-03-20T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Z4EXc5T1bBM",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z4EXc5T1bBM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z4EXc5T1bBM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Z4EXc5T1bBM"
+      },
+      {
+        "title": "別再怪 GPU 不夠力！unsloth 實測：AI 模型訓練速度翻倍，VRAM 消耗砍 70%",
+        "published": "2026-03-19T01:36:15+00:00",
+        "url": "https://www.youtube.com/watch?v=I5VEqWvIRTo",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/I5VEqWvIRTo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/I5VEqWvIRTo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "I5VEqWvIRTo"
+      },
+      {
+        "title": "零成本部署 AI 操盤手！daily_stock_analysis 全攻略，用 GitHub Actions 自動分析股票",
+        "published": "2026-03-17T01:44:03+00:00",
+        "url": "https://www.youtube.com/watch?v=FxNurWWVdfE",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FxNurWWVdfE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FxNurWWVdfE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FxNurWWVdfE"
+      },
+      {
+        "title": "Gin 太自由反而害了你？GoFr 固化己見框架，讓你專注業務邏輯，告別基礎設施地獄",
+        "published": "2026-03-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=5g-2tyxgr2E",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5g-2tyxgr2E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5g-2tyxgr2E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5g-2tyxgr2E"
+      },
+      {
+        "title": "成為未來的上帝視角！MiroFish 深度解析：如何用多智能體模擬社會演化",
+        "published": "2026-03-16T01:32:28+00:00",
+        "url": "https://www.youtube.com/watch?v=y-zjYt7Em9Y",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/y-zjYt7Em9Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/y-zjYt7Em9Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "y-zjYt7Em9Y"
+      },
+      {
+        "title": "拒絕被 LLM 廠商綁架！pi-mono 提供統一 API，讓你自由切換 OpenAI/Google/Anthropic 模型",
+        "published": "2026-03-15T01:35:57+00:00",
+        "url": "https://www.youtube.com/watch?v=TvyOeMkimto",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TvyOeMkimto/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TvyOeMkimto/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TvyOeMkimto"
+      },
+      {
+        "title": "5 分鐘搞定所有 AI 設定！cc-switch 實測：無痛導入 Claude、Gemini 等 50+ 供應商",
+        "published": "2026-03-13T01:34:54+00:00",
+        "url": "https://www.youtube.com/watch?v=bhTi_Z_rEx8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bhTi_Z_rEx8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bhTi_Z_rEx8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bhTi_Z_rEx8"
+      },
+      {
+        "title": "一個指令讓 Claude 能力升級！claude-plugins-official 精選 5 款插件，告別 AI 玩具時代",
+        "published": "2026-03-13T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=MqYZccx4YMg",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MqYZccx4YMg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MqYZccx4YMg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MqYZccx4YMg"
+      },
+      {
+        "title": "OpenAI TTS 的開源平替？fish-speech 實測：連低語都能控制，完全免費",
+        "published": "2026-03-12T01:34:45+00:00",
+        "url": "https://www.youtube.com/watch?v=cw5cc9QZLmA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cw5cc9QZLmA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cw5cc9QZLmA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cw5cc9QZLmA"
+      },
+      {
+        "title": "AutoGPT 只能跑龍套？字節跳動開源 deer-flow，給 AI 獨立 Docker 環境，真正搞定數小時的複雜任務！",
+        "published": "2026-03-11T01:33:00+00:00",
+        "url": "https://www.youtube.com/watch?v=UBcHICEOChY",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UBcHICEOChY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UBcHICEOChY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UBcHICEOChY"
+      },
+      {
+        "title": "比滿街的 Gemini 教學強在哪？Google 官方 `generative-ai` 專案，完整揭露最佳實踐！",
+        "published": "2026-03-10T01:33:25+00:00",
+        "url": "https://www.youtube.com/watch?v=U0ZKOQkFiNk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U0ZKOQkFiNk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U0ZKOQkFiNk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U0ZKOQkFiNk"
+      },
+      {
+        "title": "省錢黑科技！Free-TV/IPTV：靠 GitHub 萬星專案，我一年省下 12000 元電視費",
+        "published": "2026-03-09T01:32:46+00:00",
+        "url": "https://www.youtube.com/watch?v=noUTsxRxot0",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/noUTsxRxot0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/noUTsxRxot0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "noUTsxRxot0"
+      },
+      {
+        "title": "讓 AI 陪你打 Minecraft！airi 實戰教學，30 分鐘部署一個會玩遊戲的 AI 夥伴",
+        "published": "2026-03-08T01:32:24+00:00",
+        "url": "https://www.youtube.com/watch?v=qvgfhgNMqOQ",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qvgfhgNMqOQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qvgfhgNMqOQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qvgfhgNMqOQ"
+      },
+      {
+        "title": "你的 AI 專案費用失控了嗎？用 litellm 精準追蹤 LLM 成本，找出最省錢的模型組合",
+        "published": "2026-03-07T01:33:41+00:00",
+        "url": "https://www.youtube.com/watch?v=-A9Gk6zFU_M",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-A9Gk6zFU_M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-A9Gk6zFU_M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-A9Gk6zFU_M"
+      },
+      {
+        "title": "區塊鏈界的 Vercel？canopy 實測：用 Go 語言一鍵啟動你的 P2P 新鏈！",
+        "published": "2026-03-06T01:33:08+00:00",
+        "url": "https://www.youtube.com/watch?v=yOsNIO4xu38",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yOsNIO4xu38/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yOsNIO4xu38/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yOsNIO4xu38"
+      },
+      {
+        "title": "ItzCrazyKns/Perplexica 60秒精華 | GitCovery #Shorts",
+        "published": "2026-03-05T08:05:12+00:00",
+        "url": "https://www.youtube.com/shorts/zCU6cknNhdU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zCU6cknNhdU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zCU6cknNhdU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zCU6cknNhdU"
+      },
+      {
+        "title": "Perplexity AI 的開源平替！Perplexica 實測：打造完全私有、不受監控的 AI 搜尋引擎",
+        "published": "2026-03-05T01:37:06+00:00",
+        "url": "https://www.youtube.com/watch?v=RlSeohZzzFc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RlSeohZzzFc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RlSeohZzzFc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RlSeohZzzFc"
+      },
+      {
+        "title": "這不是科幻！RuView 讓 WiFi 訊號能\"看見\"心跳，Rust 重寫後快 810 倍。",
+        "published": "2026-03-04T01:42:32+00:00",
+        "url": "https://www.youtube.com/watch?v=7g5gy-Ce5gw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7g5gy-Ce5gw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7g5gy-Ce5gw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7g5gy-Ce5gw"
+      },
+      {
+        "title": "你的 GPT-4o 費用都在燒垃圾？微軟 markitdown 幫你省下 80% 無效 Token 成本",
+        "published": "2026-03-03T02:22:47+00:00",
+        "url": "https://www.youtube.com/watch?v=UL5_XMT0cSw",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UL5_XMT0cSw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UL5_XMT0cSw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UL5_XMT0cSw"
+      },
+      {
+        "title": "RAG 效能差？別再只靠向量搜尋！production-agentic-rag-course 教你混合檢索的專業路徑",
+        "published": "2026-03-02T01:36:21+00:00",
+        "url": "https://www.youtube.com/watch?v=N8ZV54kC_XQ",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/N8ZV54kC_XQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/N8ZV54kC_XQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "N8ZV54kC_XQ"
+      },
+      {
+        "title": "感覺快被技術淘汰？HelloGitHub：從有趣的入門專案找回你的學習熱情。",
+        "published": "2026-03-01T01:32:01+00:00",
+        "url": "https://www.youtube.com/watch?v=TUE4SKEXh1g",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TUE4SKEXh1g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TUE4SKEXh1g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TUE4SKEXh1g"
+      },
+      {
+        "title": "ChatGPT Plus 用戶免費升級！OpenAI Codex CLI：極低資源佔用，你的終端機 AI 新選擇",
+        "published": "2026-02-27T01:27:47+00:00",
+        "url": "https://www.youtube.com/watch?v=kd0EGzI0zGE",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/kd0EGzI0zGE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/kd0EGzI0zGE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "kd0EGzI0zGE"
+      },
+      {
+        "title": "opencode 實戰：15 分鐘分析陌生程式碼庫，AI 代理幫你規劃重構路徑",
+        "published": "2026-02-27T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=pIccYfMqvog",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pIccYfMqvog/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pIccYfMqvog/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pIccYfMqvog"
+      },
+      {
+        "title": "你的後端架構已過時！SpacetimeDB 直接在資料庫裡跑 Rust/C#，消滅 API 層",
+        "published": "2026-02-25T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=jAzefpFtKbk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jAzefpFtKbk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jAzefpFtKbk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jAzefpFtKbk"
+      },
+      {
+        "title": "爬蟲又因網站改版壞了？Scrapling 的自適應解析器，讓你一勞永逸",
+        "published": "2026-02-24T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=El4EJGnq3uQ",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/El4EJGnq3uQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/El4EJGnq3uQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "El4EJGnq3uQ"
+      },
+      {
+        "title": "厭倦了對 AI 重複解釋？claude-mem 終結上下文失憶惡夢，把你的時間還給你！",
+        "published": "2026-02-23T01:31:51+00:00",
+        "url": "https://www.youtube.com/watch?v=oVvgHMlsje8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/oVvgHMlsje8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/oVvgHMlsje8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "oVvgHMlsje8"
+      },
+      {
+        "title": "一句 `ultrawork` 指令下達！oh-my-opencode 實測：AI 團隊自動完成開發任務",
+        "published": "2026-02-23T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=SmBfBPY7WE0",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SmBfBPY7WE0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SmBfBPY7WE0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SmBfBPY7WE0"
+      },
+      {
+        "title": "告別複雜設定！clash-verge-rev 實測：一鍵開啟 TUN 模式，輕鬆實現全局代理。",
+        "published": "2026-02-22T01:31:48+00:00",
+        "url": "https://www.youtube.com/watch?v=hSA3cdT-Ye8",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hSA3cdT-Ye8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hSA3cdT-Ye8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hSA3cdT-Ye8"
+      },
+      {
+        "title": "拆解近 300 張圖！HandsOnLLM 帶你跑完 12 個關鍵 LLM 實作 Notebook",
+        "published": "2026-02-21T01:31:18+00:00",
+        "url": "https://www.youtube.com/watch?v=MXD17fU6AWo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MXD17fU6AWo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MXD17fU6AWo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MXD17fU6AWo"
+      },
+      {
+        "title": "你的 RAG 總是不準？RAG_Techniques 完全指南，用進階技巧取代你的過時作法",
+        "published": "2026-02-20T01:29:14+00:00",
+        "url": "https://www.youtube.com/watch?v=ZxL-4OnZSQ0",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZxL-4OnZSQ0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZxL-4OnZSQ0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZxL-4OnZSQ0"
+      },
+      {
+        "title": "90毫秒打造 AI 安全執行環境！Daytona 實測：讓 AI Agent 擁有獨立開發空間",
+        "published": "2026-02-19T01:35:14+00:00",
+        "url": "https://www.youtube.com/watch?v=XXHZwV5ZjeU",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XXHZwV5ZjeU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XXHZwV5ZjeU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XXHZwV5ZjeU"
+      },
+      {
+        "title": "挑戰 Notion AI 搜尋！qmd：100% 本地運行，你的 Markdown 筆記庫也能有大腦",
+        "published": "2026-02-18T01:25:58+00:00",
+        "url": "https://www.youtube.com/watch?v=bVRcoiFu6Ns",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bVRcoiFu6Ns/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bVRcoiFu6Ns/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bVRcoiFu6Ns"
+      },
+      {
+        "title": "1 個指令取代 10 個網頁！gogcli 實測：在終端機用 JSON 批次處理 Google 任務",
+        "published": "2026-02-16T01:17:32+00:00",
+        "url": "https://www.youtube.com/watch?v=B7bXeKWcg04",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/B7bXeKWcg04/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/B7bXeKWcg04/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "B7bXeKWcg04"
+      },
+      {
+        "title": "更低的 KL 散度是什麼概念？Heretic 移除審查，效果比專家手調還強！",
+        "published": "2026-02-16T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Sk1gNdOQf0c",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Sk1gNdOQf0c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Sk1gNdOQf0c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Sk1gNdOQf0c"
+      },
+      {
+        "title": "你的 AI 視覺還在轉圈圈？Vision-Agents 實現 30ms 超低延遲，讓 AI 代理即時反應",
+        "published": "2026-02-15T01:52:08+00:00",
+        "url": "https://www.youtube.com/watch?v=dCTWOD8K8jI",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dCTWOD8K8jI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dCTWOD8K8jI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dCTWOD8K8jI"
+      },
+      {
+        "title": "讓 AI 幫你拍照錄影！openclaw 深度解析，實現真正的裝置級自動化",
+        "published": "2026-02-14T01:25:07+00:00",
+        "url": "https://www.youtube.com/watch?v=rjLkS3rqNMk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rjLkS3rqNMk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rjLkS3rqNMk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rjLkS3rqNMk"
+      },
+      {
+        "title": "AI 代理自動抓資料！Firecrawl 實測：一句話「幫我找 Notion 定價」就搞定。",
+        "published": "2026-02-13T01:31:30+00:00",
+        "url": "https://www.youtube.com/watch?v=sS3G3UdKEJ0",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sS3G3UdKEJ0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sS3G3UdKEJ0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sS3G3UdKEJ0"
+      },
+      {
+        "title": "終結殘廢 CLI！AionUi 把 Gemini/Claude 變成你的桌面神隊友，告別單次對話",
+        "published": "2026-02-12T03:57:28+00:00",
+        "url": "https://www.youtube.com/watch?v=Dv2OiBOjqsc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Dv2OiBOjqsc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Dv2OiBOjqsc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Dv2OiBOjqsc"
+      },
+      {
+        "title": "ChatGPT API 太貴？free-llm-api-resources：40+ 合法免費 LLM 服務完整實測",
+        "published": "2026-02-11T01:31:45+00:00",
+        "url": "https://www.youtube.com/watch?v=IaLGLYzamzc",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IaLGLYzamzc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IaLGLYzamzc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IaLGLYzamzc"
+      },
+      {
+        "title": "通吃 OpenAI/Gemini/Llama！awesome-llm-apps：2026 年 AI 開發者必備的跨模型實戰手冊。",
+        "published": "2026-02-10T01:28:58+00:00",
+        "url": "https://www.youtube.com/watch?v=clMXMUnpUZM",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/clMXMUnpUZM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/clMXMUnpUZM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "clMXMUnpUZM"
+      },
+      {
+        "title": "免談模型微調！Google langextract：用 5 個範例教 AI 讀懂任何文件",
+        "published": "2026-02-09T01:32:01+00:00",
+        "url": "https://www.youtube.com/watch?v=4dI5ger4_hU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4dI5ger4_hU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4dI5ger4_hU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4dI5ger4_hU"
+      },
+      {
+        "title": "AI 回應慢又貴？mem0 實測：加速 91%、省 90% Token 的智慧記憶層，你還在用舊方法？",
+        "published": "2026-02-08T01:29:55+00:00",
+        "url": "https://www.youtube.com/watch?v=hV_TEv9ANaM",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hV_TEv9ANaM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hV_TEv9ANaM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hV_TEv9ANaM"
+      },
+      {
+        "title": "Claude 技能大爆發！awesome-claude-skills 精選 1000+ App 自動化，開發者必備生產力神器。",
+        "published": "2026-02-07T01:32:15+00:00",
+        "url": "https://www.youtube.com/watch?v=nNbNam4aXZU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nNbNam4aXZU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nNbNam4aXZU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nNbNam4aXZU"
+      },
+      {
+        "title": "告別不穩定的 Prompt！Anthropic 官方 skills 實測，AI 自動生成 PPT、PDF 不再是夢",
+        "published": "2026-02-06T01:23:37+00:00",
+        "url": "https://www.youtube.com/watch?v=XGyJed2IBaE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XGyJed2IBaE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XGyJed2IBaE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XGyJed2IBaE"
+      },
+      {
+        "title": "從零打造 AI 交易團隊！TradingAgents 深度解析：分析師、交易員 AI 全自動協作。",
+        "published": "2026-02-05T01:31:04+00:00",
+        "url": "https://www.youtube.com/watch?v=uPCPx04qKP0",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uPCPx04qKP0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uPCPx04qKP0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uPCPx04qKP0"
+      },
+      {
+        "title": "你的 AI Agent 專案一團亂？OpenAI 的 openai/skills 帶來曙光，用標準化框架終結開發混亂",
+        "published": "2026-02-04T01:23:35+00:00",
+        "url": "https://www.youtube.com/watch?v=6b6QSqX_YfM",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6b6QSqX_YfM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6b6QSqX_YfM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6b6QSqX_YfM"
+      },
+      {
+        "title": "成本不到 15 元！minimind 教你用 2 小時訓練 26M 參數 GPT，這才是平民版 AI！",
+        "published": "2026-02-03T01:28:08+00:00",
+        "url": "https://www.youtube.com/watch?v=ewycarYziTE",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ewycarYziTE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ewycarYziTE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ewycarYziTE"
+      },
+      {
+        "title": "只要 73 美元、3 小時！nanochat 完整實戰：從零訓練一個超越 GPT-2 的 LLM",
+        "published": "2026-02-02T01:21:15+00:00",
+        "url": "https://www.youtube.com/watch?v=mOZrvU0-vNI",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mOZrvU0-vNI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mOZrvU0-vNI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mOZrvU0-vNI"
+      },
+      {
+        "title": "LangChain Agent 越寫越亂？微軟 agent-lightning：免改 Code，自動幫 AI Agent「開光」",
+        "published": "2026-01-31T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=0F-EYo04Iq4",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0F-EYo04Iq4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0F-EYo04Iq4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0F-EYo04Iq4"
+      },
+      {
+        "title": "GitHub 38萬星認證！free-programming-books 為何是全球開發者的自學寶典？",
+        "published": "2026-01-31T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=XD1CSkpAHtk",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XD1CSkpAHtk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XD1CSkpAHtk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XD1CSkpAHtk"
+      },
+      {
+        "title": "開發者必裝！kimi-cli 整合 Agent Client Protocol，你的終端機正式進入 AI 時代",
+        "published": "2026-01-29T01:22:49+00:00",
+        "url": "https://www.youtube.com/watch?v=8rfeIeuJCwE",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8rfeIeuJCwE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8rfeIeuJCwE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8rfeIeuJCwE"
+      },
+      {
+        "title": "打造個人 AI 超級電腦！exo 實測：聚合多台 Mac 運算力跑 70B 模型",
+        "published": "2026-01-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=nZAObn_YnKE",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nZAObn_YnKE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nZAObn_YnKE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nZAObn_YnKE"
+      },
+      {
+        "title": "別再只會用 Dify！hello-agents 帶你從零打造 AI Agent 框架，擺脫工具限制",
+        "published": "2026-01-28T01:18:59+00:00",
+        "url": "https://www.youtube.com/watch?v=Ze9DfZCdmP0",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Ze9DfZCdmP0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Ze9DfZCdmP0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Ze9DfZCdmP0"
+      },
+      {
+        "title": "AI Agent 趨勢來了！ViMax 框架解析：下個世代的 AI 影片生成器長這樣",
+        "published": "2026-01-26T02:57:50+00:00",
+        "url": "https://www.youtube.com/watch?v=I0CN1WIdGR4",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/I0CN1WIdGR4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/I0CN1WIdGR4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "I0CN1WIdGR4"
+      },
+      {
+        "title": "AI 繪圖完美重現！ComfyUI 將完整工作流存入圖片，一鍵複製大神作品",
+        "published": "2026-01-26T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=ETXXjFIrlQo",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ETXXjFIrlQo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ETXXjFIrlQo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ETXXjFIrlQo"
+      },
+      {
+        "title": "Prompt Engineering 已死？GitHub spec-kit 實測：用「規格」直接生成程式碼，品質翻倍！",
+        "published": "2026-01-25T01:21:02+00:00",
+        "url": "https://www.youtube.com/watch?v=Mdk30BTXgo4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Mdk30BTXgo4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Mdk30BTXgo4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Mdk30BTXgo4"
+      },
+      {
+        "title": "想做 AI 應用卻沒方向？awesome-llm-apps 讓你 30 分鐘找到下個 Side Project 靈感與源碼",
+        "published": "2026-01-24T01:18:00+00:00",
+        "url": "https://www.youtube.com/watch?v=WpeHUHhNohE",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WpeHUHhNohE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WpeHUHhNohE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "WpeHUHhNohE"
+      },
+      {
+        "title": "面試資源憑什麼要付費？system-design-primer：打破大廠資訊壟斷，最公平的技術面試指南",
+        "published": "2026-01-23T01:24:25+00:00",
+        "url": "https://www.youtube.com/watch?v=7DcT69yKf0I",
+        "topic": "Career / developer tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7DcT69yKf0I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7DcT69yKf0I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7DcT69yKf0I"
+      },
+      {
+        "title": "別再用暴力 Chunking 了！PageIndex 顛覆傳統 RAG，用 AlphaGo 樹狀搜尋法，準確率飆到 98.7%",
+        "published": "2026-01-21T01:21:29+00:00",
+        "url": "https://www.youtube.com/watch?v=RDRR0bH05mg",
+        "topic": "LLM apps / RAG",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RDRR0bH05mg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RDRR0bH05mg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RDRR0bH05mg"
+      },
+      {
+        "title": "它不只是 OCR！PaddleOCR 3.0 核心解密：從文字提取到文件級 AI 理解",
+        "published": "2026-01-21T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=JmjIzrSPjiA",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JmjIzrSPjiA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JmjIzrSPjiA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JmjIzrSPjiA"
+      },
+      {
+        "title": "你的 Claude 只會聊天？awesome-claude-skills 讓它連上 500+ App，變身超級 AI 代理",
+        "published": "2026-01-20T01:20:46+00:00",
+        "url": "https://www.youtube.com/watch?v=yoHY5WoPAOc",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yoHY5WoPAOc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yoHY5WoPAOc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yoHY5WoPAOc"
+      },
+      {
+        "title": "網頁下載器超慢？yt-dlp 實測：一行指令備份整個播放清單，速度快10倍！",
+        "published": "2026-01-19T01:22:35+00:00",
+        "url": "https://www.youtube.com/watch?v=h1GEbygaFfk",
+        "topic": "AI browser / automation",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/h1GEbygaFfk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/h1GEbygaFfk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "h1GEbygaFfk"
+      },
+      {
+        "title": "Regex 掰掰！Google LangExtract 用 AI 從雜亂文本提取資料，來源精準可追溯。",
+        "published": "2026-01-17T01:21:08+00:00",
+        "url": "https://www.youtube.com/watch?v=LgJyFbY4e_c",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LgJyFbY4e_c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LgJyFbY4e_c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LgJyFbY4e_c"
+      },
+      {
+        "title": "拒絕再被雲端大廠綁架！VoxCPM 開源 TTS 本地部署，實現高品質「語音自由」",
+        "published": "2026-01-17T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=UZDOdqgPhY4",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UZDOdqgPhY4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UZDOdqgPhY4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UZDOdqgPhY4"
+      },
+      {
+        "title": "別再燒錢 Fine-tune！OpenPipe/ART 實測：用強化學習讓 AI Agent 成本降 40%",
+        "published": "2026-01-15T01:57:40+00:00",
+        "url": "https://www.youtube.com/watch?v=t5QfkSKU0qY",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/t5QfkSKU0qY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/t5QfkSKU0qY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "t5QfkSKU0qY"
+      },
+      {
+        "title": "ultralytics 實戰：30分鐘用 YOLOv8 打造 AI 智慧保全系統，從零到部署",
+        "published": "2026-01-15T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=nAmQ9DjAR_M",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/nAmQ9DjAR_M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/nAmQ9DjAR_M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "nAmQ9DjAR_M"
+      },
+      {
+        "title": "AI 焦慮讓你睡不著？GitHub 熱門模板讓你用 n8n 串起大模型，從門外漢變專家。",
+        "published": "2026-01-12T01:14:16+00:00",
+        "url": "https://www.youtube.com/watch?v=AQMxatGnNOo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AQMxatGnNOo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AQMxatGnNOo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AQMxatGnNOo"
+      },
+      {
+        "title": "iCloud 空間又爆了？這個 Python 神器讓你一鍵清空雲端、無痛備份到 NAS。",
+        "published": "2026-01-12T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=o61K5jSX_O4",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/o61K5jSX_O4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/o61K5jSX_O4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "o61K5jSX_O4"
+      },
+      {
+        "title": "80% 規劃，20% 寫 Code？GitHub 新寵兒用「複利工程」顛覆你的工作效率",
+        "published": "2026-01-11T01:13:50+00:00",
+        "url": "https://www.youtube.com/watch?v=9wJfxU_tcM4",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9wJfxU_tcM4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9wJfxU_tcM4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9wJfxU_tcM4"
+      },
+      {
+        "title": "省下數萬顯卡預算！這個GitHub神級專案讓1GB VRAM舊電腦也能跑AI大模型。",
+        "published": "2026-01-10T01:14:51+00:00",
+        "url": "https://www.youtube.com/watch?v=7UCwojlci38",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7UCwojlci38/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7UCwojlci38/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7UCwojlci38"
+      },
+      {
+        "title": "Side project 沒靈感又缺數據？這個 GitHub 寶庫給你上千個免費 API 當救星",
+        "published": "2026-01-09T01:13:03+00:00",
+        "url": "https://www.youtube.com/watch?v=1iUVPjD5CA8",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1iUVPjD5CA8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1iUVPjD5CA8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1iUVPjD5CA8"
+      },
+      {
+        "title": "微軟官方 bitnet.cpp 橫空出世！CPU 效能提升 6 倍，能耗狂降 70%",
+        "published": "2026-01-07T01:14:06+00:00",
+        "url": "https://www.youtube.com/watch?v=Aa981GnD_7w",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Aa981GnD_7w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Aa981GnD_7w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Aa981GnD_7w"
+      },
+      {
+        "title": "AI 代理總是鬼打牆？這款開源新星用「互動式擴展」教模型學會思考與修正錯誤",
+        "published": "2026-01-07T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Z1ZYliBSANw",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Z1ZYliBSANw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Z1ZYliBSANw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Z1ZYliBSANw"
+      },
+      {
+        "title": "想做 AI Agent 卻不知從何下手？這套開源教程讓你從使用者變身構建者。",
+        "published": "2026-01-06T02:02:45+00:00",
+        "url": "https://www.youtube.com/watch?v=qQ2Y2dneQXM",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qQ2Y2dneQXM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qQ2Y2dneQXM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qQ2Y2dneQXM"
+      },
+      {
+        "title": "比雲端方案省 97% 空間還沒爆紅？這個本地 AI 專案 LEANN 被嚴重低估了",
+        "published": "2026-01-02T07:50:39+00:00",
+        "url": "https://www.youtube.com/watch?v=SKqCXvY074A",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SKqCXvY074A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SKqCXvY074A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SKqCXvY074A"
+      },
+      {
+        "title": "GitHub Trending 每日 AI 精選｜5 個必看開源專案（LLM / RAG / Video Gen）",
+        "published": "2025-12-29T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=gQDzT4JZMTo",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gQDzT4JZMTo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gQDzT4JZMTo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gQDzT4JZMTo"
+      },
+      {
+        "title": "GitHub Trending Daily｜5 個開源專案解析：演算法、LLM Apps、AI Agent 與金融 AI",
+        "published": "2025-12-28T00:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=apdAD3eCuSU",
+        "topic": "Open source / GitHub trending",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/apdAD3eCuSU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/apdAD3eCuSU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "apdAD3eCuSU"
+      },
+      {
+        "title": "GitHub 神器來襲！AI 叢集、履歷生成、資安祕笈一次打包！",
+        "published": "2025-12-26T02:56:17+00:00",
+        "url": "https://www.youtube.com/watch?v=Pl21TCod9Xk",
+        "topic": "Security / AI sandbox",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Pl21TCod9Xk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Pl21TCod9Xk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Pl21TCod9Xk"
       }
     ]
   }
