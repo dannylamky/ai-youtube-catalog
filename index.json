@@ -6,6 +6,16 @@
     "channel_url": "https://www.youtube.com/@AI4All-edu",
     "videos": [
       {
+        "title": "【AI教學應用】Copilot X Claude | 挑戰 24 種互動 PPTX 效果",
+        "published": "2026-11-13T00:00:15+00:00",
+        "url": "https://www.youtube.com/watch?v=XpJGIG3EpW8",
+        "topic": "AI education / tools tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XpJGIG3EpW8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XpJGIG3EpW8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XpJGIG3EpW8"
+      },
+      {
         "title": "【一分鐘速報】 GPT Image 2.6 出圖識喐啦 !",
         "published": "2026-11-07T00:00:31+00:00",
         "url": "https://www.youtube.com/watch?v=h3BsoMINDCc",
@@ -808,6 +818,16 @@
     "channel_url": "https://www.youtube.com/@kellytsaii",
     "videos": [
       {
+        "title": "Claude母公司要上市了！是投資機會還是AI泡沫？為什麼Claude這麼賺錢華爾街還是擔憂？分析Anthropic招股書｜Kelly Tsai",
+        "published": "2026-11-12T12:00:01+00:00",
+        "url": "https://www.youtube.com/watch?v=7mDO-NTwq5c",
+        "topic": "AI commentary / industry",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7mDO-NTwq5c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7mDO-NTwq5c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7mDO-NTwq5c"
+      },
+      {
         "title": "AI時代最大的謊言：除了七大科技公司，根本沒人賺到錢！AI到底是不是泡沫？｜Kelly Tsai",
         "published": "2026-11-10T12:00:16+00:00",
         "url": "https://www.youtube.com/watch?v=ePXqAxP01to",
@@ -1086,6 +1106,16 @@
     "channel_url": "https://www.youtube.com/@kocpc",
     "videos": [
       {
+        "title": "120 年歷史的銀座玩具店 博品館 TOY PARK 一次逛完 #電腦王阿達",
+        "published": "2026-11-12T16:07:02+00:00",
+        "url": "https://www.youtube.com/shorts/NPJzTokINLQ",
+        "topic": "Travel / Japan",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NPJzTokINLQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NPJzTokINLQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NPJzTokINLQ"
+      },
+      {
         "title": "只靠三行提示詞，Fable 5.2 就做出可玩的《戰爭機器》遊戲克隆版！但成本驚人",
         "published": "2026-11-11T12:22:14+00:00",
         "url": "https://www.youtube.com/watch?v=i0NDuwNSogY",
@@ -1343,6 +1373,16 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "我要的是酒窩，AI 畫成一顆黑痣，還跟了 15 個鏡頭｜AI 影片新手課 2",
+        "published": "2026-11-12T22:44:08+00:00",
+        "url": "https://www.youtube.com/watch?v=9RqsfN_iPRw",
+        "topic": "AI video / tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9RqsfN_iPRw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9RqsfN_iPRw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9RqsfN_iPRw"
+      },
       {
         "title": "40 個鏡頭，我們做了 80 個版本：AI 影片不是一句話｜AI 影片新手課 1",
         "published": "2026-11-11T22:13:39+00:00",
@@ -3801,6 +3841,16 @@
     "channel_id": "UCBnIBXjWVKnkxDOwChuBHFA",
     "channel_url": "https://www.youtube.com/@GitCovery",
     "videos": [
+      {
+        "title": "本地 AI 工具裝到心累？locally-uncensored 自動偵測 Ollama，省下設定時間",
+        "published": "2026-11-13T01:22:53+00:00",
+        "url": "https://www.youtube.com/watch?v=_WnCA84Ah0E",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_WnCA84Ah0E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_WnCA84Ah0E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_WnCA84Ah0E"
+      },
       {
         "title": "browser-use 有 3 種用法：Cloud API、CLI、Python Library 怎麼選？",
         "published": "2026-11-12T01:23:44+00:00",
