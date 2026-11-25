@@ -6,6 +6,26 @@
     "channel_url": "https://www.youtube.com/@AI4All-edu",
     "videos": [
       {
+        "title": "【AI 教學應用】廣東話 AI 短劇 點樣拍？ | 咁快又有新方法 !",
+        "published": "2026-11-21T06:00:35+00:00",
+        "url": "https://www.youtube.com/watch?v=hDXn6FkvX9c",
+        "topic": "AI teaching applications: how to shoot a Cantonese AI short drama, plus a new method",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hDXn6FkvX9c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hDXn6FkvX9c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hDXn6FkvX9c"
+      },
+      {
+        "title": "【AI教學應用】4K 模型 有用嗎 ? | 製作前 先學 3 件事",
+        "published": "2026-11-19T00:00:36+00:00",
+        "url": "https://www.youtube.com/watch?v=U3df1Xgtpc8",
+        "topic": "Are 4K models useful for AI teaching applications? Three things to learn before producing",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U3df1Xgtpc8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U3df1Xgtpc8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U3df1Xgtpc8"
+      },
+      {
         "title": "【AI教學應用】Copilot X Claude | Agent 互動 PPT | 挑戰 24 種 效果",
         "published": "2026-11-13T11:30:01+00:00",
         "url": "https://www.youtube.com/watch?v=ZR2Bt9d-5tI",
@@ -214,6 +234,56 @@
     "channel_url": "https://www.youtube.com/@yologuy",
     "videos": [
       {
+        "title": "黃仁勳回來了！11日復職！NVIDIA董事會點解6日轉軚？拆解NVIDIA四項管治條件",
+        "published": "2026-11-23T21:24:33+00:00",
+        "url": "https://www.youtube.com/watch?v=ZM90SdNG5-w",
+        "topic": "Jensen Huang is back! Reinstated in 11 days! Why did NVIDIA's board reverse in 6 days? Breaking down the four governance conditions | 黃仁勳回來了！11日復職！NVIDIA董事會點解6日轉軚？拆解NVIDIA四項管治條件",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZM90SdNG5-w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZM90SdNG5-w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZM90SdNG5-w"
+      },
+      {
+        "title": "【廣東話/ 粵語配音】澤連斯基並非總是誠實！馬斯克DealBook專訪直斥烏克蘭講大話：揭星鏈限速與星盾權責真相【YOLO街】",
+        "published": "2026-11-22T08:31:03+00:00",
+        "url": "https://www.youtube.com/watch?v=4lYskU6eQ_E",
+        "topic": "Zelenskyy is not always honest! Musk DealBook interview calls out Ukraine lying: Starlink throttling and Starshield authority | 【廣東話/ 粵語配音】澤連斯基並非總是誠實！馬斯克DealBook專訪直斥烏克蘭講大話：揭星鏈限速與星盾權責真相【YOLO街】",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4lYskU6eQ_E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4lYskU6eQ_E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4lYskU6eQ_E"
+      },
+      {
+        "title": "以為SpaceX夾飛船好易？SpaceX夾實Starship飛船 vs 波音火箭失事跌晒Amazon40粒衛星：相隔一日點解差咁遠？",
+        "published": "2026-11-20T12:34:10+00:00",
+        "url": "https://www.youtube.com/watch?v=Czj0ALeETfE",
+        "topic": "Thought docking a SpaceX Starship was easy? SpaceX Starship catch vs a Boeing rocket failure that dropped 40 Amazon satellites: why one day made such a difference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Czj0ALeETfE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Czj0ALeETfE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Czj0ALeETfE"
+      },
+      {
+        "title": "【黃仁勳事件之回歸Nvidia】特朗普、馬斯克齊撐都無用？拆解美國公司法與NVIDIA章程：黃仁勳重返做CEO真實機率係……？",
+        "published": "2026-11-17T12:10:33+00:00",
+        "url": "https://www.youtube.com/watch?v=k9Tdc8oGelc",
+        "topic": "Jensen Huang return-to-Nvidia CEO odds under US corporate law",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/k9Tdc8oGelc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/k9Tdc8oGelc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "k9Tdc8oGelc"
+      },
+      {
+        "title": "一定要踢走黃仁勳？間諜羅生門「零證據」擊殺AI霸主：華府借刀收編Nvidia、強推「晶片遠端鎖死開關」的算計！|  All-In Podcast 廣東話/ 粵語配音",
+        "published": "2026-11-15T09:49:45+00:00",
+        "url": "https://www.youtube.com/watch?v=Y4LIX0pUlGs",
+        "topic": "Nvidia / geopolitics / commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Y4LIX0pUlGs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Y4LIX0pUlGs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Y4LIX0pUlGs"
+      },
+      {
         "title": "黃仁勳步Steve Jobs後塵？從SEC數據睇黃仁勳點解無力還手 NVIDIA、Meta與Anthropic管治對比",
         "published": "2026-11-14T01:21:58+00:00",
         "url": "https://www.youtube.com/watch?v=a8Uk6LDlKXg",
@@ -402,6 +472,16 @@
     "channel_url": "https://www.youtube.com/@DrJackeiWong",
     "videos": [
       {
+        "title": "AI 搵完資料，仲要自己做成品？YouMind 由 Deep Research 做到 Vibe Coding 互動網站！",
+        "published": "2026-11-17T11:59:47+00:00",
+        "url": "https://www.youtube.com/watch?v=6w5RCLAv_pk",
+        "topic": "YouMind Deep Research to Vibe Coding interactive site",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6w5RCLAv_pk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6w5RCLAv_pk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6w5RCLAv_pk"
+      },
+      {
         "title": "唔識 Vibe Coding 都做到？！我用 OpenAI Codex 做出超高質動態 PPT！",
         "published": "2026-10-29T12:00:23+00:00",
         "url": "https://www.youtube.com/watch?v=AChOTc1S-BY",
@@ -559,6 +639,146 @@
     "channel_id": "UCnixWoic7ATGI0AZ2LrtJ7Q",
     "channel_url": "https://www.youtube.com/@ompshek",
     "videos": [
+      {
+        "title": "Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解",
+        "published": "2026-11-24T15:29:06+00:00",
+        "url": "https://www.youtube.com/watch?v=HtfUo4fOas0",
+        "topic": "Pika Enact: AI filmmaking without the lottery — a real-time AI studio walkthrough | Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HtfUo4fOas0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HtfUo4fOas0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HtfUo4fOas0"
+      },
+      {
+        "title": "不用再困在黑畫面 Terminal！1 分鐘看懂 Antigravity × ACP（同一個工作台切換 Gemini 4 / Codex / Claude）",
+        "published": "2026-11-24T06:50:01+00:00",
+        "url": "https://www.youtube.com/shorts/XTg7Ed3LD9w",
+        "topic": "One minute on Antigravity × ACP: switch Gemini 4 / Codex / Claude in the same workbench, no more being stuck in a black-terminal window | 不用再困在黑畫面 Terminal！1 分鐘看懂 Antigravity × ACP（同一個工作台切換 Gemini 4 / Codex / Claude）",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XTg7Ed3LD9w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XTg7Ed3LD9w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XTg7Ed3LD9w"
+      },
+      {
+        "title": "Gemini API 推出原生檔案切片控制！支援直傳 Office，Vercel 實測省 14 倍 Token #Shorts",
+        "published": "2026-11-24T04:18:27+00:00",
+        "url": "https://www.youtube.com/shorts/rAlV3WFQF_8",
+        "topic": "Gemini API adds native file slicing and direct Office upload; Vercel test cuts tokens 14× | Gemini API 推出原生檔案切片控制！支援直傳 Office，Vercel 實測省 14 倍 Token #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rAlV3WFQF_8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rAlV3WFQF_8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rAlV3WFQF_8"
+      },
+      {
+        "title": "如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）",
+        "published": "2026-11-23T09:14:24+00:00",
+        "url": "https://www.youtube.com/watch?v=53fZdQ9FqJo",
+        "topic": "How to bind Gemini Antigravity to a personal AI Agent? Hands-on with Zo Computer and free open-source T3 Code, plus a breakdown of the blocking policy | 如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/53fZdQ9FqJo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/53fZdQ9FqJo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "53fZdQ9FqJo"
+      },
+      {
+        "title": "Claude 助證 167 年黎曼猜想！1,737 萬行 Lean 程式碼獲認證，卻無人讀得完？ #AI新聞 #Shorts",
+        "published": "2026-11-23T07:11:30+00:00",
+        "url": "https://www.youtube.com/shorts/N3HEv0dYNTI",
+        "topic": "Claude helps corroborate the 167-year Riemann hypothesis: 17.37 million lines of Lean are certified, but nobody can finish reading them | Claude 助證 167 年黎曼猜想！1,737 萬行 Lean 程式碼獲認證，卻無人讀得完？ #AI新聞 #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/N3HEv0dYNTI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/N3HEv0dYNTI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "N3HEv0dYNTI"
+      },
+      {
+        "title": "OpenAI 首公開內部預訓練曲線：新模型跌至 0.732，籲全行設 AI 安全上限 #Shorts",
+        "published": "2026-11-23T04:03:36+00:00",
+        "url": "https://www.youtube.com/shorts/tnHQ26nQj3k",
+        "topic": "OpenAI first publishes an internal pretraining curve: a new model drops to 0.732, and calls on the industry to set AI safety caps | OpenAI 首公開內部預訓練曲線：新模型跌至 0.732，籲全行設 AI 安全上限 #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tnHQ26nQj3k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tnHQ26nQj3k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tnHQ26nQj3k"
+      },
+      {
+        "title": "Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？",
+        "published": "2026-11-22T12:29:34+00:00",
+        "url": "https://www.youtube.com/watch?v=s2d0vpBXI7o",
+        "topic": "Tesla FSD v15 generates a real-time 3D city; why it could reshape the autonomous-driving race despite using less compute than an iPhone | Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/s2d0vpBXI7o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/s2d0vpBXI7o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "s2d0vpBXI7o"
+      },
+      {
+        "title": "我取消了 4 萬元軟件訂閱 | AI Agent 管理系統 AMS",
+        "published": "2026-11-21T11:07:48+00:00",
+        "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
+        "topic": "I cancelled a NT$40,000 software subscription | AI Agent management system AMS",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/deqH4gEBmTY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/deqH4gEBmTY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "deqH4gEBmTY"
+      },
+      {
+        "title": "實測 Gemini 4 Neon 剪片, 媲美 Opus !  正式反超 GPT",
+        "published": "2026-11-20T09:09:37+00:00",
+        "url": "https://www.youtube.com/watch?v=CPtSO95ygCg",
+        "topic": "Hands-on test of Gemini 4 Neon video editing, comparable to Opus! Officially surpassing GPT",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CPtSO95ygCg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CPtSO95ygCg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CPtSO95ygCg"
+      },
+      {
+        "title": "Pika 發表 Enact：AI 拍片不再靠提示詞抽卡！滑鼠拖曳角色 0.4 秒重算、直接開口講戲 #Shorts",
+        "published": "2026-11-20T02:44:07+00:00",
+        "url": "https://www.youtube.com/watch?v=5cMsAcy5z6o",
+        "topic": "Pika announces Enact: AI video without prompt lottery; drag characters with 0.4s recompute and direct live direction (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5cMsAcy5z6o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5cMsAcy5z6o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5cMsAcy5z6o"
+      },
+      {
+        "title": "Gemini 4 Neon 推出：中階價錢反超旗艦 Carbon，編程代理奪第 1 #Shorts",
+        "published": "2026-11-19T05:51:39+00:00",
+        "url": "https://www.youtube.com/watch?v=mOaPtCnMBTg",
+        "topic": "Gemini 4 Neon launch: mid-tier model tops flagship Carbon on some Artificial Analysis scores and ranks #1 on the coding-agent index at lower cost (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mOaPtCnMBTg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mOaPtCnMBTg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mOaPtCnMBTg"
+      },
+      {
+        "title": "Google AI Studio 一句話做 Android App｜可加 Google 登入、Firebase 和 Gemini",
+        "published": "2026-11-18T04:28:28+00:00",
+        "url": "https://www.youtube.com/watch?v=JQtSueHjhiQ",
+        "topic": "Google AI Studio one-prompt Android app, with optional Google sign-in, Firebase and Gemini",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JQtSueHjhiQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JQtSueHjhiQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JQtSueHjhiQ"
+      },
+      {
+        "title": "Artificial Analysis 實測 Gemini 4 Hydrogen：追貼旗艦僅差 1 分，成本僅 Sonnet 三分一 #Shorts",
+        "published": "2026-11-17T04:28:27+00:00",
+        "url": "https://www.youtube.com/watch?v=MVPHWuJ-3p0",
+        "topic": "Artificial Analysis / Gemini 4 Hydrogen benchmark (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MVPHWuJ-3p0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MVPHWuJ-3p0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MVPHWuJ-3p0"
+      },
+      {
+        "title": "開源 AI 為何突然追不上？Fable 5.2、Gemini 4 Carbon 與閉源護城河",
+        "published": "2026-11-15T14:06:02+00:00",
+        "url": "https://www.youtube.com/watch?v=pL1Ytm9cq2E",
+        "topic": "AI models / open vs closed source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/pL1Ytm9cq2E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/pL1Ytm9cq2E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "pL1Ytm9cq2E"
+      },
       {
         "title": "Shopify 全線網店及 Meta 啟用 Poppy 1.0！個人 AI 代理直通企業開放標準 #Shorts",
         "published": "2026-11-14T15:51:46+00:00",
@@ -847,6 +1067,106 @@
     "channel_id": "UCfbMslS3NmcGO4WIikSoYSA",
     "channel_url": "https://www.youtube.com/@kellytsaii",
     "videos": [
+      {
+        "title": "發現可以玩魔鬼的計謀的遊戲的網站😍😍｜Kelly Tsai",
+        "published": "2026-11-25T02:45:25+00:00",
+        "url": "https://www.youtube.com/shorts/CywtzWDc5kA",
+        "topic": "Found a site where you can play devilish-scheme games | 發現可以玩魔鬼的計謀的遊戲的網站😍😍｜Kelly Tsai",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CywtzWDc5kA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CywtzWDc5kA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CywtzWDc5kA"
+      },
+      {
+        "title": "黃仁勳帶來的股價不確定性，該怎麼看待？｜Kelly Tsai",
+        "published": "2026-11-24T12:00:37+00:00",
+        "url": "https://www.youtube.com/shorts/ytdKlQlAWJY",
+        "topic": "How to think about the stock-price uncertainty Jensen Huang brought | 黃仁勳帶來的股價不確定性，該怎麼看待？｜Kelly Tsai",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ytdKlQlAWJY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ytdKlQlAWJY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ytdKlQlAWJY"
+      },
+      {
+        "title": "黃仁勳回任，這世界真是太瘋了｜Kelly Tsai",
+        "published": "2026-11-24T00:30:14+00:00",
+        "url": "https://www.youtube.com/shorts/04kqv7heafw",
+        "topic": "Jensen Huang is back in the job — this world is truly insane | 黃仁勳回任，這世界真是太瘋了｜Kelly Tsai",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/04kqv7heafw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/04kqv7heafw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "04kqv7heafw"
+      },
+      {
+        "title": "在台北開著BMW iX3兜風的一天🚗｜Kelly Tsai",
+        "published": "2026-11-23T10:00:23+00:00",
+        "url": "https://www.youtube.com/shorts/Yk27Skyz8ws",
+        "topic": "A day driving a BMW iX3 around Taipei | 在台北開著BMW iX3兜風的一天🚗｜Kelly Tsai",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Yk27Skyz8ws/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Yk27Skyz8ws/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Yk27Skyz8ws"
+      },
+      {
+        "title": "懂產業不等於會投資？用一套系統把產業紅利轉成真正資產！｜What's Next? EP21 ft. 美股航海王｜Kelly Tsai",
+        "published": "2026-11-21T12:00:14+00:00",
+        "url": "https://www.youtube.com/watch?v=Oy8dBRlWmbE",
+        "topic": "Knowing an industry is not the same as knowing how to invest: a system to turn industry tailwinds into real assets | What's Next? EP21 ft. US-stock navigator | Kelly Tsai",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Oy8dBRlWmbE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Oy8dBRlWmbE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Oy8dBRlWmbE"
+      },
+      {
+        "title": "身為矽谷工程師，最受不了每次開新對話都要重複交代背景❗️｜Kelly Tsai",
+        "published": "2026-11-20T10:00:38+00:00",
+        "url": "https://www.youtube.com/watch?v=NNViH9i8j7k",
+        "topic": "As a Silicon Valley engineer, the most frustrating part is repeating context in every new chat (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NNViH9i8j7k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NNViH9i8j7k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NNViH9i8j7k"
+      },
+      {
+        "title": "AI Agent要跑在哪？AI寫完網站該怎麼部署？從零教你如何讓AI工具正式上線！｜Kelly Tsai",
+        "published": "2026-11-19T12:00:23+00:00",
+        "url": "https://www.youtube.com/watch?v=ed3Qcvg5_zI",
+        "topic": "Where AI agents should run and how to deploy an AI-built website so the tool can go live, from scratch",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ed3Qcvg5_zI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ed3Qcvg5_zI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ed3Qcvg5_zI"
+      },
+      {
+        "title": "會50種語言，究竟是怎麼學的？！！｜Kelly Tsai",
+        "published": "2026-11-18T10:00:22+00:00",
+        "url": "https://www.youtube.com/watch?v=aSbeUob16uY",
+        "topic": "How she learned 50 languages",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/aSbeUob16uY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/aSbeUob16uY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "aSbeUob16uY"
+      },
+      {
+        "title": "會50種語言的人都是怎麼學外語的？原來以前的語言學習方法都錯了！現在AI翻譯這麼強，人還需要自己學會語言嗎？｜What's Next? EP20 ft. Terry 謝智翔｜Kelly Tsai",
+        "published": "2026-11-17T12:00:16+00:00",
+        "url": "https://www.youtube.com/watch?v=d-OxVReFIL4",
+        "topic": "Language learning in the age of AI translation (What's Next EP20)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/d-OxVReFIL4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/d-OxVReFIL4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "d-OxVReFIL4"
+      },
+      {
+        "title": "新手必看！一次搞懂 CLI、MCP、Skill 怎麼用！工程師都改用 CLI？ MCP已經過時了？這些AI工具該如何選？｜Kelly Tsai",
+        "published": "2026-11-16T12:00:26+00:00",
+        "url": "https://www.youtube.com/watch?v=Lwq9P3S1wMQ",
+        "topic": "CLI / MCP / Skill tool selection",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Lwq9P3S1wMQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Lwq9P3S1wMQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Lwq9P3S1wMQ"
+      },
       {
         "title": "專家說2027年最賺錢的AI生意不是寫程式，而是當網紅！注意力經濟的時代來臨了嗎？｜Kelly Tsai",
         "published": "2026-11-14T12:00:08+00:00",
@@ -1166,6 +1486,226 @@
     "channel_url": "https://www.youtube.com/@kocpc",
     "videos": [
       {
+        "title": "韓國考試竟要穿白圍裙？連眼鏡也要查！",
+        "published": "2026-11-25T09:36:19+00:00",
+        "url": "https://www.youtube.com/shorts/NjL95jOiGK8",
+        "topic": "韓國考試竟要穿白圍裙？連眼鏡也要查！",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NjL95jOiGK8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NjL95jOiGK8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NjL95jOiGK8"
+      },
+      {
+        "title": "「Jensen's back!」擲硬幣做空美股，結果遇到黃仁勳回歸慘賠光",
+        "published": "2026-11-24T16:15:52+00:00",
+        "url": "https://www.youtube.com/shorts/sG6cdCmu8bg",
+        "topic": "\"Jensen's back!\" A coin-toss short of US stocks blows up when Huang returns | 「Jensen's back!」擲硬幣做空美股，結果遇到黃仁勳回歸慘賠光",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sG6cdCmu8bg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sG6cdCmu8bg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sG6cdCmu8bg"
+      },
+      {
+        "title": "「是我說服輝達董事會的」川普打電話上 CNBC 講了 50 分鐘幕後秘辛",
+        "published": "2026-11-24T08:11:58+00:00",
+        "url": "https://www.youtube.com/shorts/AYH6Ek3y4Lw",
+        "topic": "I'm the one who persuaded the NVIDIA board — Trump calls into CNBC for 50 minutes with the behind-the-scenes story | 「是我說服輝達董事會的」川普打電話上 CNBC 講了 50 分鐘幕後秘辛",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AYH6Ek3y4Lw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AYH6Ek3y4Lw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AYH6Ek3y4Lw"
+      },
+      {
+        "title": "『第二次會做得更好』黃仁勳重返輝達，員工擠爆大廳高喊「我們愛你」，台股噴 3,368 點",
+        "published": "2026-11-24T06:11:40+00:00",
+        "url": "https://www.youtube.com/shorts/uWjXDJxVTTs",
+        "topic": "Jensen Huang returns to NVIDIA; staff pack the lobby shouting we love you; Taiwan stocks jump 3,368 points | 『第二次會做得更好』黃仁勳重返輝達，員工擠爆大廳高喊「我們愛你」，台股噴 3,368 點",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uWjXDJxVTTs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uWjXDJxVTTs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uWjXDJxVTTs"
+      },
+      {
+        "title": "手邊有四副智慧眼鏡，為什麼我最常戴它？HTC VIVE EAGLE 一年長期使用心得＋最新 3K 錄影/即時翻譯實測！",
+        "published": "2026-11-24T04:58:47+00:00",
+        "url": "https://www.youtube.com/watch?v=Lee3zEVhplk",
+        "topic": "Why this is the pair I wear most among four smart glasses: HTC VIVE EAGLE one-year review plus latest 3K recording and live translation tests | 手邊有四副智慧眼鏡，為什麼我最常戴它？HTC VIVE EAGLE 一年長期使用心得＋最新 3K 錄影/即時翻譯實測！",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Lee3zEVhplk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Lee3zEVhplk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Lee3zEVhplk"
+      },
+      {
+        "title": "黃仁勳回來了！從被迫辭職到全票請回，輝達 11 天大翻盤始末",
+        "published": "2026-11-23T15:57:19+00:00",
+        "url": "https://www.youtube.com/watch?v=FGiNZ8H7n00",
+        "topic": "Jensen Huang is back! From forced resignation to a unanimous request to return — the 11-day NVIDIA reversal | 黃仁勳回來了！從被迫辭職到全票請回，輝達 11 天大翻盤始末",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FGiNZ8H7n00/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FGiNZ8H7n00/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FGiNZ8H7n00"
+      },
+      {
+        "title": "中國開源模型以外的新選擇！美國開源模型 Inkling 2 Mini 網友實測：8GB 老顯卡也跑得動",
+        "published": "2026-11-23T11:05:21+00:00",
+        "url": "https://www.youtube.com/shorts/4apgswBaoi4",
+        "topic": "A new alternative beyond Chinese open-source models! US open-source Inkling 2 Mini, tested by viewers: even an 8GB old GPU can run it | 中國開源模型以外的新選擇！美國開源模型 Inkling 2 Mini 網友實測：8GB 老顯卡也跑得動",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4apgswBaoi4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4apgswBaoi4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4apgswBaoi4"
+      },
+      {
+        "title": "特斯拉 FSD v15 來了！畫面像 GTA、官方說好 25 倍，12 項更新一次看",
+        "published": "2026-11-22T06:11:54+00:00",
+        "url": "https://www.youtube.com/watch?v=SVRDNv-nIoA",
+        "topic": "Tesla FSD v15 is here: GTA-like visuals, official claim of 25x improvement, 12 updates at a glance | 特斯拉 FSD v15 來了！畫面像 GTA、官方說好 25 倍，12 項更新一次看",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SVRDNv-nIoA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SVRDNv-nIoA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SVRDNv-nIoA"
+      },
+      {
+        "title": "Google AI 黑五最高 5 折提前開跑！現有訂戶、新用戶怎麼買最划算一次看",
+        "published": "2026-11-21T18:40:07+00:00",
+        "url": "https://www.youtube.com/watch?v=GP_QPXcGou0",
+        "topic": "Google AI Black Friday sale up to 50% off starts early: how current subscribers and new users can buy most cheaply (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GP_QPXcGou0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GP_QPXcGou0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GP_QPXcGou0"
+      },
+      {
+        "title": "「我們是給人第二次機會的國家」川普表態挺黃仁勳回任",
+        "published": "2026-11-21T09:44:28+00:00",
+        "url": "https://www.youtube.com/watch?v=IherD887p4Q",
+        "topic": "We are a country that gives people a second chance: Trump says he supports Jensen Huang's return (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IherD887p4Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IherD887p4Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IherD887p4Q"
+      },
+      {
+        "title": "花 38.5 萬買 Mac Studio 值得嗎？M5 Ultra 跑 AI、影片圖片生成、遊戲完整實測！",
+        "published": "2026-11-21T04:05:04+00:00",
+        "url": "https://www.youtube.com/watch?v=3BEicSwl7Ho",
+        "topic": "Is a HK$385,000 Mac Studio worth it? Full M5 Ultra tests on AI, video/image generation, and gaming",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3BEicSwl7Ho/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3BEicSwl7Ho/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3BEicSwl7Ho"
+      },
+      {
+        "title": "中國樂見黃仁勳下台？Anduril 創辦人拉奇：你們全搞反了",
+        "published": "2026-11-19T19:57:23+00:00",
+        "url": "https://www.youtube.com/watch?v=VQozddgQqeg",
+        "topic": "Anduril founder Palmer Luckey (拉奇) on claims China welcomes Jensen Huang stepping down: you've got it backwards (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VQozddgQqeg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VQozddgQqeg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VQozddgQqeg"
+      },
+      {
+        "title": "「像把喬丹踢出公牛隊」馬斯克公開挺黃仁勳：我當然願意聘他",
+        "published": "2026-11-19T06:36:50+00:00",
+        "url": "https://www.youtube.com/watch?v=S5A6uDQXnYk",
+        "topic": "Elon Musk at the NYT DealBook Summit says he would hire Jensen Huang, comparing NVIDIA's board blocking a return to kicking Jordan off the Bulls (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/S5A6uDQXnYk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/S5A6uDQXnYk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "S5A6uDQXnYk"
+      },
+      {
+        "title": "體積不變，電量多50%！能源方舟1800行動電站開箱，小巧輕量卻有 1.5 度電大容量！",
+        "published": "2026-11-18T04:24:37+00:00",
+        "url": "https://www.youtube.com/watch?v=8Qv0SIwiE3E",
+        "topic": "Energy Ark 1800 portable power station unboxing: same size, 50% more capacity, 1.5 kWh",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8Qv0SIwiE3E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8Qv0SIwiE3E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8Qv0SIwiE3E"
+      },
+      {
+        "title": "OpenAI GPT-6.2 Astra 來了！跑分、對手比較、API 價格一次看",
+        "published": "2026-11-17T20:09:52+00:00",
+        "url": "https://www.youtube.com/watch?v=myuX56KzoII",
+        "topic": "GPT-6.2 Astra benchmarks, rivals, and API pricing",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/myuX56KzoII/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/myuX56KzoII/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "myuX56KzoII"
+      },
+      {
+        "title": "「突發」黃仁勳辭職 5 天親自發文：董事會開口我就回任",
+        "published": "2026-11-17T17:33:24+00:00",
+        "url": "https://www.youtube.com/watch?v=lWYl5cQBGsE",
+        "topic": "Jensen Huang post: would return if the board asked (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lWYl5cQBGsE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lWYl5cQBGsE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lWYl5cQBGsE"
+      },
+      {
+        "title": "老主機別丟！破解 PS4、PS5 直接變身本機 AI 伺服器",
+        "published": "2026-11-17T07:08:56+00:00",
+        "url": "https://www.youtube.com/watch?v=In5MVQ8MoYI",
+        "topic": "PS4/PS5 as local AI server (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/In5MVQ8MoYI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/In5MVQ8MoYI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "In5MVQ8MoYI"
+      },
+      {
+        "title": "黃仁勳被冤枉了嗎？Asmongold 反應片 9 個疑點事實查核",
+        "published": "2026-11-17T03:15:23+00:00",
+        "url": "https://www.youtube.com/watch?v=mJRwtKMt8To",
+        "topic": "Jensen Huang / Asmongold fact-check (re-upload of S_4qF5miBqk)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mJRwtKMt8To/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mJRwtKMt8To/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mJRwtKMt8To"
+      },
+      {
+        "title": "黃仁勳被冤枉了嗎？Asmongold 反應片 9 個疑點事實查核",
+        "published": "2026-11-16T20:09:11+00:00",
+        "url": "https://www.youtube.com/watch?v=S_4qF5miBqk",
+        "topic": "Jensen Huang / Asmongold fact-check",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/S_4qF5miBqk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/S_4qF5miBqk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "S_4qF5miBqk"
+      },
+      {
+        "title": "用 Switch 2 操控特斯拉！研究員把掌機變成 Tesla 控制介面",
+        "published": "2026-11-16T14:49:13+00:00",
+        "url": "https://www.youtube.com/watch?v=3FUYdtIbDwg",
+        "topic": "Switch 2 as Tesla control interface (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3FUYdtIbDwg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3FUYdtIbDwg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3FUYdtIbDwg"
+      },
+      {
+        "title": "超神！日本知名開發者和 Claude 用玩具火車軌道打造環形繪圖機",
+        "published": "2026-11-16T05:32:55+00:00",
+        "url": "https://www.youtube.com/shorts/CkJ-sa4ofE4",
+        "topic": "Claude / DIY plotter",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CkJ-sa4ofE4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CkJ-sa4ofE4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CkJ-sa4ofE4"
+      },
+      {
+        "title": "黃仁勳下台的引爆點？華郵報料：魯比歐把 CIA 報告「改得更強硬」",
+        "published": "2026-11-15T12:08:11+00:00",
+        "url": "https://www.youtube.com/shorts/zKdp37ROhXc",
+        "topic": "Tech industry / NVIDIA",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zKdp37ROhXc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zKdp37ROhXc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zKdp37ROhXc"
+      },
+      {
         "title": "華爾街日報說黃樂是中國間諜？新加坡官方文件打臉：只查伺服器申報不實",
         "published": "2026-11-14T16:23:28+00:00",
         "url": "https://www.youtube.com/watch?v=6-N2XH3fFbc",
@@ -1473,6 +2013,136 @@
     "channel_id": "UCI2YklLazU9tB_Kh_9nMpKA",
     "channel_url": "https://www.youtube.com/@sensebar",
     "videos": [
+      {
+        "title": "公車停了，孔子每天天沒亮就去山路上等學生｜孔子到偏鄉來代課 第5集",
+        "published": "2026-11-24T23:00:35+00:00",
+        "url": "https://www.youtube.com/watch?v=b23pKrYmSUc",
+        "topic": "The bus stopped, so Confucius waits on the mountain road before dawn | 公車停了，孔子每天天沒亮就去山路上等學生｜孔子到偏鄉來代課 第5集",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/b23pKrYmSUc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/b23pKrYmSUc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "b23pKrYmSUc"
+      },
+      {
+        "title": "學校沒有自然老師，國文老師去研習自然，那他的課誰上？｜孔子到偏鄉來代課 第4集",
+        "published": "2026-11-24T11:00:13+00:00",
+        "url": "https://www.youtube.com/watch?v=yd6emJls3AQ",
+        "topic": "No science teacher, so the Chinese teacher goes to a science workshop — who covers the class? | 學校沒有自然老師，國文老師去研習自然，那他的課誰上？｜孔子到偏鄉來代課 第4集",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yd6emJls3AQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yd6emJls3AQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yd6emJls3AQ"
+      },
+      {
+        "title": "無人機還沒飛，就輸給了一隻雞｜孔子到偏鄉來代課 第3集",
+        "published": "2026-11-23T23:00:10+00:00",
+        "url": "https://www.youtube.com/watch?v=utSjE1J0n6I",
+        "topic": "The drone hasn't even flown, and it already lost to a chicken | Confucius substitute-teaching in the countryside, episode 3 | 無人機還沒飛，就輸給了一隻雞｜孔子到偏鄉來代課 第3集",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/utSjE1J0n6I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/utSjE1J0n6I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "utSjE1J0n6I"
+      },
+      {
+        "title": "表上七個孔丘，地震來的時候，只跑得動一個｜孔子到偏鄉來代課 第2集",
+        "published": "2026-11-23T11:00:28+00:00",
+        "url": "https://www.youtube.com/watch?v=sxAJQOLpaEU",
+        "topic": "Seven Kong Qiu on the form, but when the earthquake comes only one can run | Confucius substitute-teaching in the countryside, episode 2 | 表上七個孔丘，地震來的時候，只跑得動一個｜孔子到偏鄉來代課 第2集",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sxAJQOLpaEU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sxAJQOLpaEU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sxAJQOLpaEU"
+      },
+      {
+        "title": "「主任，是何物？」「就是，全部。」｜孔子到偏鄉來代課 第1集",
+        "published": "2026-11-22T23:00:13+00:00",
+        "url": "https://www.youtube.com/watch?v=NNxOoVU1JOA",
+        "topic": "\"Director, what is it?\" \"Everything.\" | Confucius substitute-teaches in the countryside, episode 1 | 「主任，是何物？」「就是，全部。」｜孔子到偏鄉來代課 第1集",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NNxOoVU1JOA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NNxOoVU1JOA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NNxOoVU1JOA"
+      },
+      {
+        "title": "Google AI Agent 復活了：AntiGravity，一支影片就學會",
+        "published": "2026-11-22T16:11:28+00:00",
+        "url": "https://www.youtube.com/watch?v=eo_eZUtGLeg",
+        "topic": "Google's AI Agent is back: AntiGravity — learn it in one video | Google AI Agent 復活了：AntiGravity，一支影片就學會",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/eo_eZUtGLeg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/eo_eZUtGLeg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "eo_eZUtGLeg"
+      },
+      {
+        "title": "Google AI  agent復活了：antiGravity，一支影片就學會",
+        "published": "2026-11-22T14:13:35+00:00",
+        "url": "https://www.youtube.com/watch?v=BNs7WD6hPWw",
+        "topic": "Google's AI agent is back: antiGravity — learn it in one video | Google AI  agent復活了：antiGravity，一支影片就學會",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BNs7WD6hPWw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BNs7WD6hPWw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BNs7WD6hPWw"
+      },
+      {
+        "title": "〈愛蓮說〉饒舌對決：菊、牡丹、蓮，你選哪一朵？｜陶淵明 vs 楊貴妃 vs 周敦頤",
+        "published": "2026-11-19T14:12:25+00:00",
+        "url": "https://www.youtube.com/watch?v=sRW9XTxGd1k",
+        "topic": "Rap showdown on the essay 愛蓮說: chrysanthemum vs peony vs lotus (Tao Yuanming vs Yang Guifei vs Zhou Dunyi)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sRW9XTxGd1k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sRW9XTxGd1k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sRW9XTxGd1k"
+      },
+      {
+        "title": "〈愛蓮說〉原文＋注釋，一首歌唱完｜周敦頤與蓮 國中國文 MV",
+        "published": "2026-11-18T13:33:04+00:00",
+        "url": "https://www.youtube.com/watch?v=aJ0Yuu_9Di4",
+        "topic": "Love of Lotus (愛蓮說) original text and notes as a song; Zhou Dunyi and the lotus, junior-high Chinese MV",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/aJ0Yuu_9Di4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/aJ0Yuu_9Di4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "aJ0Yuu_9Di4"
+      },
+      {
+        "title": "〈愛蓮說〉原文＋注釋，一首歌唱完｜周敦頤與蓮 國中國文 MV",
+        "published": "2026-11-17T23:40:30+00:00",
+        "url": "https://www.youtube.com/watch?v=o0xvPPN0QBk",
+        "topic": "Zhou Dunyi 'Ai Lian Shuo' literature MV",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/o0xvPPN0QBk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/o0xvPPN0QBk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "o0xvPPN0QBk"
+      },
+      {
+        "title": "我沒有動手！AI Agent 自己開 Padlet、Wayground 做完一整堂課",
+        "published": "2026-11-16T08:00:16+00:00",
+        "url": "https://www.youtube.com/watch?v=U2jf4w7yfes",
+        "topic": "AI Agent / classroom demo (Padlet, Wayground)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U2jf4w7yfes/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U2jf4w7yfes/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U2jf4w7yfes"
+      },
+      {
+        "title": "Fable 5.2 vs Google Carbon，使用 Blender 5.3 對決",
+        "published": "2026-11-15T22:55:24+00:00",
+        "url": "https://www.youtube.com/watch?v=162s0kY-Evw",
+        "topic": "AI models / Fable vs Carbon",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/162s0kY-Evw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/162s0kY-Evw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "162s0kY-Evw"
+      },
+      {
+        "title": "36 秒生出的歌，為什麼五天才交片？｜AI 影片新手課 5",
+        "published": "2026-11-15T02:13:49+00:00",
+        "url": "https://www.youtube.com/watch?v=AvRrH4Lips8",
+        "topic": "AI video / tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AvRrH4Lips8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AvRrH4Lips8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AvRrH4Lips8"
+      },
       {
         "title": "73 個鏡頭都拍完了，整集重寫｜AI 影片新手課 4",
         "published": "2026-11-14T09:39:40+00:00",
@@ -2010,6 +2680,166 @@
     "channel_url": "https://www.youtube.com/@GinsengTryCatch",
     "videos": [
       {
+        "title": "你知道嗎？AI 訂閱費變成新地租，OpenAI 燒 140 億美元也只收你 20 美元",
+        "published": "2026-11-24T23:45:02+00:00",
+        "url": "https://www.youtube.com/watch?v=k7n5536Iw2Y",
+        "topic": "AI subscriptions become the new rent — OpenAI burns $14B while charging you $20 | 你知道嗎？AI 訂閱費變成新地租，OpenAI 燒 140 億美元也只收你 20 美元",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/k7n5536Iw2Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/k7n5536Iw2Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "k7n5536Iw2Y"
+      },
+      {
+        "title": "你知道嗎：AI 幫你裝了上百個免費套件，vibe coding 做的 app 真的能拿去賣嗎？一次看懂開源生態與授權紅線",
+        "published": "2026-11-23T23:45:10+00:00",
+        "url": "https://www.youtube.com/watch?v=tPVDm5EjOZE",
+        "topic": "Did you know: AI installed hundreds of free packages for you — can a vibe-coded app actually be sold? A clear look at the open-source ecosystem and license red lines | 你知道嗎：AI 幫你裝了上百個免費套件，vibe coding 做的 app 真的能拿去賣嗎？一次看懂開源生態與授權紅線",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tPVDm5EjOZE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tPVDm5EjOZE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tPVDm5EjOZE"
+      },
+      {
+        "title": "你知道嗎？Gemini 4 改叫氫、碳、氖、氬，我用週期表解密 Google 到底在玩什麼規則",
+        "published": "2026-11-23T02:00:34+00:00",
+        "url": "https://www.youtube.com/watch?v=_r_82x6Pt3E",
+        "topic": "Gemini 4 is now named Hydrogen, Carbon, Neon, and Argon — decoding Google's periodic-table naming | 你知道嗎？Gemini 4 改叫氫、碳、氖、氬，我用週期表解密 Google 到底在玩什麼規則",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_r_82x6Pt3E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_r_82x6Pt3E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_r_82x6Pt3E"
+      },
+      {
+        "title": "七年級生過得最苦？走過 22K、高房價跟四代科技，遇上 AI 時代到底算不算幸運？",
+        "published": "2026-11-22T08:48:54+00:00",
+        "url": "https://www.youtube.com/watch?v=qWg2Nh28rvg",
+        "topic": "Were Gen-Y (七年級) the unluckiest? From 22K salaries and high housing prices through four tech generations into the AI era | 七年級生過得最苦？走過 22K、高房價跟四代科技，遇上 AI 時代到底算不算幸運？",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/qWg2Nh28rvg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/qWg2Nh28rvg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "qWg2Nh28rvg"
+      },
+      {
+        "title": "Coding Agent 讓你更累了？回顧「注意力」為什麼現在才痛，這 5 家早就佔好位",
+        "published": "2026-11-21T23:45:03+00:00",
+        "url": "https://www.youtube.com/watch?v=H5vH3AbNpAs",
+        "topic": "Are coding agents making you more tired? Why attention hurts now, and how these five companies already staked their positions",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/H5vH3AbNpAs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/H5vH3AbNpAs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "H5vH3AbNpAs"
+      },
+      {
+        "title": "你知道嗎：vibe coding 的資料放哪裡？為什麼邏輯寫在前端會被改分數、改個欄位舊資料全炸？",
+        "published": "2026-11-21T09:25:19+00:00",
+        "url": "https://www.youtube.com/watch?v=MV4srUL8tPQ",
+        "topic": "Where vibe-coding data should live: why putting logic in the frontend lets scores be changed, and editing a field can blow up old data",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MV4srUL8tPQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MV4srUL8tPQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MV4srUL8tPQ"
+      },
+      {
+        "title": "【AI 熱唱】Gemini 4：我再也不是北美大豆包！｜芥末奶 MV | Google AI 訂閱黑五優惠來囉 #Shorts",
+        "published": "2026-11-21T07:31:37+00:00",
+        "url": "https://www.youtube.com/watch?v=CQnAbPTDgUg",
+        "topic": "AI sing-along: Gemini 4 'I'm no longer a North American soy bun' mustard-milk MV, plus a Google AI subscription Black Friday promo (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CQnAbPTDgUg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CQnAbPTDgUg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CQnAbPTDgUg"
+      },
+      {
+        "title": "我用 AI 做：不會畫畫作曲，5 天做出 3D 網頁遊戲！立繪、音樂、語音全拆，敢放上網嗎？",
+        "published": "2026-11-21T00:30:14+00:00",
+        "url": "https://www.youtube.com/watch?v=50d6BuHeOhw",
+        "topic": "I used AI to build a 3D web game in 5 days without drawing or composing: character art, music, and voice broken down — dare to put it online?",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/50d6BuHeOhw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/50d6BuHeOhw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "50d6BuHeOhw"
+      },
+      {
+        "title": "Grok Bot 接客服、Notion、GitHub 一直被狂叫？我用這套中間層管收件匣、派工驗收跟額度｜PA 小屋實戰設定",
+        "published": "2026-11-20T04:30:32+00:00",
+        "url": "https://www.youtube.com/watch?v=Eufj7TT7XRM",
+        "topic": "Grok Bot keeps getting hammered by customer-service, Notion, and GitHub traffic; a mid-layer to manage inbox, job dispatch/acceptance, and quotas — PA hut practical setup",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Eufj7TT7XRM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Eufj7TT7XRM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Eufj7TT7XRM"
+      },
+      {
+        "title": "照做一遍：Grok Bot 什麼都能自動化？我拿自己的 YouTube 產線走一次",
+        "published": "2026-11-20T00:23:13+00:00",
+        "url": "https://www.youtube.com/watch?v=VqGpoZi4kY0",
+        "topic": "Walkthrough: automating with Grok Bot on the author's own YouTube production pipeline",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/VqGpoZi4kY0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/VqGpoZi4kY0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "VqGpoZi4kY0"
+      },
+      {
+        "title": "主管才懂：30 人自架 AI 一個月 6 千，真的比 Grok Bot 便宜？",
+        "published": "2026-11-19T23:30:23+00:00",
+        "url": "https://www.youtube.com/watch?v=t-wZAHn9fLc",
+        "topic": "Self-hosting AI for a 30-person team at 6,000 a month versus Grok Bot cost, framed for managers",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/t-wZAHn9fLc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/t-wZAHn9fLc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "t-wZAHn9fLc"
+      },
+      {
+        "title": "你知道嗎：嫌 Claude 愛拒絕？我讓它重演 KKday 外洩 24 次，最後一關是你",
+        "published": "2026-11-19T00:42:38+00:00",
+        "url": "https://www.youtube.com/watch?v=x8eWW7gaexo",
+        "topic": "Getting Claude to stop refusing: replaying the KKday leak 24 times, with the last hurdle being you",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/x8eWW7gaexo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/x8eWW7gaexo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "x8eWW7gaexo"
+      },
+      {
+        "title": "你知道嗎？一句話，Claude 動工兩小時做出能玩的遊戲，人蔘天天在用的 15 招",
+        "published": "2026-11-17T10:12:41+00:00",
+        "url": "https://www.youtube.com/watch?v=yNQBiglQZLc",
+        "topic": "Claude one-prompt playable game / 15 daily tips",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yNQBiglQZLc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yNQBiglQZLc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yNQBiglQZLc"
+      },
+      {
+        "title": "你知道嗎：vibe coding 為什麼要寫測試？AI 說做好了，pstack 作者要它拿證據來",
+        "published": "2026-11-17T00:27:21+00:00",
+        "url": "https://www.youtube.com/watch?v=J45dFo6unCM",
+        "topic": "vibe coding / tests / pstack",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/J45dFo6unCM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/J45dFo6unCM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "J45dFo6unCM"
+      },
+      {
+        "title": "實測給你看：ZONOS3-Mini 三分鐘唸完我一整集旁白，該開的設定我都開了",
+        "published": "2026-11-16T11:25:44+00:00",
+        "url": "https://www.youtube.com/watch?v=6Dlzys9Kq2E",
+        "topic": "ZONOS3-Mini TTS narration",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6Dlzys9Kq2E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6Dlzys9Kq2E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6Dlzys9Kq2E"
+      },
+      {
+        "title": "讓 Gemini 4 Hydrogen 自己做這集：時間線、費用、跑分與名字有多難念",
+        "published": "2026-11-16T00:51:27+00:00",
+        "url": "https://www.youtube.com/watch?v=f3tdKl0YyZY",
+        "topic": "Gemini Hydrogen / AI models",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/f3tdKl0YyZY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/f3tdKl0YyZY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "f3tdKl0YyZY"
+      },
+      {
         "title": "再給 Colab 施加一點壓力：Google AI Pro 附的顯卡額度，我叫 Grok Bot 全拿去寫歌拍 MV",
         "published": "2026-11-14T05:56:53+00:00",
         "url": "https://www.youtube.com/watch?v=GzYHBV5SVjA",
@@ -2218,6 +3048,16 @@
     "channel_url": "https://www.youtube.com/@ivever5",
     "videos": [
       {
+        "title": "H3 人物替换 & 动作迁移终极版：2 分钟长视频一镜到底，无接缝不劣化",
+        "published": "2026-11-17T10:21:03+00:00",
+        "url": "https://www.youtube.com/watch?v=1jWWYTUvZXQ",
+        "topic": "H3 character replace and motion transfer, 2-min continuous video",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1jWWYTUvZXQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1jWWYTUvZXQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1jWWYTUvZXQ"
+      },
+      {
         "title": "一张图做出会干活的桌宠！不会写代码，全靠 Qoder 一步步做出来",
         "published": "2026-11-13T17:11:25+00:00",
         "url": "https://www.youtube.com/watch?v=g6Ycnj0Bv1o",
@@ -2425,6 +3265,16 @@
     "channel_id": "UCIZ5NTY6ZOETnSD0lE-NH-g",
     "channel_url": "https://www.youtube.com/@missevai",
     "videos": [
+      {
+        "title": "PowerPoint Copilot Custom Skills 教學｜錄製指令統一簡報格式",
+        "published": "2026-11-19T08:05:52+00:00",
+        "url": "https://www.youtube.com/watch?v=PsVXo5ZyzkE",
+        "topic": "PowerPoint Copilot Custom Skills tutorial: record commands to unify slide/deck formatting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PsVXo5ZyzkE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PsVXo5ZyzkE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PsVXo5ZyzkE"
+      },
       {
         "title": "Copilot 新手教學 | Word、Excel、PPT 都有 AI Agent！",
         "published": "2026-11-05T11:00:21+00:00",
@@ -3981,6 +4831,106 @@
     "channel_id": "UCBnIBXjWVKnkxDOwChuBHFA",
     "channel_url": "https://www.youtube.com/@GitCovery",
     "videos": [
+      {
+        "title": "還在為 Docker 指令頭痛？Arcane 讓你用畫面管理容器與服務",
+        "published": "2026-11-25T01:23:04+00:00",
+        "url": "https://www.youtube.com/watch?v=8uTexxDS-uc",
+        "topic": "Still struggling with Docker commands? Arcane lets you manage containers and services visually | 還在為 Docker 指令頭痛？Arcane 讓你用畫面管理容器與服務",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8uTexxDS-uc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8uTexxDS-uc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8uTexxDS-uc"
+      },
+      {
+        "title": "2026 年資安趨勢！Claude-BugHunter 整合 83 種駭客技能，再不學就晚了",
+        "published": "2026-11-23T01:30:32+00:00",
+        "url": "https://www.youtube.com/watch?v=sPDnsZC-gs4",
+        "topic": "2026 security trends: Claude-BugHunter packs 83 hacking skills — learn them before it's too late | 2026 年資安趨勢！Claude-BugHunter 整合 83 種駭客技能，再不學就晚了",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sPDnsZC-gs4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sPDnsZC-gs4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sPDnsZC-gs4"
+      },
+      {
+        "title": "省 90% token 就省 90% 帳單？rtk-ai/rtk 的數字該怎麼看",
+        "published": "2026-11-22T01:23:10+00:00",
+        "url": "https://www.youtube.com/watch?v=5pPM0i9FTGQ",
+        "topic": "Saving 90% of tokens is not automatically a 90% cheaper bill: how to read rtk-ai/rtk's numbers | 省 90% token 就省 90% 帳單？rtk-ai/rtk 的數字該怎麼看",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5pPM0i9FTGQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5pPM0i9FTGQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5pPM0i9FTGQ"
+      },
+      {
+        "title": "last30days-skill 快速產出附引文的趨勢報告：從話題追到原始來源",
+        "published": "2026-11-21T01:21:40+00:00",
+        "url": "https://www.youtube.com/watch?v=j6s8pFOyrg4",
+        "topic": "last30days-skill quickly produces a cited trend report: from topic to original sources",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/j6s8pFOyrg4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/j6s8pFOyrg4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "j6s8pFOyrg4"
+      },
+      {
+        "title": "AI 論文寫得順就可信？academic-research-skills 加入主張查核關卡",
+        "published": "2026-11-20T01:25:05+00:00",
+        "url": "https://www.youtube.com/watch?v=4LvUPWBA2Oo",
+        "topic": "academic-research-skills adds a claim-checking gate so AI-written papers that read fluently are not assumed trustworthy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4LvUPWBA2Oo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4LvUPWBA2Oo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4LvUPWBA2Oo"
+      },
+      {
+        "title": "Heretic 實作：用遊戲級 GPU 調整本機 LLM，不必重新訓練",
+        "published": "2026-11-19T01:25:24+00:00",
+        "url": "https://www.youtube.com/watch?v=c62pIcDy-vo",
+        "topic": "Hands-on with p-e-w/heretic: training-free local LLM behaviour tuning on a gaming GPU, no retraining",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/c62pIcDy-vo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/c62pIcDy-vo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "c62pIcDy-vo"
+      },
+      {
+        "title": "plannotator 把多個 AI Agent 問題收進 Inbox，集中審閱免守著視窗",
+        "published": "2026-11-18T01:24:46+00:00",
+        "url": "https://www.youtube.com/watch?v=Gce3e6NXee4",
+        "topic": "plannotator inbox to review multiple AI Agent issues without watching the window",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Gce3e6NXee4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Gce3e6NXee4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Gce3e6NXee4"
+      },
+      {
+        "title": "論文初稿整理太耗時？PaperOrchestra 協助處理大綱、文獻與格式",
+        "published": "2026-11-17T01:24:31+00:00",
+        "url": "https://www.youtube.com/watch?v=92vjz7-pFDw",
+        "topic": "PaperOrchestra / thesis draft outline, literature, formatting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/92vjz7-pFDw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/92vjz7-pFDw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "92vjz7-pFDw"
+      },
+      {
+        "title": "測試通過就代表沒問題？bombadil 主動搜尋你沒寫進案例的 UI 錯誤",
+        "published": "2026-11-16T01:23:19+00:00",
+        "url": "https://www.youtube.com/watch?v=lcoGxQf2BGg",
+        "topic": "Open-source testing / bombadil",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lcoGxQf2BGg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lcoGxQf2BGg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lcoGxQf2BGg"
+      },
+      {
+        "title": "你的網卡能跑 airgorah 嗎？先看 WiFi 稽核必備的兩項能力",
+        "published": "2026-11-15T01:20:27+00:00",
+        "url": "https://www.youtube.com/watch?v=veai2IaGbUA",
+        "topic": "Networking / security tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/veai2IaGbUA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/veai2IaGbUA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "veai2IaGbUA"
+      },
       {
         "title": "ffmpeg-skill 比手寫 FFmpeg 指令省事？42 個工具讓 AI 剪片可驗證",
         "published": "2026-11-14T01:25:40+00:00",
@@ -7019,6 +7969,56 @@
     "channel_id": "UCvijahEyGtvMpmMHBu4FS2w",
     "channel_url": "https://www.youtube.com/@lingdujieshuo",
     "videos": [
+      {
+        "title": "黄仁勋重返英伟达！恢复全部职务，回 NVIDIA 总部的现场直拍！",
+        "published": "2026-11-24T05:00:46+00:00",
+        "url": "https://www.youtube.com/shorts/eGvHMO3XNAM",
+        "topic": "Jensen Huang returns to NVIDIA and resumes all duties; on-site footage from headquarters | 黄仁勋重返英伟达！恢复全部职务，回 NVIDIA 总部的现场直拍！",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/eGvHMO3XNAM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/eGvHMO3XNAM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "eGvHMO3XNAM"
+      },
+      {
+        "title": "炸了！Inkling 2 Mini 突然开源！发布即越狱，最低仅需 8GB 显存，AI 编程、工具调用、Agent 全能！实测效果如何？| 零度解说",
+        "published": "2026-11-22T12:28:52+00:00",
+        "url": "https://www.youtube.com/watch?v=Y5MuBWwN8IA",
+        "topic": "Inkling 2 Mini is suddenly open-sourced, unrestricted on release, and runs on 8GB VRAM; coding, tool use, and Agent — how well does it actually perform? | 炸了！Inkling 2 Mini 突然开源！发布即越狱，最低仅需 8GB 显存，AI 编程、工具调用、Agent 全能！实测效果如何？| 零度解说",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Y5MuBWwN8IA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Y5MuBWwN8IA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Y5MuBWwN8IA"
+      },
+      {
+        "title": "全网爆火的 AI 角色唱歌视频！免费一键制作，零基础也能轻松上手，流程全公开！保姆级教程 + 工具下载！| 零度解说",
+        "published": "2026-11-20T12:08:23+00:00",
+        "url": "https://www.youtube.com/watch?v=zZUiNlOEnWE",
+        "topic": "Viral AI character singing videos: free one-click creation, beginner-friendly full workflow and tool downloads",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zZUiNlOEnWE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zZUiNlOEnWE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zZUiNlOEnWE"
+      },
+      {
+        "title": "DeepSeek-V4-Pro 最新越狱！解除限制、无审查，拒答率从 99% 暴降至 5%，4B/9B 模型本地轻松运行！实测效果如何？| 零度解说",
+        "published": "2026-11-17T12:23:40+00:00",
+        "url": "https://www.youtube.com/watch?v=gnGyaxZkbik",
+        "topic": "DeepSeek-V4-Pro local 4B/9B uncensored test",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gnGyaxZkbik/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gnGyaxZkbik/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gnGyaxZkbik"
+      },
+      {
+        "title": "MiniMax H3-Image 正式开源！发布即“越狱”，原生1600万像素，10秒生成高清大图，文生图+图片编辑，免费本地部署！| 零度解说",
+        "published": "2026-11-15T12:15:38+00:00",
+        "url": "https://www.youtube.com/watch?v=3-Y-sysiY7I",
+        "topic": "AI image / MiniMax open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3-Y-sysiY7I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3-Y-sysiY7I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3-Y-sysiY7I"
+      },
       {
         "title": "一键部署 24/7 AI Agent！让它自己写代码、开发游戏、自动任务，Hostinger + Hermes Agent 实测！| 零度解说",
         "published": "2026-11-13T11:00:12+00:00",
@@ -18348,6 +19348,26 @@
     "channel_url": "https://www.youtube.com/@kensen4029",
     "videos": [
       {
+        "title": "《高智能方程式蒼藍之翼》第十二集：答案在路上",
+        "published": "2026-11-23T11:00:08+00:00",
+        "url": "https://www.youtube.com/watch?v=5Y0iub8q4Qg",
+        "topic": "Future GPX Cyber Formula: Blue Wings Episode 12 — The Answer is on the Road | 《高智能方程式蒼藍之翼》第十二集：答案在路上",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5Y0iub8q4Qg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5Y0iub8q4Qg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5Y0iub8q4Qg"
+      },
+      {
+        "title": "《高智能方程式賽車 蒼藍之翼》第十一集：裂痕，精彩片段 #anime #automobile",
+        "published": "2026-11-16T14:05:29+00:00",
+        "url": "https://www.youtube.com/watch?v=Unp2fM8Gq_0",
+        "topic": "Future GPX Cyber Formula anime highlights (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Unp2fM8Gq_0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Unp2fM8Gq_0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Unp2fM8Gq_0"
+      },
+      {
         "title": "《高智能方程式賽車 蒼藍之翼》第十一集：裂痕",
         "published": "2026-11-14T11:00:39+00:00",
         "url": "https://www.youtube.com/watch?v=Q0vjG3B4xLo",
@@ -18965,6 +19985,26 @@
     "channel_id": "UC9HwoV7VQpDRDXOzviV2DIQ",
     "channel_url": "https://www.youtube.com/@manolo.remiddi",
     "videos": [
+      {
+        "title": "Do You Need a New PC for AI Agents This Black Friday?",
+        "published": "2026-11-24T16:39:07+00:00",
+        "url": "https://www.youtube.com/watch?v=UqGanXdaVXA",
+        "topic": "Do You Need a New PC for AI Agents This Black Friday?",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UqGanXdaVXA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UqGanXdaVXA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UqGanXdaVXA"
+      },
+      {
+        "title": "AI Is Evil. I Still Use It.",
+        "published": "2026-11-19T16:30:10+00:00",
+        "url": "https://www.youtube.com/watch?v=bApG6rRzqdI",
+        "topic": "AI Is Evil. I Still Use It. — why he still uses AI despite its problems",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bApG6rRzqdI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bApG6rRzqdI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bApG6rRzqdI"
+      },
       {
         "title": "AI Works. So Why Is the Market Panicking?",
         "published": "2026-11-12T16:30:21+00:00",
@@ -20964,6 +22004,206 @@
     "channel_url": "https://www.youtube.com/@辰星說Github",
     "videos": [
       {
+        "title": "打一句話做出新聲音！VoiceStudio 開源 AI 配音工作室｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-24T23:30:24+00:00",
+        "url": "https://www.youtube.com/shorts/dCI3QBbgS7o",
+        "topic": "Make a new voice with one sentence — VoiceStudio open-source AI dubbing studio | 打一句話做出新聲音！VoiceStudio 開源 AI 配音工作室｜GitHub 開源快報 #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dCI3QBbgS7o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dCI3QBbgS7o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dCI3QBbgS7o"
+      },
+      {
+        "title": "Github 10 個必裝讀書工具，完全免費！英文論文翻中文｜AI 家教陪你讀｜論文整理工具",
+        "published": "2026-11-24T11:00:14+00:00",
+        "url": "https://www.youtube.com/watch?v=9NbOwCltjjQ",
+        "topic": "10 must-have free GitHub reading tools — translate papers, AI tutor, organize research | Github 10 個必裝讀書工具，完全免費！英文論文翻中文｜AI 家教陪你讀｜論文整理工具",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9NbOwCltjjQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9NbOwCltjjQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9NbOwCltjjQ"
+      },
+      {
+        "title": "打一句話 AI 畫出遊戲特效！pixelfx 開源像素特效庫｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-23T23:30:03+00:00",
+        "url": "https://www.youtube.com/shorts/UXH7ykQSJGs",
+        "topic": "Type one sentence and AI draws game effects! pixelfx, an open-source pixel VFX library | GitHub open-source briefing #Shorts | 打一句話 AI 畫出遊戲特效！pixelfx 開源像素特效庫｜GitHub 開源快報 #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UXH7ykQSJGs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UXH7ykQSJGs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UXH7ykQSJGs"
+      },
+      {
+        "title": "抱抱臉本週爆紅 5 個 AI 模型，完全免費！打中文就生圖｜照片變 3D｜中文搜照片和聲音｜線上免費試用｜Hugging Face 熱門模型",
+        "published": "2026-11-23T10:30:18+00:00",
+        "url": "https://www.youtube.com/watch?v=wYCg92JSI68",
+        "topic": "Five AI models exploding on Hugging Face this week, all free: generate images from Chinese, turn photos into 3D, search photos and audio in Chinese, try them online | 抱抱臉本週爆紅 5 個 AI 模型，完全免費！打中文就生圖｜照片變 3D｜中文搜照片和聲音｜線上免費試用｜Hugging Face 熱門模型",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wYCg92JSI68/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wYCg92JSI68/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wYCg92JSI68"
+      },
+      {
+        "title": "打一句話 AI 剪完整支影片！OpenMontage 開源 AI 影片工作室｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-22T23:30:07+00:00",
+        "url": "https://www.youtube.com/shorts/FX5sht61hyE",
+        "topic": "One sentence and AI cuts a full video — OpenMontage, an open-source AI video studio | GitHub digest #Shorts | 打一句話 AI 剪完整支影片！OpenMontage 開源 AI 影片工作室｜GitHub 開源快報 #Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FX5sht61hyE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FX5sht61hyE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FX5sht61hyE"
+      },
+      {
+        "title": "課本 PDF 變成會動的互動課程Papermorph演示及教學 ｜Papermorph 新手教學，配音、動畫、隨堂測驗一次做好｜Claude Code 技能",
+        "published": "2026-11-22T12:05:54+00:00",
+        "url": "https://www.youtube.com/watch?v=zWECPI1R92Y",
+        "topic": "Turn a textbook PDF into an interactive course — Papermorph demo and tutorial (narration, animation, in-class quizzes) | Claude Code skill | 課本 PDF 變成會動的互動課程Papermorph演示及教學 ｜Papermorph 新手教學，配音、動畫、隨堂測驗一次做好｜Claude Code 技能",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zWECPI1R92Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zWECPI1R92Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zWECPI1R92Y"
+      },
+      {
+        "title": "不露臉也能開直播！一張圖 AI 變虛擬主播 Mesh Avatar Studio 開源｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-21T23:30:18+00:00",
+        "url": "https://www.youtube.com/watch?v=QHc6By60y7I",
+        "topic": "Livestream without showing your face: turn one photo into an AI VTuber with open-source Mesh Avatar Studio | GitHub open-source bulletin (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/QHc6By60y7I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/QHc6By60y7I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "QHc6By60y7I"
+      },
+      {
+        "title": "Github本周前五名：工作列直接看滑鼠耳機電量、輕量版 Docker Desktop、Google 教 AI 寫新式網頁",
+        "published": "2026-11-21T10:30:09+00:00",
+        "url": "https://www.youtube.com/watch?v=O4mzfLzPZeA",
+        "topic": "This week's top five GitHub projects: taskbar battery status for mouse and headset, a lightweight Docker Desktop, and Google teaching AI to write modern web pages",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/O4mzfLzPZeA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/O4mzfLzPZeA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "O4mzfLzPZeA"
+      },
+      {
+        "title": "說一句話手機自己滑！Mika 開源 Android AI 手機助理｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-20T23:30:37+00:00",
+        "url": "https://www.youtube.com/watch?v=Mjdeyqgu3JE",
+        "topic": "Say one sentence and the phone scrolls itself: Mika open-source Android AI assistant; GitHub open-source briefing Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Mjdeyqgu3JE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Mjdeyqgu3JE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Mjdeyqgu3JE"
+      },
+      {
+        "title": "神級工具，讓你無限使用AI，免費管飽! Ollama架設教學",
+        "published": "2026-11-20T11:00:10+00:00",
+        "url": "https://www.youtube.com/watch?v=tJtTxGpn3yo",
+        "topic": "God-tier tool for unlimited free AI use: Ollama setup tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tJtTxGpn3yo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tJtTxGpn3yo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tJtTxGpn3yo"
+      },
+      {
+        "title": "打一句話交出整套設計！Huashu Design 開源 AI 設計技能｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-19T23:30:32+00:00",
+        "url": "https://www.youtube.com/watch?v=PWC64Mq7X9I",
+        "topic": "Huashu Design open-source AI design skill: one prompt for a full design set; GitHub open-source briefing Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PWC64Mq7X9I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PWC64Mq7X9I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PWC64Mq7X9I"
+      },
+      {
+        "title": "Github 10 個必裝手機 App，完全免費！手機電腦互傳｜沒訊號也能導航｜手機變口譯機｜LocalSend、Organic Maps",
+        "published": "2026-11-19T11:00:05+00:00",
+        "url": "https://www.youtube.com/watch?v=ps9--fgs8zk",
+        "topic": "10 must-have free GitHub / mobile apps: LocalSend phone-PC transfer, Organic Maps offline navigation, phone as interpreter",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ps9--fgs8zk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ps9--fgs8zk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ps9--fgs8zk"
+      },
+      {
+        "title": "一句話做完整套簡報！Banana Slides 開源 AI 簡報產生器｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-18T23:30:06+00:00",
+        "url": "https://www.youtube.com/watch?v=Lsyw3s3ybt0",
+        "topic": "Banana Slides open-source AI slideshow generator — one prompt for a full deck; GitHub open-source briefing Shorts",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Lsyw3s3ybt0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Lsyw3s3ybt0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Lsyw3s3ybt0"
+      },
+      {
+        "title": "Github 教學｜ComfyUI 從安裝到第一張圖，沒有顯卡也能 AI 生圖｜自己加步驟、存成工作流程｜完全免費",
+        "published": "2026-11-18T11:00:37+00:00",
+        "url": "https://www.youtube.com/watch?v=ahswtqJDHVQ",
+        "topic": "ComfyUI tutorial: install to first image without a GPU, add steps, save workflows, completely free",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ahswtqJDHVQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ahswtqJDHVQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ahswtqJDHVQ"
+      },
+      {
+        "title": "一段文字變火柴人動畫！Stickman Video Director 開源 AI 影片技能｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-17T23:30:39+00:00",
+        "url": "https://www.youtube.com/watch?v=acwWJxYav_8",
+        "topic": "Stickman Video Director open-source AI video skill (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/acwWJxYav_8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/acwWJxYav_8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "acwWJxYav_8"
+      },
+      {
+        "title": "Github 10 個替代軟體，完全免費！取代 Office、Photoshop｜取代剪映、Notion｜ONLYOFFICE、GIMP、AFFiNE",
+        "published": "2026-11-17T11:00:22+00:00",
+        "url": "https://www.youtube.com/watch?v=GjHwP3oKKp4",
+        "topic": "10 free GitHub-hosted alternatives to Office, Photoshop, CapCut, Notion",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/GjHwP3oKKp4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/GjHwP3oKKp4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "GjHwP3oKKp4"
+      },
+      {
+        "title": "課本 PDF 丟進去變動畫課！Papermorph 開源 AI 互動課本｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-16T23:30:27+00:00",
+        "url": "https://www.youtube.com/watch?v=XQrfYJ-CoaM",
+        "topic": "Papermorph / open-source AI interactive textbook (Shorts)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/XQrfYJ-CoaM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/XQrfYJ-CoaM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "XQrfYJ-CoaM"
+      },
+      {
+        "title": "Github 10 個必裝 \"一句話\" AI 開源專案｜一句話做簡報｜畫流程圖｜寫研究報告｜操作電腦｜OpenManus、Next AI Draw.io",
+        "published": "2026-11-16T11:00:33+00:00",
+        "url": "https://www.youtube.com/watch?v=TthlItvtyDc",
+        "topic": "10 one-liner GitHub AI projects (OpenManus, Next AI Draw.io)",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TthlItvtyDc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TthlItvtyDc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TthlItvtyDc"
+      },
+      {
+        "title": "打一句話翻出電腦裡任何檔案！DigUp 開源 AI 本機搜尋｜GitHub 開源快報 #Shorts",
+        "published": "2026-11-15T23:30:31+00:00",
+        "url": "https://www.youtube.com/shorts/IX1SHEbAToc",
+        "topic": "Open-source AI search tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IX1SHEbAToc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IX1SHEbAToc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IX1SHEbAToc"
+      },
+      {
+        "title": "Github的10個剪輯工具 - 自動剪掉沒講話的片段、長片切成短影音、自動上字幕｜auto-editor、LosslessCut",
+        "published": "2026-11-15T09:00:31+00:00",
+        "url": "https://www.youtube.com/watch?v=wq4dgK_NuUY",
+        "topic": "Open-source video editing tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wq4dgK_NuUY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wq4dgK_NuUY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wq4dgK_NuUY"
+      },
+      {
         "title": "每個修士都是 AI！AI 修仙世界模擬器 開源天道模擬遊戲｜GitHub 開源快報 #Shorts",
         "published": "2026-11-14T23:30:21+00:00",
         "url": "https://www.youtube.com/watch?v=m43b6jxZwnk",
@@ -21732,6 +22972,2018 @@
         "thumbnail_hq": "https://i.ytimg.com/vi/UmXk-4cyQ6s/hqdefault.jpg",
         "local_thumb": null,
         "video_id": "UmXk-4cyQ6s"
+      }
+    ]
+  },
+  {
+    "channel_name": "普普通通Tony大叔",
+    "handle": "@yuanlinfish",
+    "channel_id": "UC29qXJNGXFedZC6FVJhhZjg",
+    "channel_url": "https://www.youtube.com/@yuanlinfish",
+    "videos": [
+      {
+        "title": "重新发明电脑？RTX Spark迷你工作站深度评测",
+        "published": "2026-11-20T13:08:25+00:00",
+        "url": "https://www.youtube.com/watch?v=O08zdfX-Ws0",
+        "topic": "PC / AI hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/O08zdfX-Ws0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/O08zdfX-Ws0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "O08zdfX-Ws0"
+      },
+      {
+        "title": "出差也要好好玩！ROG 20周年掌机＋AR眼镜体验",
+        "published": "2026-11-10T10:33:17+00:00",
+        "url": "https://www.youtube.com/watch?v=TW1h4El0th8",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TW1h4El0th8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TW1h4El0th8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TW1h4El0th8"
+      },
+      {
+        "title": "你的显卡能不能玩影之刃零？",
+        "published": "2026-10-29T13:45:12+00:00",
+        "url": "https://www.youtube.com/watch?v=SarqXDAG5W8",
+        "topic": "Gaming",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SarqXDAG5W8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SarqXDAG5W8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SarqXDAG5W8"
+      },
+      {
+        "title": "改变未来！英伟达RTX Spark笔记本深度评测",
+        "published": "2026-10-16T14:11:30+00:00",
+        "url": "https://www.youtube.com/watch?v=xmHZ5WP0gs0",
+        "topic": "PC / AI hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xmHZ5WP0gs0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xmHZ5WP0gs0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xmHZ5WP0gs0"
+      },
+      {
+        "title": "720Hz OLED打CS2是什么体验？ROG超梦25开箱",
+        "published": "2026-10-12T11:44:06+00:00",
+        "url": "https://www.youtube.com/watch?v=NQAp8uQnCJY",
+        "topic": "PC / consumer tech",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NQAp8uQnCJY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NQAp8uQnCJY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NQAp8uQnCJY"
+      },
+      {
+        "title": "2004年的机箱能装5090吗？复活华硕“宇宙战舰”Vento 3600",
+        "published": "2026-09-17T10:22:02+00:00",
+        "url": "https://www.youtube.com/watch?v=i8GzEv8h-iE",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/i8GzEv8h-iE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/i8GzEv8h-iE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "i8GzEv8h-iE"
+      },
+      {
+        "title": "不限速高速！可以跑多快？",
+        "published": "2026-09-11T11:51:53+00:00",
+        "url": "https://www.youtube.com/watch?v=NvlbpopYnhk",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NvlbpopYnhk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NvlbpopYnhk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NvlbpopYnhk"
+      },
+      {
+        "title": "等了这么多年，OLED显示器终于“正常”了！",
+        "published": "2026-08-18T12:09:59+00:00",
+        "url": "https://www.youtube.com/watch?v=D3ohH20ux0I",
+        "topic": "PC / consumer tech",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/D3ohH20ux0I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/D3ohH20ux0I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "D3ohH20ux0I"
+      },
+      {
+        "title": "全球首装！ROGxFactor联名自行车",
+        "published": "2026-07-17T02:06:19+00:00",
+        "url": "https://www.youtube.com/watch?v=3Wel5THUdcE",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3Wel5THUdcE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3Wel5THUdcE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3Wel5THUdcE"
+      },
+      {
+        "title": "出音箱啦！ROG加拉尔全球首开",
+        "published": "2026-07-09T10:00:35+00:00",
+        "url": "https://www.youtube.com/watch?v=BSLxPzgW5mc",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BSLxPzgW5mc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BSLxPzgW5mc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BSLxPzgW5mc"
+      },
+      {
+        "title": "圣甲虫500W装修工作室！我看看怎么个事儿",
+        "published": "2026-06-17T10:16:16+00:00",
+        "url": "https://www.youtube.com/watch?v=v_jjrs1uhWI",
+        "topic": "Lifestyle / tech vlog",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/v_jjrs1uhWI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/v_jjrs1uhWI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "v_jjrs1uhWI"
+      },
+      {
+        "title": "看我在Computex2026遇到了谁？",
+        "published": "2026-06-02T13:23:15+00:00",
+        "url": "https://www.youtube.com/shorts/9UaTwqSZCCk",
+        "topic": "Lifestyle / tech vlog",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9UaTwqSZCCk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9UaTwqSZCCk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9UaTwqSZCCk"
+      },
+      {
+        "title": "全球首发！ROG 20周年黑透金新品开箱",
+        "published": "2026-06-01T10:00:14+00:00",
+        "url": "https://www.youtube.com/watch?v=Ma5eKYN-n54",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Ma5eKYN-n54/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Ma5eKYN-n54/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Ma5eKYN-n54"
+      },
+      {
+        "title": "又小又强！ROG NUC 2026全面评测",
+        "published": "2026-05-18T10:00:32+00:00",
+        "url": "https://www.youtube.com/watch?v=jrMXIps6WYI",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jrMXIps6WYI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jrMXIps6WYI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jrMXIps6WYI"
+      },
+      {
+        "title": "20年前的电脑主板长啥样？",
+        "published": "2026-05-15T06:10:13+00:00",
+        "url": "https://www.youtube.com/watch?v=0phY_sDQdm8",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0phY_sDQdm8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0phY_sDQdm8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0phY_sDQdm8"
+      },
+      {
+        "title": "快乐加倍！ROG全新幻16双屏开箱上手",
+        "published": "2026-04-27T10:13:33+00:00",
+        "url": "https://www.youtube.com/watch?v=X5YqtTb1b_M",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/X5YqtTb1b_M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/X5YqtTb1b_M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "X5YqtTb1b_M"
+      },
+      {
+        "title": "Zen5最终魔王！AMD锐龙9950X3D2首发测试",
+        "published": "2026-04-21T13:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=W9eXtynXllY",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/W9eXtynXllY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/W9eXtynXllY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "W9eXtynXllY"
+      },
+      {
+        "title": "1000W粉丝UP主雀巢工作室要如何改造？",
+        "published": "2026-04-14T10:30:00+00:00",
+        "url": "https://www.youtube.com/watch?v=2nBCjBEKvKQ",
+        "topic": "Lifestyle / tech vlog",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2nBCjBEKvKQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2nBCjBEKvKQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2nBCjBEKvKQ"
+      },
+      {
+        "title": "ROG幻14Air 2026开箱上手",
+        "published": "2026-04-08T13:08:25+00:00",
+        "url": "https://www.youtube.com/watch?v=tACSA_S5Wkg",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/tACSA_S5Wkg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/tACSA_S5Wkg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "tACSA_S5Wkg"
+      },
+      {
+        "title": "倒反天罡？Intel全新酷睿270K, 250K Plus首发评测",
+        "published": "2026-03-23T13:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=zUj-ghQe2T8",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zUj-ghQe2T8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zUj-ghQe2T8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zUj-ghQe2T8"
+      },
+      {
+        "title": "梦幻联动！ROG × 小岛工作室联名笔记本开箱",
+        "published": "2026-03-10T11:42:36+00:00",
+        "url": "https://www.youtube.com/watch?v=o2kTa0HjqsM",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/o2kTa0HjqsM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/o2kTa0HjqsM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "o2kTa0HjqsM"
+      },
+      {
+        "title": "价值一千万的黄金电脑？",
+        "published": "2026-03-09T10:56:09+00:00",
+        "url": "https://www.youtube.com/watch?v=JddbIQsBkLE",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JddbIQsBkLE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JddbIQsBkLE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JddbIQsBkLE"
+      },
+      {
+        "title": "全网首装！ROG白色幻世神全家桶装机体验",
+        "published": "2026-02-12T12:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=wZ5QPRlzYuQ",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wZ5QPRlzYuQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wZ5QPRlzYuQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wZ5QPRlzYuQ"
+      },
+      {
+        "title": "ROG 2026新年礼盒都有啥",
+        "published": "2026-02-10T08:55:59+00:00",
+        "url": "https://www.youtube.com/watch?v=wm4xeaWRNsY",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wm4xeaWRNsY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wm4xeaWRNsY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wm4xeaWRNsY"
+      },
+      {
+        "title": "比快更快！AMD锐龙Ryzen7 9850X3D首发评测",
+        "published": "2026-01-28T14:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=O9g_qkSi_tY",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/O9g_qkSi_tY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/O9g_qkSi_tY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "O9g_qkSi_tY"
+      },
+      {
+        "title": "本地部署大模型？天选Air2026锐龙AI Max版简单开箱",
+        "published": "2026-01-22T13:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=_stMDydIx1o",
+        "topic": "PC / AI hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/_stMDydIx1o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/_stMDydIx1o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "_stMDydIx1o"
+      },
+      {
+        "title": "全网首装！ROG幻世神装机",
+        "published": "2026-01-14T10:37:52+00:00",
+        "url": "https://www.youtube.com/watch?v=1XGV2sUgGd4",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1XGV2sUgGd4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1XGV2sUgGd4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1XGV2sUgGd4"
+      },
+      {
+        "title": "CES新品首发！ROG旗舰主板机箱耳机一次看个够！",
+        "published": "2026-01-06T10:01:40+00:00",
+        "url": "https://www.youtube.com/watch?v=zKLar-QMnnE",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/zKLar-QMnnE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/zKLar-QMnnE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "zKLar-QMnnE"
+      },
+      {
+        "title": "800W超大核弹！ROG骇客5090DV2上手开箱",
+        "published": "2025-12-31T09:25:20+00:00",
+        "url": "https://www.youtube.com/watch?v=ymOHvTSTa2w",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ymOHvTSTa2w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ymOHvTSTa2w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ymOHvTSTa2w"
+      },
+      {
+        "title": "FF10装机！核弹RTX PRO 6000再次搬家",
+        "published": "2025-12-30T10:01:07+00:00",
+        "url": "https://www.youtube.com/watch?v=fkT1tOduNEQ",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fkT1tOduNEQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fkT1tOduNEQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fkT1tOduNEQ"
+      },
+      {
+        "title": "谁会赢？和载物ZywOo正面刚枪",
+        "published": "2025-12-24T11:42:08+00:00",
+        "url": "https://www.youtube.com/watch?v=b7POk-amXe8",
+        "topic": "Gaming",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/b7POk-amXe8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/b7POk-amXe8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "b7POk-amXe8"
+      },
+      {
+        "title": "5K分辨率打游戏是什么体验？",
+        "published": "2025-12-19T14:02:18+00:00",
+        "url": "https://www.youtube.com/watch?v=TYK6inRJ7AU",
+        "topic": "Gaming",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TYK6inRJ7AU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TYK6inRJ7AU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TYK6inRJ7AU"
+      },
+      {
+        "title": "吊打5090？终极核弹RTX PRO 6000评测",
+        "published": "2025-09-17T11:07:50+00:00",
+        "url": "https://www.youtube.com/watch?v=N5sXv5b3Ot4",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/N5sXv5b3Ot4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/N5sXv5b3Ot4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "N5sXv5b3Ot4"
+      },
+      {
+        "title": "Exclusive interview with AMD CEO Lisa Su, I asked her 10 questions about AI and PC",
+        "published": "2025-03-25T07:30:54+00:00",
+        "url": "https://www.youtube.com/watch?v=5djZ4Ux5YQU",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5djZ4Ux5YQU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5djZ4Ux5YQU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5djZ4Ux5YQU"
+      },
+      {
+        "title": "能否超越4090? RTX5080首发评测",
+        "published": "2025-01-29T14:00:12+00:00",
+        "url": "https://www.youtube.com/watch?v=CkR_9A6a7UM",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CkR_9A6a7UM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CkR_9A6a7UM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CkR_9A6a7UM"
+      },
+      {
+        "title": "新一代卡皇！RTX5090D 5090深度评测",
+        "published": "2025-01-24T16:23:28+00:00",
+        "url": "https://www.youtube.com/watch?v=wAHLXC8-vcM",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wAHLXC8-vcM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wAHLXC8-vcM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wAHLXC8-vcM"
+      },
+      {
+        "title": "史上最大变化！Intel ArrowLake酷睿Ultra 200到底改了什么？",
+        "published": "2024-10-27T03:07:41+00:00",
+        "url": "https://www.youtube.com/watch?v=0dxo2nlR55M",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0dxo2nlR55M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0dxo2nlR55M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0dxo2nlR55M"
+      },
+      {
+        "title": "地表最强？AMD Zen5锐龙9950X 9900X 首发评测",
+        "published": "2024-08-19T14:33:20+00:00",
+        "url": "https://www.youtube.com/watch?v=NMBqzDb8xUA",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/NMBqzDb8xUA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/NMBqzDb8xUA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "NMBqzDb8xUA"
+      },
+      {
+        "title": "和积热说拜拜？AMD Zen5锐龙9700X 9600X 首发评测",
+        "published": "2024-08-08T13:29:20+00:00",
+        "url": "https://www.youtube.com/watch?v=-YXyb4BTzIs",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-YXyb4BTzIs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-YXyb4BTzIs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-YXyb4BTzIs"
+      },
+      {
+        "title": "打破世界纪录！AMD全新Ryzen9 9950X液氮超频小试",
+        "published": "2024-07-27T10:18:39+00:00",
+        "url": "https://www.youtube.com/watch?v=aQa7rBZBcWg",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/aQa7rBZBcWg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/aQa7rBZBcWg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "aQa7rBZBcWg"
+      },
+      {
+        "title": "全面进化？ROG新一代掌机X开箱",
+        "published": "2024-07-11T09:13:21+00:00",
+        "url": "https://www.youtube.com/watch?v=egPPB68D-Hg",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/egPPB68D-Hg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/egPPB68D-Hg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "egPPB68D-Hg"
+      },
+      {
+        "title": "专为ROG显卡做的机箱长啥样？FF04家族新成员登场！",
+        "published": "2024-06-22T13:00:49+00:00",
+        "url": "https://www.youtube.com/watch?v=yxDd2SQjK00",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yxDd2SQjK00/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yxDd2SQjK00/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yxDd2SQjK00"
+      },
+      {
+        "title": "师傅你是做什么工作的？大叔Q&A第一期",
+        "published": "2023-11-29T15:38:46+00:00",
+        "url": "https://www.youtube.com/watch?v=ukhpkMhZWQM",
+        "topic": "Lifestyle / tech vlog",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ukhpkMhZWQM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ukhpkMhZWQM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ukhpkMhZWQM"
+      },
+      {
+        "title": "ROG x EVA 第二弹明日香全套开箱装机",
+        "published": "2023-09-02T09:50:50+00:00",
+        "url": "https://www.youtube.com/watch?v=S9AOh3aFnO8",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/S9AOh3aFnO8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/S9AOh3aFnO8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "S9AOh3aFnO8"
+      },
+      {
+        "title": "科技区UP主被黑！CS:GO库存不翼而飞",
+        "published": "2023-09-01T05:53:19+00:00",
+        "url": "https://www.youtube.com/watch?v=OoSoSf_AKe4",
+        "topic": "Lifestyle / tech vlog",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OoSoSf_AKe4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OoSoSf_AKe4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OoSoSf_AKe4"
+      },
+      {
+        "title": "掀起你的盖头来！Intel酷睿i9 13900KS开盖温度测试",
+        "published": "2023-07-15T06:25:22+00:00",
+        "url": "https://www.youtube.com/watch?v=fEeA3aQYBhA",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fEeA3aQYBhA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fEeA3aQYBhA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fEeA3aQYBhA"
+      },
+      {
+        "title": "固态硬盘装到4060显卡上？？？",
+        "published": "2023-07-01T13:09:23+00:00",
+        "url": "https://www.youtube.com/watch?v=vnWZEFbilgY",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vnWZEFbilgY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vnWZEFbilgY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vnWZEFbilgY"
+      },
+      {
+        "title": "\"无线\"显卡全球首发！这台电脑99.99%的人没见过",
+        "published": "2023-05-29T15:35:43+00:00",
+        "url": "https://www.youtube.com/watch?v=TwYvS0xanmE",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/TwYvS0xanmE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/TwYvS0xanmE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "TwYvS0xanmE"
+      },
+      {
+        "title": "性能怪兽！ROG Ally掌机开箱测试",
+        "published": "2023-05-13T03:21:44+00:00",
+        "url": "https://www.youtube.com/watch?v=YT19lq9y9RQ",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YT19lq9y9RQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YT19lq9y9RQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YT19lq9y9RQ"
+      },
+      {
+        "title": "装一台全世界最小的“ROG电脑”",
+        "published": "2023-04-29T13:27:02+00:00",
+        "url": "https://www.youtube.com/watch?v=cD_xA57u0NA",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cD_xA57u0NA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cD_xA57u0NA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cD_xA57u0NA"
+      },
+      {
+        "title": "再度进化！ROG Phone7 Pro游戏手机简单开箱",
+        "published": "2023-04-20T01:50:34+00:00",
+        "url": "https://www.youtube.com/watch?v=KDCXZZw-SxQ",
+        "topic": "Smartphone / mobile",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KDCXZZw-SxQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KDCXZZw-SxQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KDCXZZw-SxQ"
+      },
+      {
+        "title": "4070Ti青春版！RTX 4070显卡首发评测",
+        "published": "2023-04-14T02:36:56+00:00",
+        "url": "https://www.youtube.com/watch?v=DAUIcLKl4gM",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/DAUIcLKl4gM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/DAUIcLKl4gM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "DAUIcLKl4gM"
+      },
+      {
+        "title": "ROGxACRONYM ROG Flow Z13 ACRNM-RMT02 快速开箱",
+        "published": "2023-04-07T15:51:54+00:00",
+        "url": "https://www.youtube.com/watch?v=hRYWFep4aww",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hRYWFep4aww/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hRYWFep4aww/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hRYWFep4aww"
+      },
+      {
+        "title": "梅开二度！AMD Ryzen7 7800X3D 游戏处理器首发评测",
+        "published": "2023-04-06T02:01:02+00:00",
+        "url": "https://www.youtube.com/watch?v=Bb_EymrYkcQ",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Bb_EymrYkcQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Bb_EymrYkcQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Bb_EymrYkcQ"
+      },
+      {
+        "title": "Most Powerful! Dual AMD EPYC 9654 ASUS RS720A Server Quick open box",
+        "published": "2023-03-30T14:00:11+00:00",
+        "url": "https://www.youtube.com/watch?v=9YEReaCgwbA",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9YEReaCgwbA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9YEReaCgwbA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9YEReaCgwbA"
+      },
+      {
+        "title": "ROG Zephyrus M16 GU604VI 幻16星空版快速开箱",
+        "published": "2023-03-30T01:09:45+00:00",
+        "url": "https://www.youtube.com/watch?v=b-cUK433Emw",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/b-cUK433Emw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/b-cUK433Emw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "b-cUK433Emw"
+      },
+      {
+        "title": "苏妈接招！英特尔至强W 3495X/2495X处理器深度评测",
+        "published": "2023-03-21T16:18:15+00:00",
+        "url": "https://www.youtube.com/watch?v=ckyIoHydJnE",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ckyIoHydJnE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ckyIoHydJnE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ckyIoHydJnE"
+      },
+      {
+        "title": "顶配旗舰！ROG冰刃7双屏笔记本ROG Zephyrus Duo 16 GX650快速开箱",
+        "published": "2023-03-09T17:25:26+00:00",
+        "url": "https://www.youtube.com/watch?v=vifqbcHEALk",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vifqbcHEALk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vifqbcHEALk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vifqbcHEALk"
+      },
+      {
+        "title": "够帅否？ROG PG27AQDM OLED显示器简单开箱",
+        "published": "2023-03-09T17:20:50+00:00",
+        "url": "https://www.youtube.com/watch?v=cypxX7m8uZQ",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cypxX7m8uZQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cypxX7m8uZQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cypxX7m8uZQ"
+      },
+      {
+        "title": "很强但是小贵！AMD Ryzen 9 7950X3D游戏处理器首发评测",
+        "published": "2023-02-27T15:47:55+00:00",
+        "url": "https://www.youtube.com/watch?v=MuCSUmGs4Ss",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MuCSUmGs4Ss/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MuCSUmGs4Ss/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MuCSUmGs4Ss"
+      },
+      {
+        "title": "甜品咸吗? 移动版4070/4060/4050显卡首发评测",
+        "published": "2023-02-21T17:31:50+00:00",
+        "url": "https://www.youtube.com/watch?v=Tn2q5FQW_qI",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Tn2q5FQW_qI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Tn2q5FQW_qI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Tn2q5FQW_qI"
+      },
+      {
+        "title": "牙膏挤爆！i9 13980HX+4090/4080移动平台首发测试",
+        "published": "2023-02-08T16:58:42+00:00",
+        "url": "https://www.youtube.com/watch?v=5WVIIhNvnZw",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5WVIIhNvnZw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5WVIIhNvnZw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5WVIIhNvnZw"
+      },
+      {
+        "title": "i9 13980HX+RTX4090移动版！ROG STRIX SCAR 18 (2023) G834快速预览",
+        "published": "2023-02-03T16:09:10+00:00",
+        "url": "https://www.youtube.com/watch?v=Ye_pYzAVbmU",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Ye_pYzAVbmU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Ye_pYzAVbmU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Ye_pYzAVbmU"
+      },
+      {
+        "title": "最高1400W功耗！AMD线程撕裂者Pro 5995WX超频测试",
+        "published": "2023-01-20T15:10:05+00:00",
+        "url": "https://www.youtube.com/watch?v=x0tfv0Bsa8Y",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/x0tfv0Bsa8Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/x0tfv0Bsa8Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "x0tfv0Bsa8Y"
+      },
+      {
+        "title": "出厂6Ghz！英特尔酷睿i9 13900KS首发评测",
+        "published": "2023-01-13T17:07:01+00:00",
+        "url": "https://www.youtube.com/watch?v=IeT8GENB8Oc",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IeT8GENB8Oc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IeT8GENB8Oc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IeT8GENB8Oc"
+      },
+      {
+        "title": "ASUS ROG Azoth Keyboard and Harpe Ace Aim Lab Edition Mouse Quick Unboxing",
+        "published": "2023-01-10T17:49:07+00:00",
+        "url": "https://www.youtube.com/watch?v=7XM3ORywg6k",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/7XM3ORywg6k/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/7XM3ORywg6k/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "7XM3ORywg6k"
+      },
+      {
+        "title": "ROG HYPERION GR701创世神机箱简单装机",
+        "published": "2022-12-24T03:35:16+00:00",
+        "url": "https://www.youtube.com/watch?v=1mWhSLmlJBM",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1mWhSLmlJBM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1mWhSLmlJBM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1mWhSLmlJBM"
+      },
+      {
+        "title": "喜忧参半！AMD Radeon RX 7900XTX/7900XT 简单测试",
+        "published": "2022-12-13T13:30:23+00:00",
+        "url": "https://www.youtube.com/watch?v=fLcUjj85BBU",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fLcUjj85BBU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fLcUjj85BBU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fLcUjj85BBU"
+      },
+      {
+        "title": "刀法精准！RTX4080显卡简单开箱测试",
+        "published": "2022-11-15T14:00:04+00:00",
+        "url": "https://www.youtube.com/watch?v=6W6MisfRyFY",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6W6MisfRyFY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6W6MisfRyFY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6W6MisfRyFY"
+      },
+      {
+        "title": "ROG Z790 Apex主板简单开箱",
+        "published": "2022-11-04T10:37:09+00:00",
+        "url": "https://www.youtube.com/watch?v=mJ787NoNxWE",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mJ787NoNxWE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mJ787NoNxWE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mJ787NoNxWE"
+      },
+      {
+        "title": "强！但是热！英特尔13代酷睿处理器首发评测",
+        "published": "2022-10-21T01:26:58+00:00",
+        "url": "https://www.youtube.com/watch?v=xW-_fvJ8JN4",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xW-_fvJ8JN4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xW-_fvJ8JN4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xW-_fvJ8JN4"
+      },
+      {
+        "title": "科技与狠活！RTX4090显卡\"非正经\"评测",
+        "published": "2022-10-16T01:38:32+00:00",
+        "url": "https://www.youtube.com/watch?v=2REZhnm0RkM",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2REZhnm0RkM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2REZhnm0RkM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2REZhnm0RkM"
+      },
+      {
+        "title": "全新AMD Zen4架构Ryzen 7000系列CPU首发评测",
+        "published": "2022-09-27T04:33:06+00:00",
+        "url": "https://www.youtube.com/watch?v=itTVY7lRjYE",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/itTVY7lRjYE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/itTVY7lRjYE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "itTVY7lRjYE"
+      },
+      {
+        "title": "5.5Ghz官方特挑！Intel 12th Core i9 12900KS简测",
+        "published": "2022-04-06T11:55:49+00:00",
+        "url": "https://www.youtube.com/watch?v=hDXcRMP50gw",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/hDXcRMP50gw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/hDXcRMP50gw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "hDXcRMP50gw"
+      },
+      {
+        "title": "ROG Chakram魔刃鼠标开箱",
+        "published": "2020-07-25T03:15:59+00:00",
+        "url": "https://www.youtube.com/watch?v=SljxQL_M6R8",
+        "topic": "Unboxing / first look",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SljxQL_M6R8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SljxQL_M6R8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SljxQL_M6R8"
+      }
+    ]
+  },
+  {
+    "channel_name": "云八云",
+    "handle": "@yun8yun.systems",
+    "channel_id": "UC1KAxGCg9rkf4nrbqZPTG1w",
+    "channel_url": "https://www.youtube.com/@yun8yun.systems",
+    "videos": [
+      {
+        "title": "从重度使用到完全删除，我经历了什么？Hermes Agent 为何不再适合我？",
+        "published": "2026-11-23T10:20:45+00:00",
+        "url": "https://www.youtube.com/watch?v=bGNJ9Izi8bk",
+        "topic": "From heavy use to a complete uninstall: what I went through, and why Hermes Agent no longer fits me | 从重度使用到完全删除，我经历了什么？Hermes Agent 为何不再适合我？",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bGNJ9Izi8bk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bGNJ9Izi8bk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bGNJ9Izi8bk"
+      },
+      {
+        "title": "黑客用上了 AI，普通人的防线还够用吗？",
+        "published": "2026-11-22T10:58:34+00:00",
+        "url": "https://www.youtube.com/watch?v=X0JJBq-2ewM",
+        "topic": "Hackers are using AI — is an ordinary person's defense still enough? | 黑客用上了 AI，普通人的防线还够用吗？",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/X0JJBq-2ewM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/X0JJBq-2ewM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "X0JJBq-2ewM"
+      },
+      {
+        "title": "GPT-6.2 Astra提升很大？我实测后发现有蹊跷...（+社区案例分享）",
+        "published": "2026-11-19T10:40:28+00:00",
+        "url": "https://www.youtube.com/watch?v=u-HSt1XUMKQ",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/u-HSt1XUMKQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/u-HSt1XUMKQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "u-HSt1XUMKQ"
+      },
+      {
+        "title": "Qwen4-Max强吗？实测+社区案例分享。",
+        "published": "2026-11-18T02:18:04+00:00",
+        "url": "https://www.youtube.com/watch?v=2BiSHAEC1as",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2BiSHAEC1as/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2BiSHAEC1as/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2BiSHAEC1as"
+      },
+      {
+        "title": "一个人带一群 AI，为什么也得学点管理？",
+        "published": "2026-11-16T12:10:12+00:00",
+        "url": "https://www.youtube.com/watch?v=rS1tpoN4-mQ",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rS1tpoN4-mQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rS1tpoN4-mQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rS1tpoN4-mQ"
+      },
+      {
+        "title": "为什么给 agent 单独买电脑？",
+        "published": "2026-11-16T04:41:30+00:00",
+        "url": "https://www.youtube.com/watch?v=6mPCoHL3J_o",
+        "topic": "PC / AI hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6mPCoHL3J_o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6mPCoHL3J_o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6mPCoHL3J_o"
+      },
+      {
+        "title": "AI Agent 需要什么电脑？VPS、小主机、Mac mini 怎么选",
+        "published": "2026-11-14T07:12:34+00:00",
+        "url": "https://www.youtube.com/watch?v=sp8io1NVYr0",
+        "topic": "PC / AI hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sp8io1NVYr0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sp8io1NVYr0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sp8io1NVYr0"
+      },
+      {
+        "title": "总换 AI 工具，工作怎么接着做？我的 Agent 交接方法",
+        "published": "2026-11-12T13:17:48+00:00",
+        "url": "https://www.youtube.com/watch?v=1rg8GzEHt3w",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1rg8GzEHt3w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1rg8GzEHt3w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1rg8GzEHt3w"
+      },
+      {
+        "title": "把电脑交给 Agent，视频制作会变成什么样？｜一边唠嗑实拍真实 AI 工作流",
+        "published": "2026-11-11T10:58:20+00:00",
+        "url": "https://www.youtube.com/watch?v=Fsx7ZRrUDMo",
+        "topic": "AI Agent / studio workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Fsx7ZRrUDMo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Fsx7ZRrUDMo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Fsx7ZRrUDMo"
+      },
+      {
+        "title": "自称开源第一梯队的混元4实际用起来到底如何？",
+        "published": "2026-11-06T09:46:13+00:00",
+        "url": "https://www.youtube.com/watch?v=dtPSA5wtZkI",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dtPSA5wtZkI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dtPSA5wtZkI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dtPSA5wtZkI"
+      },
+      {
+        "title": "很后悔，没能早点分享这款 AI Agent 工作台(Orca)",
+        "published": "2026-11-04T10:16:20+00:00",
+        "url": "https://www.youtube.com/watch?v=HMxEW0uokNM",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/HMxEW0uokNM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/HMxEW0uokNM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "HMxEW0uokNM"
+      },
+      {
+        "title": "折腾了一圈AI Agent，我为什么又用回了终端（TUI / CLI）？",
+        "published": "2026-10-28T08:28:40+00:00",
+        "url": "https://www.youtube.com/watch?v=vH6VxtJMXzI",
+        "topic": "CLI / MCP / Skill tool selection",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vH6VxtJMXzI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vH6VxtJMXzI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vH6VxtJMXzI"
+      },
+      {
+        "title": "旧AI写的屎山，被我改造成了开源软件？ (Step 5 Preview 实测）",
+        "published": "2026-10-25T10:14:08+00:00",
+        "url": "https://www.youtube.com/watch?v=0Vsv9E1zvhU",
+        "topic": "Open source / tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0Vsv9E1zvhU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0Vsv9E1zvhU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0Vsv9E1zvhU"
+      },
+      {
+        "title": "狂蹬 70 亿Token之后，我把主力 AI 换成了 MiniMax M3.1 Flash",
+        "published": "2026-10-22T10:04:32+00:00",
+        "url": "https://www.youtube.com/watch?v=1erZ2jLk6Ik",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/1erZ2jLk6Ik/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/1erZ2jLk6Ik/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "1erZ2jLk6Ik"
+      },
+      {
+        "title": "本地 AI 已经进化到这个程度了？Strata + Qwen 3.8 Flash Next 开箱体验",
+        "published": "2026-10-15T11:06:50+00:00",
+        "url": "https://www.youtube.com/watch?v=8-TnOtMt0SU",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/8-TnOtMt0SU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/8-TnOtMt0SU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "8-TnOtMt0SU"
+      },
+      {
+        "title": "我的 AI 逼我删掉了 Windows。你也该换 Linux 吗？",
+        "published": "2026-10-10T10:18:19+00:00",
+        "url": "https://www.youtube.com/watch?v=jgYKfP924fo",
+        "topic": "Windows / OS",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jgYKfP924fo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jgYKfP924fo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jgYKfP924fo"
+      },
+      {
+        "title": "我让 AI 管服务器，然后它把自己干没了。SSH事故差点灰飞烟灭。",
+        "published": "2026-10-06T08:38:30+00:00",
+        "url": "https://www.youtube.com/watch?v=UEWX2BXQxZc",
+        "topic": "DevOps / tooling",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UEWX2BXQxZc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UEWX2BXQxZc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UEWX2BXQxZc"
+      },
+      {
+        "title": "我给 AI 装上了记忆外挂，然后发现了一个很危险的问题｜Hindsight 真实体验分享",
+        "published": "2026-10-03T10:15:36+00:00",
+        "url": "https://www.youtube.com/watch?v=01s7xx-UdDA",
+        "topic": "Cybersecurity / privacy",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/01s7xx-UdDA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/01s7xx-UdDA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "01s7xx-UdDA"
+      },
+      {
+        "title": "云端AI已经这么强了，我为什么还要跑本地模型？（拥有自己的算力的体验）",
+        "published": "2026-09-27T10:28:58+00:00",
+        "url": "https://www.youtube.com/watch?v=3I7BolnusGA",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3I7BolnusGA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3I7BolnusGA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3I7BolnusGA"
+      },
+      {
+        "title": "我以为DeepSeek V4.1 flash拉了，后来发现是自己用错了...",
+        "published": "2026-09-19T09:15:54+00:00",
+        "url": "https://www.youtube.com/watch?v=2myZ8yQ5EFk",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2myZ8yQ5EFk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2myZ8yQ5EFk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2myZ8yQ5EFk"
+      },
+      {
+        "title": "NInfer + 千问3.8 27b = 1.5倍速@256K上下文(单张4090 24GB)",
+        "published": "2026-09-14T10:12:53+00:00",
+        "url": "https://www.youtube.com/watch?v=MhZABCEOUWY",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/MhZABCEOUWY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/MhZABCEOUWY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "MhZABCEOUWY"
+      },
+      {
+        "title": "部署千问 3.8 27b后，我的 DeepSeek 可以退休了（吗？）",
+        "published": "2026-09-11T10:15:06+00:00",
+        "url": "https://www.youtube.com/watch?v=5JPd-Sj-WFg",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5JPd-Sj-WFg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5JPd-Sj-WFg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5JPd-Sj-WFg"
+      },
+      {
+        "title": "为啥好多人说玩AI比游戏好玩？(Vibe Coding上瘾体验分享...)",
+        "published": "2026-09-04T11:19:14+00:00",
+        "url": "https://www.youtube.com/watch?v=UfE3GecpGaU",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UfE3GecpGaU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UfE3GecpGaU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UfE3GecpGaU"
+      },
+      {
+        "title": "【避坑】选错agent害一生，同一个模型判若两人。Claude Code和Hermes Agent为什么差别这么大？",
+        "published": "2026-07-27T11:32:51+00:00",
+        "url": "https://www.youtube.com/watch?v=w8bzfBHEiaw",
+        "topic": "AI agents / open source",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/w8bzfBHEiaw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/w8bzfBHEiaw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "w8bzfBHEiaw"
+      },
+      {
+        "title": "DeepSeek涨价，MiniMax和MiMo能不能替代它？测试后我换了主模型。",
+        "published": "2026-07-20T11:00:18+00:00",
+        "url": "https://www.youtube.com/watch?v=xcfTESAxyk8",
+        "topic": "AI commentary / industry",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/xcfTESAxyk8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/xcfTESAxyk8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "xcfTESAxyk8"
+      },
+      {
+        "title": "Hermes Agent+Deepseek已经接管了我所有工作！日常助手、高效创作、管理公司",
+        "published": "2026-07-14T10:09:22+00:00",
+        "url": "https://www.youtube.com/watch?v=jqJn4DyRLys",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jqJn4DyRLys/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jqJn4DyRLys/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jqJn4DyRLys"
+      },
+      {
+        "title": "deepseek价格翻倍，应该用本地模型代替吗？还是用mimo 2.5 或者 Codex？",
+        "published": "2026-07-12T00:53:49+00:00",
+        "url": "https://www.youtube.com/watch?v=m3YERwFg5q8",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/m3YERwFg5q8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/m3YERwFg5q8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "m3YERwFg5q8"
+      },
+      {
+        "title": "如何用notion高效记账，养成良好财务管理习惯（免费模板",
+        "published": "2024-03-19T01:09:22+00:00",
+        "url": "https://www.youtube.com/watch?v=CB3M49ydLLc",
+        "topic": "Finance / investing",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/CB3M49ydLLc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/CB3M49ydLLc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "CB3M49ydLLc"
+      },
+      {
+        "title": "英伟达Chat with RTX可以让你免费一键拥有本地AI，但是…",
+        "published": "2024-03-05T10:07:19+00:00",
+        "url": "https://www.youtube.com/watch?v=vinSq0np06I",
+        "topic": "Local LLM / inference",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/vinSq0np06I/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/vinSq0np06I/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "vinSq0np06I"
+      },
+      {
+        "title": "OpenAI Sora：画画的哭完了吗？轮到做视频和动画的哭了。",
+        "published": "2024-02-17T10:26:07+00:00",
+        "url": "https://www.youtube.com/watch?v=RncCjCXIZZw",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RncCjCXIZZw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RncCjCXIZZw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RncCjCXIZZw"
+      },
+      {
+        "title": "对比其他XR设备、结合XR发展现状，深入解析Vision Pro",
+        "published": "2023-06-07T09:43:59+00:00",
+        "url": "https://www.youtube.com/watch?v=ZGOYQ0ENTRs",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ZGOYQ0ENTRs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ZGOYQ0ENTRs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ZGOYQ0ENTRs"
+      },
+      {
+        "title": "ChatGPT的正确用法。",
+        "published": "2023-04-21T08:06:52+00:00",
+        "url": "https://www.youtube.com/watch?v=PJ9fdKf19U0",
+        "topic": "AI chatbot / prompting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PJ9fdKf19U0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PJ9fdKf19U0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PJ9fdKf19U0"
+      },
+      {
+        "title": "60秒理解Midjourney。",
+        "published": "2023-04-08T05:59:07+00:00",
+        "url": "https://www.youtube.com/watch?v=ruEyQaGU19c",
+        "topic": "AI image / generative tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ruEyQaGU19c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ruEyQaGU19c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ruEyQaGU19c"
+      },
+      {
+        "title": "千位科技人士公开反对GPT-5！马斯克等人请求停止研发AI。",
+        "published": "2023-03-31T08:11:35+00:00",
+        "url": "https://www.youtube.com/watch?v=ULG9j0IymFQ",
+        "topic": "AI commentary / industry",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/ULG9j0IymFQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/ULG9j0IymFQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "ULG9j0IymFQ"
+      },
+      {
+        "title": "Office炸裂升级！",
+        "published": "2023-03-29T11:16:43+00:00",
+        "url": "https://www.youtube.com/watch?v=JWtxZwy788s",
+        "topic": "Microsoft 365 / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JWtxZwy788s/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JWtxZwy788s/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JWtxZwy788s"
+      },
+      {
+        "title": "我拷问了真人ChatGPT。",
+        "published": "2023-03-26T05:00:16+00:00",
+        "url": "https://www.youtube.com/watch?v=irFU_M0p0wk",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/irFU_M0p0wk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/irFU_M0p0wk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "irFU_M0p0wk"
+      },
+      {
+        "title": "GPT4的这3点进化太厉害了",
+        "published": "2023-03-16T00:23:18+00:00",
+        "url": "https://www.youtube.com/watch?v=kdFSki06x9A",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/kdFSki06x9A/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/kdFSki06x9A/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "kdFSki06x9A"
+      },
+      {
+        "title": "ChatGPT让你不用再考试了",
+        "published": "2023-02-19T04:52:40+00:00",
+        "url": "https://www.youtube.com/watch?v=FXok8hAstiM",
+        "topic": "Education / cultural commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/FXok8hAstiM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/FXok8hAstiM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "FXok8hAstiM"
+      },
+      {
+        "title": "ChatGPT+微软新Bing实在过于机智",
+        "published": "2023-02-11T12:14:54+00:00",
+        "url": "https://www.youtube.com/watch?v=iXtQCRgWIjw",
+        "topic": "AI chatbot / prompting",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/iXtQCRgWIjw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/iXtQCRgWIjw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "iXtQCRgWIjw"
+      },
+      {
+        "title": "Google新绘画AI，1.3秒一张图！",
+        "published": "2023-02-08T11:00:32+00:00",
+        "url": "https://www.youtube.com/watch?v=YM7s0nrdIR8",
+        "topic": "AI image / generative tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YM7s0nrdIR8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YM7s0nrdIR8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YM7s0nrdIR8"
+      },
+      {
+        "title": "微软放弃VR社交，美军拒绝采购Hololens【灵境电台】",
+        "published": "2023-02-05T11:00:14+00:00",
+        "url": "https://www.youtube.com/watch?v=RIEmHQ6fqbE",
+        "topic": "Tech / gadgets",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RIEmHQ6fqbE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RIEmHQ6fqbE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RIEmHQ6fqbE"
+      },
+      {
+        "title": "无线串流告别路由器！Intel新技术却被大神喷没用...?【灵境电台】",
+        "published": "2023-02-04T06:23:41+00:00",
+        "url": "https://www.youtube.com/watch?v=PN7RmaAzVKo",
+        "topic": "PC / hardware",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PN7RmaAzVKo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PN7RmaAzVKo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PN7RmaAzVKo"
+      }
+    ]
+  },
+  {
+    "channel_name": "Tim Chan AI",
+    "handle": "@TimChanAI",
+    "channel_id": "UCF46qxGNea5kWYsv09NkY0Q",
+    "channel_url": "https://www.youtube.com/@TimChanAI",
+    "videos": [
+      {
+        "title": "DeepSeek 都出 AI Agent！同 Hermes Agent、Grok Bot 幾時用邊個？香港唔使 VPN、自己 VPS",
+        "published": "2026-11-25T09:30:00+00:00",
+        "url": "https://www.youtube.com/watch?v=jgC3tGqvTx4",
+        "topic": "DeepSeek 都出 AI Agent！同 Hermes Agent、Grok Bot 幾時用邊個？香港唔使 VPN、自己 VPS",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/jgC3tGqvTx4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/jgC3tGqvTx4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "jgC3tGqvTx4"
+      },
+      {
+        "title": "Claude Code 每次都要重新交代？Everything Claude Code 按任務搵現成設定",
+        "published": "2026-11-24T03:44:53+00:00",
+        "url": "https://www.youtube.com/shorts/u8zC-5rHrU4",
+        "topic": "Tired of re-briefing Claude Code every time? Use Everything Claude Code to find ready-made settings by task | Claude Code 每次都要重新交代？Everything Claude Code 按任務搵現成設定",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/u8zC-5rHrU4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/u8zC-5rHrU4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "u8zC-5rHrU4"
+      },
+      {
+        "title": "AI 味爆燈 vs 舊香港電影？我用同一個 AI 整兩個網站，只差兩件事| Claude 廣東話教學",
+        "published": "2026-11-23T09:30:30+00:00",
+        "url": "https://www.youtube.com/watch?v=D-9m4U37q4w",
+        "topic": "Too much AI aesthetic vs vintage Hong Kong cinema? Building two websites with the same AI, only two things differ | AI 味爆燈 vs 舊香港電影？我用同一個 AI 整兩個網站，只差兩件事| Claude 廣東話教學",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/D-9m4U37q4w/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/D-9m4U37q4w/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "D-9m4U37q4w"
+      },
+      {
+        "title": "港產 AI 短劇點樣拍？唔識寫劇本，AI 問幾條問題，一個人出成套｜Higgsfield 教學",
+        "published": "2026-11-22T03:00:25+00:00",
+        "url": "https://www.youtube.com/watch?v=mwXEvNfHme0",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mwXEvNfHme0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mwXEvNfHme0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mwXEvNfHme0"
+      },
+      {
+        "title": "Grok Bot 搬去 Hermes Agent 教學：上自己 VPS，閂咗電腦 6 點照 WhatsApp 報告 ｜一人公司 (廣東話)",
+        "published": "2026-11-21T03:00:14+00:00",
+        "url": "https://www.youtube.com/watch?v=q9AFez1rY78",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/q9AFez1rY78/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/q9AFez1rY78/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "q9AFez1rY78"
+      },
+      {
+        "title": "AI 寫完電郵仲要自己 copy？Composio 幫 AI Agent 接駁 Gmail、Slack、Notion",
+        "published": "2026-11-20T11:24:58+00:00",
+        "url": "https://www.youtube.com/watch?v=mh1wBPHNzWU",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mh1wBPHNzWU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mh1wBPHNzWU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mh1wBPHNzWU"
+      },
+      {
+        "title": "AI 影片點樣冇 AI 味？4K 短片 5 個做法，近鏡都唔穿崩｜Seedance 2.5 × Higgsfield 教學 (廣東話)",
+        "published": "2026-11-20T10:06:37+00:00",
+        "url": "https://www.youtube.com/watch?v=RzjvzIEo4aI",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RzjvzIEo4aI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RzjvzIEo4aI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RzjvzIEo4aI"
+      },
+      {
+        "title": "寫 Reel 唔使次次由零開始？Claude 開源內容 Skills：hook、script、caption",
+        "published": "2026-11-18T10:25:01+00:00",
+        "url": "https://www.youtube.com/watch?v=dFNu9NDLJSs",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dFNu9NDLJSs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dFNu9NDLJSs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dFNu9NDLJSs"
+      },
+      {
+        "title": "AI Agent 教學：中小企請個 WhatsApp AI 員工，閂咗電腦都 24 小時報價｜Hermes Agent (廣東話)",
+        "published": "2026-11-18T09:30:27+00:00",
+        "url": "https://www.youtube.com/watch?v=E87SAXdVVCk",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/E87SAXdVVCk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/E87SAXdVVCk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "E87SAXdVVCk"
+      },
+      {
+        "title": "唔想開鏡點拍 Shorts？AI 分身用你個樣同把聲講廣東話，抄爆款｜Higgsfield Shorts 教學",
+        "published": "2026-11-17T09:52:50+00:00",
+        "url": "https://www.youtube.com/watch?v=0hvJyMWzzLs",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/0hvJyMWzzLs/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/0hvJyMWzzLs/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "0hvJyMWzzLs"
+      },
+      {
+        "title": "Claude 唔使次次重新教？Anthropic 開源職能插件：Sales、Marketing、Data",
+        "published": "2026-11-16T10:52:08+00:00",
+        "url": "https://www.youtube.com/watch?v=kKcxVAX8rgQ",
+        "topic": "Open source / tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/kKcxVAX8rgQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/kKcxVAX8rgQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "kKcxVAX8rgQ"
+      },
+      {
+        "title": "Muse AI 香港教學： 免費私人 AI Agent 幫我記還款、查月費、搶平機票，但佢知道咗我幾多？",
+        "published": "2026-11-16T09:30:24+00:00",
+        "url": "https://www.youtube.com/watch?v=wuUo3jA9n4Q",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wuUo3jA9n4Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wuUo3jA9n4Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wuUo3jA9n4Q"
+      },
+      {
+        "title": "網店賣斷貨先知要補？Google Sheet 自動計補貨數量（開源系統）",
+        "published": "2026-11-13T09:18:52+00:00",
+        "url": "https://www.youtube.com/watch?v=YU4fnp2rjIg",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/YU4fnp2rjIg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/YU4fnp2rjIg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "YU4fnp2rjIg"
+      },
+      {
+        "title": "Claude Fable 5.2 vs Opus 5.5 香港實測：貴一倍值唔值？一人公司、中小企用邊個",
+        "published": "2026-11-12T15:48:00+00:00",
+        "url": "https://www.youtube.com/watch?v=wvDm952Qx7M",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wvDm952Qx7M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wvDm952Qx7M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wvDm952Qx7M"
+      },
+      {
+        "title": "一人公司點用 Claude？6 大部門建立 AI 工作系統",
+        "published": "2026-11-11T03:49:55+00:00",
+        "url": "https://www.youtube.com/watch?v=OWB8_wVcEms",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/OWB8_wVcEms/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/OWB8_wVcEms/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "OWB8_wVcEms"
+      },
+      {
+        "title": "唔係聊天框，係工作台！Tesla 年報細字 3 樣嘢，AI 1 分鐘揾晒美股分析 | 免費1000 Credits！Anvita Mate 教學（廣東話）",
+        "published": "2026-11-06T09:54:05+00:00",
+        "url": "https://www.youtube.com/watch?v=bF2jeyW8NOc",
+        "topic": "Finance / investing",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/bF2jeyW8NOc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/bF2jeyW8NOc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "bF2jeyW8NOc"
+      },
+      {
+        "title": "AI 短劇點樣拍出嚟？零經驗 3 步拍套港式廣東話版｜Higgsfield 教學（廣東話）",
+        "published": "2026-11-05T09:57:36+00:00",
+        "url": "https://www.youtube.com/watch?v=rzlMUzNNuck",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/rzlMUzNNuck/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/rzlMUzNNuck/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "rzlMUzNNuck"
+      },
+      {
+        "title": "AI 幫老闆睇數？34 個 AI Skill，幫 SME 老闆追數、睇現金流",
+        "published": "2026-11-05T07:04:48+00:00",
+        "url": "https://www.youtube.com/watch?v=H2OEqDlNZhw",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/H2OEqDlNZhw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/H2OEqDlNZhw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "H2OEqDlNZhw"
+      },
+      {
+        "title": "Grok Bot 教學：一人公司、中小企由零砌 4 個 24/7 AI 員工，自己分工接單，30 美金起（廣東話）",
+        "published": "2026-11-01T21:30:14+00:00",
+        "url": "https://www.youtube.com/watch?v=Qv9Nz9n-DLM",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Qv9Nz9n-DLM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Qv9Nz9n-DLM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Qv9Nz9n-DLM"
+      },
+      {
+        "title": "唔請演員都拍到 30 秒廣東話街訪？七格分鏡叫 AI 出片｜Kling 4.0 教學｜Higgsfield (廣東話)",
+        "published": "2026-10-31T03:00:08+00:00",
+        "url": "https://www.youtube.com/watch?v=6U-7urpdbmU",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6U-7urpdbmU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6U-7urpdbmU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6U-7urpdbmU"
+      },
+      {
+        "title": "AI Agent 教學：一個網址，一個鐘出度身 pitch＋產品廣告，10 個客照用｜BytePlus Seedance 2.5 x Codex實測（廣東話）",
+        "published": "2026-10-30T09:30:24+00:00",
+        "url": "https://www.youtube.com/watch?v=fECtiMXYCdc",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fECtiMXYCdc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fECtiMXYCdc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fECtiMXYCdc"
+      },
+      {
+        "title": "9 個 AI 影片模型 - 邊個廣東話最好、性價比最高？實測 Kling 4.0, Seedance 2.5 及一眾熱門模型 ｜Higgsfield（廣東話）",
+        "published": "2026-10-29T10:58:09+00:00",
+        "url": "https://www.youtube.com/watch?v=-Jw3p8n1i0Q",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/-Jw3p8n1i0Q/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/-Jw3p8n1i0Q/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "-Jw3p8n1i0Q"
+      },
+      {
+        "title": "3 個 AI Agents 幫我搵工同接 freelance | 搵新Job、寫 Proposal、捉大話 | Indeed ＋ Upwork 實測（MiniMax Code 教學・廣東話）",
+        "published": "2026-10-26T09:30:21+00:00",
+        "url": "https://www.youtube.com/watch?v=P3sTA_ADhq8",
+        "topic": "Career / AI side hustle",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/P3sTA_ADhq8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/P3sTA_ADhq8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "P3sTA_ADhq8"
+      },
+      {
+        "title": "（觀看遺漏片段）第2級：Hermes Agent 自架 AI 員工教學｜自己養 AI 員工，24 小時幫你做嘢！(廣東話)",
+        "published": "2026-10-26T05:29:59+00:00",
+        "url": "https://www.youtube.com/watch?v=erUqdTz3Y0c",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/erUqdTz3Y0c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/erUqdTz3Y0c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "erUqdTz3Y0c"
+      },
+      {
+        "title": "一人公司請咗個 AI 配音員：用我把聲講英文韓文｜Fish Audio 教學 （廣東話）",
+        "published": "2026-10-24T03:00:36+00:00",
+        "url": "https://www.youtube.com/watch?v=coKF2WPfhPE",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/coKF2WPfhPE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/coKF2WPfhPE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "coKF2WPfhPE"
+      },
+      {
+        "title": "六大 AI Agent 邊隻啱你？香港人揀 Agent 懶人包 - 附自己 host OpenClaw / Hermes 教學（廣東話）",
+        "published": "2026-10-22T09:30:17+00:00",
+        "url": "https://www.youtube.com/watch?v=IBWvTPs_xFw",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IBWvTPs_xFw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IBWvTPs_xFw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IBWvTPs_xFw"
+      },
+      {
+        "title": "AI 生成 5 條片，Claude 自己揀鏡頭剪成快剪片！AI剪輯幕後全拆解 【Higgsfield Katana 教學】（廣東話）",
+        "published": "2026-10-19T09:31:15+00:00",
+        "url": "https://www.youtube.com/watch?v=sCvbK3xfuNU",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sCvbK3xfuNU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sCvbK3xfuNU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sCvbK3xfuNU"
+      },
+      {
+        "title": "ChatGPT 教學：AI 員工出廣告，邊啲交俾 AI？邊 3 樣要自己 check？｜Higgsfield（廣東話）",
+        "published": "2026-10-17T03:00:33+00:00",
+        "url": "https://www.youtube.com/watch?v=F8au5Fw0uZo",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/F8au5Fw0uZo/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/F8au5Fw0uZo/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "F8au5Fw0uZo"
+      },
+      {
+        "title": "AI Influencer 教學：唔請 KOL，AI 代言人一小時出齊日常片同廣告｜ Higgsfield（廣東話）",
+        "published": "2026-10-15T09:30:08+00:00",
+        "url": "https://www.youtube.com/watch?v=BPLYoSv-n7c",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BPLYoSv-n7c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BPLYoSv-n7c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BPLYoSv-n7c"
+      },
+      {
+        "title": "Gemini 教學： AI 員工學識 6 個 Skills，幫你清 inbox、出 slide、催人覆 ｜Spark 都岩用 (廣東話)",
+        "published": "2026-10-14T09:31:03+00:00",
+        "url": "https://www.youtube.com/watch?v=JfhhE9Ah2Yg",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/JfhhE9Ah2Yg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/JfhhE9Ah2Yg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "JfhhE9Ah2Yg"
+      },
+      {
+        "title": "冇請人！中小企必學：成隊 AI 員工照抄外國大機構吸客｜Atoms (AI Agent 廣東話教學)",
+        "published": "2026-10-12T09:30:27+00:00",
+        "url": "https://www.youtube.com/watch?v=Y2I5U7u-FUc",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Y2I5U7u-FUc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Y2I5U7u-FUc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Y2I5U7u-FUc"
+      },
+      {
+        "title": "中小企必學 - AI用嘅第二大腦 ：手機講一次就記住，熄機都做野 | Hermes Agent 實測（廣東話 AI 教學）",
+        "published": "2026-10-10T03:00:27+00:00",
+        "url": "https://www.youtube.com/watch?v=dn0eaVmqB9M",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/dn0eaVmqB9M/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/dn0eaVmqB9M/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "dn0eaVmqB9M"
+      },
+      {
+        "title": "一人公司必學 Hermes Agent 教學：唔使寫 Code，TG 叫 AI 小編出齊 FB, IG, Threads (廣東話)",
+        "published": "2026-10-07T09:30:12+00:00",
+        "url": "https://www.youtube.com/watch?v=4KqYwEueJD8",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4KqYwEueJD8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4KqYwEueJD8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4KqYwEueJD8"
+      },
+      {
+        "title": "一人公司必學「24/7 AI 秘書」：唔靠 LLM 做決定，成本低100倍｜Hermes Agent + Jev 實測（廣東話 AI 教學）",
+        "published": "2026-10-03T03:00:27+00:00",
+        "url": "https://www.youtube.com/watch?v=IzW3JEKOC0E",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/IzW3JEKOC0E/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/IzW3JEKOC0E/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "IzW3JEKOC0E"
+      },
+      {
+        "title": "唔好逐句問 AI！一人公司如何建立 SKILL 做個人品牌？Claude Opus 5.5 幫你一小時做十個素材（廣東話）",
+        "published": "2026-09-30T09:30:36+00:00",
+        "url": "https://www.youtube.com/watch?v=SLtrQbK1OqY",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/SLtrQbK1OqY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/SLtrQbK1OqY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "SLtrQbK1OqY"
+      },
+      {
+        "title": "你個 AI 淨係識講？幫佢加對手 (API)，叫 Codex 起個 AI Studio｜Higgsfield API 教學",
+        "published": "2026-09-28T13:43:55+00:00",
+        "url": "https://www.youtube.com/watch?v=lHMP7fa-_b8",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lHMP7fa-_b8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lHMP7fa-_b8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lHMP7fa-_b8"
+      },
+      {
+        "title": "學識 MCP，所有 AI agent 都通｜Gemini Spark 接 Notion 實測教學（廣東話）",
+        "published": "2026-09-26T03:00:16+00:00",
+        "url": "https://www.youtube.com/watch?v=kupAAc3Q6B8",
+        "topic": "AI tooling / MCP",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/kupAAc3Q6B8/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/kupAAc3Q6B8/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "kupAAc3Q6B8"
+      },
+      {
+        "title": "一人公司點打造 AI 內容團隊？1 個總編＋3 個 Agents＋1 塊 Kanban 板（Hermes Agent  | 廣東話 AI 自動化教學）",
+        "published": "2026-09-24T09:30:19+00:00",
+        "url": "https://www.youtube.com/watch?v=3kVEJIBhkt4",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/3kVEJIBhkt4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/3kVEJIBhkt4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "3kVEJIBhkt4"
+      },
+      {
+        "title": "一人公司點做 Marketing：用 AI 砌一套12 件嘅廣告，拆俾你睇（ChatGPT x Higgsfield・AI 教學・廣東話）",
+        "published": "2026-09-22T17:02:49+00:00",
+        "url": "https://www.youtube.com/watch?v=PBUyLalMFuc",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/PBUyLalMFuc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/PBUyLalMFuc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "PBUyLalMFuc"
+      },
+      {
+        "title": "我叫 GPT-6 Astra  自己開 After Effects 砌 Motion Graphics｜Higgsfield AI 教學（廣東話）",
+        "published": "2026-09-19T08:15:03+00:00",
+        "url": "https://www.youtube.com/watch?v=V55KrL4xIIc",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/V55KrL4xIIc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/V55KrL4xIIc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "V55KrL4xIIc"
+      },
+      {
+        "title": "我整咗個識 13 種 Skills 嘅 24/7 AI 投資分析師：唔使寫 Code，一條免費 Connector 搞掂（Claude 實測・廣東話）",
+        "published": "2026-09-16T09:30:07+00:00",
+        "url": "https://www.youtube.com/watch?v=UL7d2g-pSfc",
+        "topic": "Finance / investing",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UL7d2g-pSfc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UL7d2g-pSfc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UL7d2g-pSfc"
+      },
+      {
+        "title": "GPT-6 Astra 喺 Higgsfield 出 4 條廣告：一張產品相、四個世界、一個女主角（廣東話 AI 教學）",
+        "published": "2026-09-15T14:16:35+00:00",
+        "url": "https://www.youtube.com/watch?v=5wy1SZhG0BE",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/5wy1SZhG0BE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/5wy1SZhG0BE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "5wy1SZhG0BE"
+      },
+      {
+        "title": "我用 GPT-6 Astra 同 Higgsfield 出咗條廣告片，Astra 自己畀咗個 Fail｜AI 生成影片實測（廣東話）",
+        "published": "2026-09-11T12:05:35+00:00",
+        "url": "https://www.youtube.com/watch?v=lptbISoL858",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lptbISoL858/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lptbISoL858/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lptbISoL858"
+      },
+      {
+        "title": "Buzz 教學｜請兩個 AI 同事住喺你個 Chat：Claude Code & Codex 自己交接出提案 | 一人公司必學 AI Agent（廣東話）",
+        "published": "2026-09-10T12:45:09+00:00",
+        "url": "https://www.youtube.com/watch?v=gSwbCNiAaTU",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/gSwbCNiAaTU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/gSwbCNiAaTU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "gSwbCNiAaTU"
+      },
+      {
+        "title": "香港人用 AI 唔使 VPN，仲要免費？騰訊新 AI 全球第 7｜Hy4 Preview 只輸 GPT-6 3.4 分（廣東話）",
+        "published": "2026-09-10T02:14:55+00:00",
+        "url": "https://www.youtube.com/watch?v=wi7F0wQLmYg",
+        "topic": "Tech / AI commentary",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wi7F0wQLmYg/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wi7F0wQLmYg/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wi7F0wQLmYg"
+      },
+      {
+        "title": "三分鐘駁通 Claude ＋ Blender ＋ Higgsfield：鎖死每個鏡頭，Seedance 2.5 跟足四段運鏡（免費 Plugin 教學・廣東話）",
+        "published": "2026-09-09T11:16:21+00:00",
+        "url": "https://www.youtube.com/watch?v=a3nNIfdmMHI",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/a3nNIfdmMHI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/a3nNIfdmMHI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "a3nNIfdmMHI"
+      },
+      {
+        "title": "換走你條片入面幾乎任何嘢：2 條手機片出 6 條廣告，動作一模一樣｜Higgsfield Genjutsu AI 影片教學（廣東話）",
+        "published": "2026-09-08T12:18:50+00:00",
+        "url": "https://www.youtube.com/watch?v=9OCfC1c-KzY",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/9OCfC1c-KzY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/9OCfC1c-KzY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "9OCfC1c-KzY"
+      },
+      {
+        "title": "一人公司分身術｜我用 4 個 AI Agent，15 分鐘搞掂美容院預約收錢系統｜Vibe Coding 教學 | Atoms（廣東話）",
+        "published": "2026-09-03T10:02:37+00:00",
+        "url": "https://www.youtube.com/watch?v=cFW88nELz0o",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/cFW88nELz0o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/cFW88nELz0o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "cFW88nELz0o"
+      },
+      {
+        "title": "一人公司必學 Gemini Spark 教學｜Google 24/7 AI Agent 自動化，熄機都做嘢（廣東話）",
+        "published": "2026-08-26T10:48:49+00:00",
+        "url": "https://www.youtube.com/watch?v=fSur4XA08GY",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/fSur4XA08GY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/fSur4XA08GY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "fSur4XA08GY"
+      },
+      {
+        "title": "【ChatGPT Work 教學】30 分鐘學懂 9 成 AI Agent 應用｜一人公司 AI 自動化（廣東話）",
+        "published": "2026-08-20T09:30:30+00:00",
+        "url": "https://www.youtube.com/watch?v=wL8rrO5mMAc",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wL8rrO5mMAc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wL8rrO5mMAc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wL8rrO5mMAc"
+      },
+      {
+        "title": "AI 剪片實測｜新手都出到專業級廣告片！我用 Codex 重做，結果！？｜Higgsfield × Codex 教學（廣東話)",
+        "published": "2026-08-17T09:31:44+00:00",
+        "url": "https://www.youtube.com/watch?v=Vid1coeIask",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Vid1coeIask/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Vid1coeIask/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Vid1coeIask"
+      },
+      {
+        "title": "AI 廣告影片生成教學 | 產品+分鏡+生成+後製｜學懂 Codex & Flova AI、一人公司唔使剪片師（廣東話 ）",
+        "published": "2026-08-14T09:30:23+00:00",
+        "url": "https://www.youtube.com/watch?v=lpsR4XaNP3c",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/lpsR4XaNP3c/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/lpsR4XaNP3c/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "lpsR4XaNP3c"
+      },
+      {
+        "title": "【Codex 教學】一張產品相變 IG 短片 | AI剪片 唔使開剪映 | 一人公司 | AI 自動化 HyperFrames (廣東話）",
+        "published": "2026-08-07T09:30:18+00:00",
+        "url": "https://www.youtube.com/watch?v=U_FOINNbWqw",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/U_FOINNbWqw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/U_FOINNbWqw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "U_FOINNbWqw"
+      },
+      {
+        "title": "【Codex 教學】請唔起人？打造你的AI員工：幫你起網站 + 自動跟報價｜一人公司 AI 自動化（廣東話）",
+        "published": "2026-08-04T09:51:51+00:00",
+        "url": "https://www.youtube.com/watch?v=Hy_krrNpqKw",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Hy_krrNpqKw/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Hy_krrNpqKw/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Hy_krrNpqKw"
+      },
+      {
+        "title": "【ChatGPT 教學 - 進階】最新最全 | 4個隱藏技巧＋新功能 ChatGPT Work 教學 - 自動幫你做嘢  | 免費都用到（廣東話 ）",
+        "published": "2026-07-27T09:30:21+00:00",
+        "url": "https://www.youtube.com/watch?v=o7AUbq28-Ss",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/o7AUbq28-Ss/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/o7AUbq28-Ss/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "o7AUbq28-Ss"
+      },
+      {
+        "title": "【Hermes Agent 教學】取消 ChatGPT、棄養 OpenClaw : 用 $84 請個 24/7 嘅 AI 員工 (零Code)｜廣東話",
+        "published": "2026-07-24T09:30:00+00:00",
+        "url": "https://www.youtube.com/watch?v=mPywsCF8l8o",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/mPywsCF8l8o/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/mPywsCF8l8o/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "mPywsCF8l8o"
+      },
+      {
+        "title": "【Genspark AI 教學】AI Agent 自動做哂 報告+簡報+電郵｜ChatGPT 做唔到，定要轉 Manus？（2026 廣東話）",
+        "published": "2026-07-08T09:30:07+00:00",
+        "url": "https://www.youtube.com/watch?v=AGTAyXbpO64",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AGTAyXbpO64/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AGTAyXbpO64/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AGTAyXbpO64"
+      },
+      {
+        "title": "【Copilot 教學】30分鐘做哂 Word+Excel+PPT，但用錯版本 慘過白做（廣東話）",
+        "published": "2026-07-01T10:28:58+00:00",
+        "url": "https://www.youtube.com/watch?v=sGbCEtEwFaY",
+        "topic": "AI productivity / Copilot tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/sGbCEtEwFaY/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/sGbCEtEwFaY/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "sGbCEtEwFaY"
+      },
+      {
+        "title": "【AI Agent 教學】Manus AI 完整入門｜2026 最快上手嘅 AI Agent 工具｜慳一半 Credits（廣東話）",
+        "published": "2026-06-11T09:30:23+00:00",
+        "url": "https://www.youtube.com/watch?v=Q6YcRIQotoI",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Q6YcRIQotoI/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Q6YcRIQotoI/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Q6YcRIQotoI"
+      },
+      {
+        "title": "【Claude 註冊教學】又被封號？教香港人如何選擇LLM: 一次解鎖 Claude/ChatGPT/Gemini（廣東話）",
+        "published": "2026-06-04T09:30:00+00:00",
+        "url": "https://www.youtube.com/watch?v=082N1uD-M0U",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/082N1uD-M0U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/082N1uD-M0U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "082N1uD-M0U"
+      },
+      {
+        "title": "【Claude Code 教學】8 分鐘生成品牌 IG Carousel｜廣東話",
+        "published": "2026-05-20T10:39:25+00:00",
+        "url": "https://www.youtube.com/watch?v=LY-x5b0mWJQ",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/LY-x5b0mWJQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/LY-x5b0mWJQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "LY-x5b0mWJQ"
+      },
+      {
+        "title": "【NotebookLM 教學】6個必學隱藏用法：配 Gemini Canvas 10分鐘由資料變網站（廣東話）",
+        "published": "2026-05-13T08:00:32+00:00",
+        "url": "https://www.youtube.com/watch?v=o3jlxoVa_1g",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/o3jlxoVa_1g/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/o3jlxoVa_1g/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "o3jlxoVa_1g"
+      },
+      {
+        "title": "【Cowork 教學】你已經畀緊 $20 但完全冇用過嘅 Claude 功能，一人公司請 3 個 AI 員工（廣東話）",
+        "published": "2026-05-05T11:10:44+00:00",
+        "url": "https://www.youtube.com/watch?v=UFY-KYWjEg0",
+        "topic": "AI Agent / productivity",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/UFY-KYWjEg0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/UFY-KYWjEg0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "UFY-KYWjEg0"
+      },
+      {
+        "title": "【 Gemini 教學 】睇完呢支 你係辦公室最識用 AI 嘅人 ( 廣東話 )",
+        "published": "2026-04-23T09:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=BRXKuaCWDVQ",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/BRXKuaCWDVQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/BRXKuaCWDVQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "BRXKuaCWDVQ"
+      },
+      {
+        "title": "【Opal + NotebookLM 教學】客戶 Brief 到 Proposal 只需 10 分鐘｜Freelancer AI 教學（廣東話）",
+        "published": "2026-04-10T10:19:33+00:00",
+        "url": "https://www.youtube.com/watch?v=Llz_QchAJ1U",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Llz_QchAJ1U/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Llz_QchAJ1U/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Llz_QchAJ1U"
+      },
+      {
+        "title": "【AI 自動化教學】Make.com + Perplexity + OpenAI：小編工作流一次過搞掂（make.com 模版免費送） | 廣東話",
+        "published": "2026-03-30T09:45:00+00:00",
+        "url": "https://www.youtube.com/watch?v=Kd0gxhCnP0Y",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/Kd0gxhCnP0Y/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/Kd0gxhCnP0Y/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "Kd0gxhCnP0Y"
+      },
+      {
+        "title": "【Google Workspace 教學】Gemini AI 半日做完三日嘢，Gmail / Sheets / Meet 完整工作流（廣東話）",
+        "published": "2026-03-27T13:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=KGDkf9Hch-0",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/KGDkf9Hch-0/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/KGDkf9Hch-0/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "KGDkf9Hch-0"
+      },
+      {
+        "title": "【Make.com 教學】AI 每日自動幫網站寫 10 篇行業新聞，SME 慳 2 小時（make.com 模版免費送）| 廣東話",
+        "published": "2026-03-24T09:52:58+00:00",
+        "url": "https://www.youtube.com/watch?v=82Px9G8NFWU",
+        "topic": "AI automation / Make tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/82Px9G8NFWU/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/82Px9G8NFWU/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "82Px9G8NFWU"
+      },
+      {
+        "title": "【AI 影片教學】ChatGPT + Kling + Minimax 廣東話配音，AI 分身唔走樣（2026 廣東話）",
+        "published": "2026-03-19T09:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=caprdo__uwk",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/caprdo__uwk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/caprdo__uwk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "caprdo__uwk"
+      },
+      {
+        "title": "【Google Antigravity 教學】一人公司做完整 Funnel：Landing Page + 免費工具 + AB Test（廣東話）",
+        "published": "2026-03-12T09:02:12+00:00",
+        "url": "https://www.youtube.com/watch?v=K_WKdyhRgmA",
+        "topic": "AI coding / dev tools",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/K_WKdyhRgmA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/K_WKdyhRgmA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "K_WKdyhRgmA"
+      },
+      {
+        "title": "【Gemini Gems 教學】AI 扮最挑剔客戶找 5 個文案弱點，成交率翻倍｜Gemini 教學 廣東話（廣東話）",
+        "published": "2026-03-06T08:58:15+00:00",
+        "url": "https://www.youtube.com/watch?v=6eLIzcPalsA",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/6eLIzcPalsA/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/6eLIzcPalsA/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "6eLIzcPalsA"
+      },
+      {
+        "title": "【Gemini Gems 教學】一人公司 5 個 AI 分身，靠對手負評做爆滿課程｜Gemini 教學 廣東話（廣東話）",
+        "published": "2026-03-06T08:58:02+00:00",
+        "url": "https://www.youtube.com/watch?v=yGTpz9oRYkk",
+        "topic": "AI tools / Gemini tutorial",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/yGTpz9oRYkk/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/yGTpz9oRYkk/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "yGTpz9oRYkk"
+      },
+      {
+        "title": "【AI 影片教學】眼神飄 + 嘴型歪一眼睇穿？AI 分身 3 步免費修正（Sora 2 / Veo 3.1 / Kling 廣東話實測）",
+        "published": "2026-03-04T09:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=wNbKPmPWmd4",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/wNbKPmPWmd4/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/wNbKPmPWmd4/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "wNbKPmPWmd4"
+      },
+      {
+        "title": "【Google Opal 教學】30秒起 4 個 AI Workflow，AI 教學 香港打工仔每週慳 5 小時（廣東話）",
+        "published": "2026-02-23T09:00:48+00:00",
+        "url": "https://www.youtube.com/watch?v=uzQ31sJd0jQ",
+        "topic": "AI automation / workflow",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/uzQ31sJd0jQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/uzQ31sJd0jQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "uzQ31sJd0jQ"
+      },
+      {
+        "title": "【AI 视频制作教學】2026 揀邊個？7 大工具「免費真相」+ 自動化實測（廣東話）",
+        "published": "2026-02-01T07:30:00+00:00",
+        "url": "https://www.youtube.com/watch?v=WG3THJ8UDzQ",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WG3THJ8UDzQ/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WG3THJ8UDzQ/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "WG3THJ8UDzQ"
+      },
+      {
+        "title": "【NotebookLM 教學】出 PPT 其實係 PDF？5 招變真正可編輯 PPTX（10 分鐘廣東話）",
+        "published": "2026-01-23T07:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=RQULAlyVsNc",
+        "topic": "AI tools / generative AI",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/RQULAlyVsNc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/RQULAlyVsNc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "RQULAlyVsNc"
+      }
+    ]
+  },
+  {
+    "channel_name": "大将申",
+    "handle": "@大将申",
+    "channel_id": "UC_wGqS6wEH-h3mcxwK7rI-A",
+    "channel_url": "https://www.youtube.com/@大将申",
+    "videos": [
+      {
+        "title": "【オリジナルSFアニメ】宇宙戦艦 サイクロプス EP03「それぞれの針路」 | Concept Film",
+        "published": "2026-11-18T16:35:38+00:00",
+        "url": "https://www.youtube.com/watch?v=2tSF6G2BB94",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/2tSF6G2BB94/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/2tSF6G2BB94/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "2tSF6G2BB94"
+      },
+      {
+        "title": "【EP03施工中】発進準備、完了。｜宇宙戦艦サイクロプス",
+        "published": "2026-11-02T17:54:48+00:00",
+        "url": "https://www.youtube.com/watch?v=WkwnoMNgsNE",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/WkwnoMNgsNE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/WkwnoMNgsNE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "WkwnoMNgsNE"
+      },
+      {
+        "title": "艦長！70万回再生＆登録者8,000人突破です！｜宇宙戦艦サイクロプス #shorts  #conceptfilm",
+        "published": "2026-10-20T17:44:21+00:00",
+        "url": "https://www.youtube.com/watch?v=AOLGQvv-VKM",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/AOLGQvv-VKM/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/AOLGQvv-VKM/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "AOLGQvv-VKM"
+      },
+      {
+        "title": "【オリジナルSFアニメ】宇宙戦艦 サイクロプス EP02「残光の翼」｜Concept Film",
+        "published": "2026-10-16T12:08:06+00:00",
+        "url": "https://www.youtube.com/watch?v=EiSmW66_SEE",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/EiSmW66_SEE/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/EiSmW66_SEE/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "EiSmW66_SEE"
+      },
+      {
+        "title": "【オリジナルSFアニメ】宇宙戦艦 サイクロプス EP01「残光の彼方」｜Concept Film",
+        "published": "2026-09-26T13:45:20+00:00",
+        "url": "https://www.youtube.com/watch?v=4_MHPT5CzHc",
+        "topic": "AI video / generative media",
+        "thumbnail_maxres": "https://i.ytimg.com/vi/4_MHPT5CzHc/maxresdefault.jpg",
+        "thumbnail_hq": "https://i.ytimg.com/vi/4_MHPT5CzHc/hqdefault.jpg",
+        "local_thumb": null,
+        "video_id": "4_MHPT5CzHc"
       }
     ]
   }
